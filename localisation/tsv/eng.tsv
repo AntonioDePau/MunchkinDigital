@@ -1,0 +1,1392 @@
+#_	_
+button.back	Back
+settings.gameplay.title	Gameplay
+settings.video.resolution	Resolution
+tutorial.advanced.separator	Advanced Tutorials
+button.newtag	NEW
+gameoptions.timer.slow	Async
+gameoptions.timer.fast	Live
+multiplayer.globalchat	Global Chat
+button.account	Account
+login.title.change.user	Change User
+changepassword.title	Change Password
+login.logoutbutton	Log Out
+friends.removefreind	Remove Friend
+friends.addfriend	Add Friend
+friends.invitefriends.button	Invite Friend
+friends.invitefriends.send	Send
+singleplayer.header.label	Challenges
+button.no	No
+button.yes	Yes
+prompt.continuesaved.desc	You have a saved game in progress. Would you like to continue that game or delete it and start a new one?
+prompt.continuesaved.title	Continue Game
+prompt.continuesaved.buttonnewgame	New Game
+button.continue	Continue
+login.title.create.account	Create Account
+login.email	Email
+createaccount.screenname	Screen Name
+login.password	Password
+createaccount.reenterpassword	Re-enter Password
+button.cancel	Cancel
+button.close	Close
+direbytes.header	Dire Wolf News
+direbytes.none	No Direwolf News
+direbytes.link	Link
+direbytes.store	Store
+button.commit	Commit
+button.submit	Submit
+settings.feedback	Feedback
+settings.feedback.email.placeholder	Email
+settings.feedback.placeholder	Enter issue here. Please include your game mode when applicable.
+settings.feedback.send	Send
+settings.feedback.sendlogs	Send Logs
+login.forgotpassword	Forgot Password
+login.forgotpassword.reset	Reset
+friends.title	Friends
+playonline.optionheader.password	Password
+savedgames.joingame	Join Game
+button.ok	Ok
+button.tutorial	Tutorial
+mainmenu.localplay	Local Play
+mainmenu.onlineplay	Online Play
+button.shop	Shop
+button.quit	Quit Game
+mainmenu.leaderboards	Leaderboards
+leaderboards.friendsonly	Friends Only
+prompt.leaderboard.score.label	Score
+prompt.leaderboard.rank.label	Rank
+prompt.leaderboard.name.label	Name
+login.title.log.in	Log In
+settings.login	Log In
+login.create.account	Create Account
+changepassword.oldpassword	Old Password
+changepassword.newpassword	New Password
+multiplayer.gotogame	Go to Game
+multiplayer.playonline	Online Play
+multiplayer.showpasswordgames	Show Password Games
+multiplayer.activetab	Active
+lobby.nogames.label	No Games
+multiplayer.browsertab	Browser
+multiplayer.columntimer	Timer
+multiplayer.columnname	Name
+multiplayer.columnbanned	Banned
+multiplayer.columnplayers	Players
+gameoptions.creategame	Create Game
+gameoptions.startgame	Start Game
+gameoptions.joingame	Join Game
+button.rules	Rules
+settings.gen.title	General
+settings.video.title	Video
+settings.audio.title	Audio
+settings.pc.windowed	Windowed
+settings.pc.vsync	VSync
+settings.video.quality	Quality
+settings.audio.musicvolume	Music Volume
+settings.audio.effectsvolume	Effects Volume
+settings.languages	Languages
+settings.eula	EULA
+solooptions.singleplayer	Challenges
+solooptions.play	Solo Play
+multiplayer.passandplay	Pass and Play
+appirater.header	Rate the App
+appirater.body	Enjoying Root?  Please, take a moment to rate it.
+appirater.ratebutton	Rate the App
+appirater.remindbutton	Remind me Later
+appirater.rejectbutton	No Thanks
+playonline.confirmresign	Are you sure you want to resign from this match?
+settings.pc.confirmation.body	Do you want to keep these display settings? Reverting to previous settings in {0} seconds.
+friends.category.invites	Invites
+friends.category.online	Online
+friends.category.offline	Offline
+friends.category.count.label	({0})
+store.restorepurchaseserror.default	
+dialogmessages.resetpassword.info	Check your email for further instructions.
+lobby.timerdisplay.hoursformat	{0}h
+lobby.timerdisplay.minsformat	{0}m
+lobby.timerdisplay.daysformat	{0}d
+playonline.cpuplayer.label	AI
+playonline.waitingplayer.label	<color=#858585>Waiting for player</color>
+playonline.joinedplayer.label	<color=#FFFF00>{0}</color>
+playonline.availablegames.game	{0}'s Game
+waitingforplayers.timer.label	Turn time limit: {0}
+waitingforplayers.aidifficulty.label	AI Difficulty: {0}
+gameoptions.aidifficultyeasy	Easy
+gameoptions.aidifficultymedium	Medium
+gameoptions.aidifficultyhard	Hard
+waitingforplayers.invalideplayerstate	An error occurred. Please try again.
+dialogmessages.lobbyended.message	The lobby you were viewing no longer exists.
+playsolo.match.startfailure	Could not load game.
+prompts.gameresults.title	End of Game
+dialogmessages.feedback.success	Thank you for the feedback.
+prompttitles.generic.success	Success
+singleplayer.difficulty.label	Difficulty: {0}
+singleplayer.difficulty.easy	Normal
+singleplayer.difficulty.medium	Heroic
+singleplayer.difficulty.hard	
+quitapplication.confirm.message	Are you sure you want to quit?
+login.loggedinas	Logged in as: {0}
+friends.invitationsent	Invitation Sent!
+friends.areyousure	Are you sure?
+dialogmessages.invitefriend.success	Invitation sent!
+login.error.invalidemail	Error: Invalid Email
+login.error.invalidusername	Error: Invalid Username
+login.error.invalidpassword	Error: Password must be at least 6 characters and contain both letters and numbers.
+login.error.passwordmismatch	Error: Passwords do not match
+prompts.loginfailure.nocredentials	
+prompts.loginfailure.eulanotaccepted	Please accept EULA to log in.
+dialogmessages.login.errors.upgradeclient	Unable to log in, please make sure your client is up to date
+dialogmessages.login.errors.couldnotconnect	Could not connect to authorization server, please try again later.
+dialogmessages.login.errors.gatewaydown	Could not connect to gateway.
+dialogmessages.login.errors.ipbanned	Could not connect from this IP.
+dialogmessages.login.errors.maintenance	Could not connect, server is in maintenance.
+dialogmessages.login.errors.serverfull	Could not connect, servers are full at this time.
+network.checkconnection	Check your network connection.
+dialogmessages.login.errors.default	Could not log in at this time.
+dialogmessages.registration.thanksnewaccount	Thank you for registering!
+dialogmessages.registration.toomanyrequests	Too many requests, please try again in 15 minutes.
+dialogmessages.registration.authunavailable	Could not connect to authorization server, please try again later.
+dialogmessages.registration.failure	Could not create account:
+ {0}
+code.redeem.equip.immediate	
+dialogmessages.continuegame.playeractivationfailure	
+match.start.failure	Match failed to load
+multiplayer.matchremoved	This match no longer exists.
+multiplayer.matchresigned.2	You've been resigned from your match with {0}.
+multiplayer.matchresigned.3	You've been resigned from your match with {0} and {1}.
+multiplayer.matchresigned.4	You've been resigned from your match with {0}, {1}, and {2}.
+multiplayer.matchresigned.5	You've been resigned from your match with {0}, {1}, {2}, and {3}.
+multiplayer.matchresigned.6	You've been resigned from your match with {0}, {1}, {2}, {3}, and {4}.
+dialogmessages.resignfromgame.failure	Unable to resign from game. Check your network connection.
+rankedselect.errors.connectfailed	Your connection has timed out. Please check your internet connection and try again.
+dialogmessages.feedback.timeout	There was an error sending your feedback.
+dialogmessages.leaderboard.failure	Couldn't retrieve Scoreboard at this time.
+dialogmessages.addfriend.accountnotfound	Error sending friend invitation: Account Not Found.
+dialogmessages.addfriend.invitefailure	Error sending friend invitation.
+dialogmessages.acceptfriend.failure	Error accepting friend invitation.
+dialogmessages.cancelfriendrequest.failure	Error cancelling friend request.
+dialogmessages.removefriend.failure	Error removing friend.
+dialogmessages.invitefriend.failure	Could not send invitation, please try again later.
+disconnect.timeout	Connection Timed Out
+disconnect.idletimeout	You were disconnected due to inactivity. Players who go three action windows without responding will be removed from the game and replaced with an AI.
+dialogmessages.changepassword.success	Successfully Changed Your Password.
+dialogmessages.passwordpolicy	Your password must be at least 6 characters, have a capitalized letter, and contain both letters and numbers.
+dialogmessages.login.errors.invalidlogin	Invalid email or password.
+dialogmessages.continuegame.failure	Couldn't connect to game. Error: {0}
+disconnect.defaultreason	Lost Connection to the server
+challenges.startgame	Start Game
+addfriend.addplayername	Player Name or Email
+button.accept	Accept
+button.invite	Invite
+online.lobbypassword.enter	Enter Lobby Password
+button.exit	Exit
+settings.audio.mute	Mute
+header.campaign	Campaign
+game.over.prompt.confirm	Leave Game
+settings.pc.graphics.high	High
+settings.pc.graphics.medium	Medium
+settings.pc.graphics.low	Low
+account.error.usernametaken	Account already exists
+mainmenu.friends	Friends
+settings.title	Settings
+friends.invite	Invite
+friends.removefriend	Remove Friend
+friends.game.invite.accept	Accept
+friends.game.invite.decline	Decline
+friends.cancelrequest	Cancel
+button.next	Next
+landing.grm	Open Dire Wolf Game Room App
+settings.clientversion	Client Version:
+settings.serverversion	Server Version:
+button.saveandquit	Save and Exit
+settings.resign	Resign
+landing.achievements.gc	Achievements
+button.mainmenu	Main Menu
+button.replay	Replay
+button.resign	Resign
+lobby.resign.confirmation	Are you sure you want to resign from this match?
+player.unsetperson	Waiting for player...
+player.localperson	You
+button.skip	Skip
+dialogmessages.registration.nointernet	No Internet Access
+playonline.error.wrongpassword	Password Incorrect
+playonline.error.waitingoncasual	You are already waiting on another async game to start.
+playonline.error.cannotcreatelivegame	You are already waiting in another live game lobby.
+playonline.error.cannotcreateasyncgame	You are already waiting in another async game lobby.
+block.player	Block Player
+multiplayer.blockplayer	Blocking {0} will hide their messages. This action cannot be undone.
+multiplayer.reportplayer	{0} has been blocked. Would you like to report this player?
+multiplayer.reportplayer.describe	Please describe why you are reporting {0}.
+multiplayer.reportplayer.reason.abusive	Abusive or Inappropriate Chat Messages
+multiplayer.reportplayer.reason.inappropriateusername	Inappropriate Username
+multiplayer.reportplayer.reason.griefing	Griefing or Intentional Slow Play
+multiplayer.reportplayer.reason.cheating	Suspected Cheating or Botting
+name.ai.easy	AI (Easy)
+name.ai.medium	AI (Medium)
+name.ai.hard	AI (Hard)
+button.createfriendgame	Create Friend Game
+playonline.yourturn	It's Your Turn
+multiplayer.yourturn.2	It's your turn to play!
+mainmenu.friendgame	Friend Game
+button.invitefriend	Invite Friend
+player.defaultname	Player
+button.decline	Decline
+button.minimize	Minimize
+button.expand	Expand
+multiplayer.matchchat	Match Chat
+multiplayer.variants	Variants
+prompt.unitdetails.title.monster	Monster Status
+prompt.unitdetails.title.player	Player Status
+prompt.unitdetails.subheader	Cards Applied
+trade.empty.player	Drag your Items here.<br>If left empty, nothing will be offered from your Items.
+trade.empty.partner	Drag their Items here.<br>If left empty, nothing will be offered from their Items.
+trade.theyget	They Get
+trade.iget	I Get
+sell.wontlevel	You cannot sell items to reach level 10.
+sell.youritems	Your Items
+sell.tosell	Items To Sell
+sell.empty	Drag your Items Here.<br><br>Gain 1 level for every {0} gold worth of Items sold.
+kin.level	Level
+prompt.inventory.offertrade	Offer Trade
+prompt.inventory.sellforlevel	Sell For Level
+playmat.battle.askforhelp	Ask For Help
+playmat.battle.runaway	Run Away
+playmat.battle.failed	Failed!
+playmat.battle.success	Success!
+prompt.avatarselection	Avatar Selection
+prompt.showowned	Show Owned
+prompt.sort	Sort
+card.type.class	Class
+card.type.race	Race
+card.type.item	Item
+card.type.item.big	Item - Big
+card.type.item.oneshot	Item - One Shot
+card.type.curse	Curse!
+card.type.special	Special
+card.type.monster	Monster
+card.type.monster.undead	Monster - Undead
+card.type.monsterenhancer	Monster Enhancer
+playmat.battle.win	Attack!
+player.name.self	You
+playonline.offplayer.label	Closed
+login.newaccount	New Account
+playonline.humanplayer.label	Open
+character.race.norace	No Race
+character.race.human	Human
+character.race.dwarf	Dwarf
+character.race.elf	Elf
+character.race.halfling	Halfling
+character.class.noclass	No Class
+character.class.none	No Class
+character.class.cleric	Cleric
+character.class.thief	Thief
+character.class.warrior	Warrior
+character.class.wizard	Wizard
+button.emote	Emote
+placement.1st	1st
+placement.2nd	2nd
+placement.3rd	3rd
+placement.4th	4th
+placement.5th	5th
+placement.6th	6th
+button.done	Done
+gen.one	One
+gen.two	Two
+gen.three	Three
+prompt.inventory.configure	Configure
+equip.armor	Armor
+equip.headgear	Headgear
+equip.footgear	Footgear
+equip.onehand	One Handed
+equip.twohand	Two Handed
+equip.twohandbig	Two Handed Big
+equip.oneshot	One Shot
+prompt.tradeoffer.togive	For Your Items
+prompt.tradeoffer.toreceive	{0} Offers
+prompt.tradeoffer.header	Trade Offer
+prompt.tradecomplete.accepted	Trade Accepted
+prompt.tradecomplete.rejected	Trade Rejected
+sell.noitemstosell	You have no items to sell
+deck.door	Door
+deck.treasure	Treasure
+sex.male	Male
+sex.female	Female
+prompt.inventory.equipped	Equipped
+prompt.inventory.carried	Carried
+prompt.inventory.inhand	In Hand
+prompt.inventory.raceclass	Race / Class
+button.block	Block
+prompt.unequip.header	Choose Items
+prompt.replaceclass.header	Replace a Class
+prompt.replacerace.header	Replace a Race
+prompt.lootthebody.header	Loot the Body
+prompt.played	Played
+prompt.readylivegame	Your live game is ready. Because turn timers are short, you must go there now or resign.
+prompt.discard.header	Discard
+dragtarget.drophere	Drop Here
+dragtarget.usenow	Use Now
+dragtarget.addundead	Add Undead to Combat
+prompt.stealcard.header	Steal Card
+prompt.choosecard.header	Choose Card
+prompt.chooseplayer.header	Choose Player
+prompt.choosemanyplayers.header	Choose Players
+prompt.killhireling.header	Kill Hireling
+prompt.choosediscardpile.header	Draw From Pile
+button.confirm	Confirm
+emote.curses	Curses!
+emote.incredible	Incredible!
+emote.help	I'm having a hard time here...
+emote.unplanned	Well that didn't go as planned...
+emote.wellplayed	Well played
+emote.run	Better run!
+prompt.general.or	or
+prompt.reportplayer.dropdown	Select your reason for reporting
+prompt.discarded	Discarded
+prompt.gave	Given To {0}
+prompt.stole	Stolen by {0}
+button.distract	Distract
+kin.killnose	Kill the Nose
+button.wave	Walk Past
+button.scare	Booga Booga
+button.bribe	Bribe
+button.ignorefight	Ignore Fight
+prompt.cursed	Got Cursed
+prompt.cheat.header	Cheat!
+button.reconnect	Reconnect
+match.askforhelp.failed	Help Declined
+playonline.error.cannotjoingame	You are already waiting on another game to start.
+gameoptions.endturnjumpin	End Turn Jump-In Allowed
+prompt.title.tradedfor	Traded For
+prompt.used	Used
+button.mustaccept	OK
+prompt.sold	Sold
+kin.deckshuffle.door	Door Deck Shuffled
+kin.deckshuffle.treasure	Treasure Deck Shuffled
+auto.update.body	An update is available.
+auto.update.body.forced	An update is required to continue.
+auto.update.confirm	Update
+button.reject	Reject
+deck.door.top	Door Top Card
+deck.treasure.top	Treasure Top Card
+card.type.monster.baby	Monster - Baby
+card.type.monster.baby.undead	Monster - Baby Undead
+prompt.looted	Looted by {0}
+dialogmessages.addfriend.inviteexists	Invite already sent to this user.
+login.deleteaccountbutton	Delete Account
+deleteaccount.confirm.message	Are you sure you want to delete your account?
+deleteaccount.complete.message	Check your email to complete the account deletion.
+deleteaccount.failed.message	A network error has prevented you from deleting your account. Try again later.
+playonline.error.gamefull	This game is full.
+dialogmessages.continuegame.failure.gameended	Game has ended for having no remaining human players
+kin.combat.rewards.draft.pick	Pick [pick]: Select a Card
+equip.armorbig	Armor Big
+equip.onehandbig	One Handed Big
+equip.slotlessbig	Big
+multiplayer.gamecompleted.1	Your game with {0} is complete. View the results?
+multiplayer.gamecompleted.2	Your game with {0} and {1} is complete. View the results?
+multiplayer.gamecompleted.3	Your game with {0}, {1}, and {2} is complete. View the results?
+multiplayer.gamecompleted.4	Your game with {0}, {1}, {2}, and {3} is complete. View the results?
+multiplayer.gamecompleted.5	Your game with {0}, {1}, {2}, {3} and {4} is complete. View the results?
+multiplayer.gamecompleted.6	Your game with {0}, {1}, {2}, {3}, {4}, and {5} is complete. View the results?
+prompt.gave.too.big	Given To {0} because they had too many big items.
+kin.event.revived	Revived
+test.ops.key	test.ops.key
+base.door.50de36e5-d3ba-4bd6-abe2-694c8f1c2d7e.name	Plutonium Dragon
+base.door.278b4940-f066-4019-a0e5-4f9a5cc09f0e.name	Mr. Bones
+base.door.51ae062a-ebff-11ec-8ea0-0242ac120002.name	Change Class
+base.door.2cdcfcbf-228b-46b9-851e-6d5ba05f8300.name	Change Race
+base.door.171641c6-ba97-425c-8b65-9d5a04105a04.name	Change Sex
+base.door.1c9f4659-bc94-4904-ad2c-7cf9b733c88c.name	Chicken On Your Head
+base.door.4e2b9d92-2841-4ba8-ac42-8cfe1ab6b519.name	Duck of Doom
+base.door.c72b235c-c758-427e-a882-e21aa0a8d351.name	Income Tax
+base.door.fd91affd-27ba-4d0c-88b3-bb4313c440cf.name	Lose a Big Item
+base.door.1c83481f-ed9e-4e3f-9d78-72e527693ff7.name	Lose a Level
+base.door.217b04bf-e9b0-4878-b1cd-4f9122239913.name	Lose a Level
+base.door.d6fd9095-d91a-42f3-9004-98181b10eaf0.name	Lose a Small Item
+base.door.e9f354fb-0267-487b-a4dc-2709b65c870d.name	Lose a Small Item
+base.door.4a26cc13-09e9-4366-97f3-70a176a6c9bc.name	Lose Armor
+base.door.2df75f0c-19e7-42c4-b978-7d41a0042dde.name	Lose Headgear
+base.door.4d904b4c-d13a-4112-875a-35cfceaede54.name	Lose Footgear
+base.door.be74d2ee-5455-425d-93ea-dbb443ea778a.name	Lose Two Cards
+base.door.25b06508-10aa-43de-a3c7-24880b8afd72.name	Lose Your Class
+base.door.d5183d93-4f22-4aa2-a6fb-bacb6fa1d33e.name	Lose Your Race
+base.door.e0be0f5f-0724-4d82-b577-c55ff5b74839.name	Malign Mirror
+base.door.b42aff04-6ff2-41c2-af92-637b283b8ea5.name	Truly Obnoxious Curse!
+base.door.2413c379-f721-42d6-aca8-e1fb7eb9011f.name	Cleric
+base.door.5705ed95-b87d-4cc0-9daf-f6382be734a8.name	Thief
+base.door.7ff31d6d-05bd-4b10-bae9-fe18ba7ea087.name	Warrior
+base.door.388e4af8-ba44-4715-9962-455838bfbe73.name	Wizard
+base.door.b1cc599b-1ab0-4980-ad9a-f99882647fb0.name	Super Munchkin
+base.door.ff722a55-5407-439d-b7af-57f633e0dbf3.name	Dwarf
+base.door.9fa924db-5b36-4831-9f6e-de8303b001b0.name	Elf
+base.door.d9952bfe-f65d-4d46-881a-7e1a2e46f06f.name	Halfling
+base.door.4e25e9b2-f39b-426e-9fc0-134d00226b98.name	Half-Breed
+base.door.a3f1f98e-27d1-4bd5-b97f-203a89114790.name	Bullrog
+base.door.e93e7b43-62bd-4ab3-be4c-506c8a6a621c.name	Squidzilla
+base.door.8ab95f50-2c7a-4e6b-ae43-51a51b64b5d3.name	Hippogriff
+base.door.afed7786-e2e9-4ca2-a0a6-d30d6df3702b.name	King Tut
+base.door.cd3f3f05-8317-450c-86e4-fd91e0c06bb4.name	Wight Brothers
+base.door.af48c486-1888-4e7e-ad55-0b48d227af3c.name	Insurance Salesman
+base.door.65dee751-4508-4804-8faa-b17fa9c4ed79.name	Stoned Golem
+base.door.aa5584c1-fd5d-49a5-8cc0-75f3422c8e6a.name	Unspeakably Awful Indescribable Horror
+base.door.37b667a1-23ac-4a5f-9427-afff2dad4705.name	Bigfoot
+base.door.4977fc4f-66df-40a6-b5ca-562bb4c8b112.name	Tongue Demon
+base.door.3ee0b351-54f2-4480-9aa3-380d2593e84a.name	Wannabe Vampire
+base.door.55e5c91e-a987-4900-abec-0f502175288a.name	3,872 Orcs
+base.door.db29801c-5fe4-4a6c-9e41-35752d1a36bb.name	Floating Nose
+base.door.43b16c0e-49ac-4688-8db8-5737cbd50eef.name	Net Troll
+base.door.3fb5c60b-98a1-4775-b7b7-7c02910732f2.name	Amazon
+base.door.4d052f9a-2def-4ab8-b100-fde850b71507.name	Gazebo
+base.door.88716968-ead5-4473-9db2-85b9e9f69ef0.name	Ghoulfiends
+base.door.6832d810-5af2-40f9-9877-0dfe91d808f2.name	Face Sucker
+base.door.79d7e37c-ad44-460e-a1e9-e65bceeaed00.name	Lawyers
+base.door.ef2c8c7e-3043-46a6-ba47-c69ab67f7f2f.name	Platycore
+base.door.739ed395-dbbd-4108-92c3-4cbfd317e9c5.name	Pukachu
+base.door.83ddfb20-2791-40bb-ba58-c051ae2eae9c.name	Shrieking Geek
+base.door.2f0b14f5-4aab-4855-b9c6-3a340349af8a.name	Harpies
+base.door.4a0ad1cf-01bf-423a-9328-e983d188032f.name	Leperchaun
+base.door.f906cf16-5a1a-422c-b3fa-9ec583e54c4e.name	Snails on Speed
+base.door.63df5d66-f885-4e54-94f7-2cf4e1a8b8d0.name	Undead Horse
+base.door.b9d66767-ceee-47bb-a428-691cb557c716.name	Flying Frogs
+base.door.cc935bfb-40a1-42c0-9c14-d89f91662971.name	Gelatinous Octahedron
+base.door.53f277b6-ed4b-498d-a582-a2d31c38bf52.name	Large Angry Chicken
+base.door.93a5ec2f-ee7f-4654-a28d-fcf045fa0f97.name	Pit Bull
+base.door.25586aec-1ac3-4b4b-9c9a-bead276efac1.name	Crabs
+base.door.96f29253-b3f9-483f-8028-2e96e2aa519f.name	Drooling Slime
+base.door.da9241e2-ed86-4ee1-9a5b-637c95598d4d.name	Lame Goblin
+base.door.e013dc7b-77a6-458c-af20-30de04317cc0.name	Maul Rat
+base.door.6bcc1629-aaea-409b-9dbc-7fe53576d6a6.name	Potted Plant
+base.door.db4f0e50-a540-4f28-bf8c-cc3eef7d8110.name	Ancient
+base.door.bf631030-1e99-4ccc-ae8f-a538a9038c0b.name	Baby
+base.door.07501f59-6c5a-41fb-99be-e6b0706e001d.name	Enraged
+base.door.45814a37-7d87-4333-8e69-3068628f2474.name	Humongous
+base.door.b6ec7ed3-9676-42c9-a55b-f5803f12470d.name	Intelligent
+base.door.b95cafbd-d581-43ff-a08b-39979135b256.name	Mate
+base.door.efa6fd1e-5308-467c-ae0e-2db9ccfe211a.name	Wandering Monster
+base.door.db238a1c-81ef-4b02-8bc2-4dcb50577ab3.name	Cheat!
+base.door.68e54c25-7e83-4c13-ab9a-13d1381d5850.name	Divine Intervention
+base.door.8cf2ebf1-610d-448e-a5f6-76f4c73d8176.name	Help Me Out Here!
+base.door.04774ddc-83e9-48a2-b1ed-3ae630e511b3.name	Illusion
+base.door.47b91b62-624d-4543-a0da-50e55cf47a56.name	Out To Lunch
+base.door.50de36e5-d3ba-4bd6-abe2-694c8f1c2d7e.text	Will not pursue anyone of Level 5 or below.
+base.door.278b4940-f066-4019-a0e5-4f9a5cc09f0e.text	If you must flee, you lose a level even if you escape.
+base.door.51ae062a-ebff-11ec-8ea0-0242ac120002.text	If you have no Class now, this curse has no effect. Otherwise, go back through the discard pile, starting with the top discard. The first Class card you come to replaces your current Class(es). If you go through the discards without finding a Class card, you just lose your own Class(es).
+base.door.2cdcfcbf-228b-46b9-851e-6d5ba05f8300.text	If you have no Race now, this curse has no effect. Otherwise, go back through the discard pile, starting with the top discard. The first Race card you come to replaces your current Race(s). If you go through the discards without finding a Race card, you just lose your own Race(s).
+base.door.171641c6-ba97-425c-8b65-9d5a04105a04.text	-5 to your next combat due to distraction. After that, there is no further penalty. However, the change is permanent.
+base.door.1c9f4659-bc94-4904-ad2c-7cf9b733c88c.text	-1 to all your die rolls. Any Curse or Bad Stuff that removes your Headgear will take the chicken with it.
+base.door.4e2b9d92-2841-4ba8-ac42-8cfe1ab6b519.text	You should know better than to pick up a duck in a dungeon. Lose two levels.
+base.door.c72b235c-c758-427e-a882-e21aa0a8d351.text	Discard one Item of your choice. Every other player must now discard an Item, or Items, totaling at least as much value as the Item you discarded. If they don’t have enough to pay the full tax, they must discard all their Items and lose a level.
+base.door.fd91affd-27ba-4d0c-88b3-bb4313c440cf.text	Choose one Big item to discard.
+base.door.1c83481f-ed9e-4e3f-9d78-72e527693ff7.text	Lose a Level
+base.door.d6fd9095-d91a-42f3-9004-98181b10eaf0.text	Choose one Small Item to discard. Any Item that is not designated Big is Small.
+base.door.4a26cc13-09e9-4366-97f3-70a176a6c9bc.text	Lose the Armor You Are Wearing
+base.door.2df75f0c-19e7-42c4-b978-7d41a0042dde.text	Lose the Headgear You Are Wearing
+base.door.4d904b4c-d13a-4112-875a-35cfceaede54.text	Lose the Footgear You Are Wearing
+base.door.be74d2ee-5455-425d-93ea-dbb443ea778a.text	First the player after the victim in turn order draws a card from the victim's hand and keeps it. Then the player before the victim in turn order does the same.
+base.door.25b06508-10aa-43de-a3c7-24880b8afd72.text	Discard your Class card, if you have one. If you have two Classes in play, lose one of them (your choice). If you have no Class, lose a level.
+base.door.d5183d93-4f22-4aa2-a6fb-bacb6fa1d33e.text	Discard any Race(s) you have in play and become a Human.
+base.door.e0be0f5f-0724-4d82-b577-c55ff5b74839.text	You are cursed! In your next fight (only), you may not get any bonuses from Items other than Armor. A Wishing Ring, used before the next fight, will lift the curse.
+base.door.b42aff04-6ff2-41c2-af92-637b283b8ea5.text	Lose the Item That Gives You the Biggest Bonus
+base.door.2413c379-f721-42d6-aca8-e1fb7eb9011f.text	<b>Resurrection:</b> When it is time for you to draw cards face-up, you may instead take some or all from the top of the appropriate <i>discard</i> pile.<br>You must then discard one card from your hand for each card so drawn.<br><b>Turning:</b> You may discard up to three cards in combat against an Undead creature. Each discard gives you a +3 bonus.
+base.door.fe64f0ce-af63-467d-8ad1-0ee7ddbc344f.text	<b>Resurrection:</b> When it is time for you to draw cards face-up, you may instead take some or all from the top of the appropriate <i>discard</i> pile.<br>You must then discard one card from your hand for each card so drawn.<br><b>Turning:</b> You may discard up to three cards in combat against an Undead creature. Each discard gives you a +3 bonus.
+base.door.ca594201-bd83-4215-8b5a-88f5359bd827.text	<b>Resurrection:</b> When it is time for you to draw cards face-up, you may instead take some or all from the top of the appropriate <i>discard</i> pile.<br>You must then discard one card from your hand for each card so drawn.<br><b>Turning:</b> You may discard up to three cards in combat against an Undead creature. Each discard gives you a +3 bonus.
+base.door.5705ed95-b87d-4cc0-9daf-f6382be734a8.text	<b>Backstabbing:</b> You may discard a card to backstab another player (-2 in combat). You may do this only once per victim per combat, but if two players are fighting a monster together, you may backstab each of them.<br><b>Theft:</b> You may discard a card to try to steal a small Item carried by another player. Roll a die; 4 or more succeeds. Otherwise, you get whacked and lose a level.
+base.door.6f8d05dd-10e6-41b3-813b-a74d4afa2a62.text	<b>Backstabbing:</b> You may discard a card to backstab another player (-2 in combat). You may do this only once per victim per combat, but if two players are fighting a monster together, you may backstab each of them.<br><b>Theft:</b> You may discard a card to try to steal a small Item carried by another player. Roll a die; 4 or more succeeds. Otherwise, you get whacked and lose a level.
+base.door.a6ebc11c-6d9a-462c-b8e9-b2ec5e2d0222.text	<b>Backstabbing:</b> You may discard a card to backstab another player (-2 in combat). You may do this only once per victim per combat, but if two players are fighting a monster together, you may backstab each of them.<br><b>Theft:</b> You may discard a card to try to steal a small Item carried by another player. Roll a die; 4 or more succeeds. Otherwise, you get whacked and lose a level.
+base.door.7ff31d6d-05bd-4b10-bae9-fe18ba7ea087.text	<b>Berserking:</b> You may discard up to three cards in combat; each one gives you a +1 bonus.<br>You win ties in combat.
+base.door.08bbdd74-a5bb-4150-980a-63ffb491e787.text	<b>Berserking:</b> You may discard up to three cards in combat; each one gives you a +1 bonus.<br>You win ties in combat.
+base.door.094b1e99-e8e3-4111-8ad7-6d9f57c62bc4.text	<b>Berserking:</b> You may discard up to three cards in combat; each one gives you a +1 bonus.<br>You win ties in combat.
+base.door.388e4af8-ba44-4715-9962-455838bfbe73.text	<b>Flight Spell:</b> You may discard up to three cards after rolling the die to Run Away; each one gives you a +1 bonus to flee.<br><b>Charm Spell:</b> You may discard your whole hand (minimum three cards) to charm a single Monster instead of fighting it. Discard the Monster and take its Treasure, but don’t gain levels. If there are other monsters in the combat, fight them normally.
+base.door.dda0c66f-0b6b-40dc-bd2c-4f0728c8089a.text	<b>Flight Spell:</b> You may discard up to three cards after rolling the die to Run Away; each one gives you a +1 bonus to flee.<br><b>Charm Spell:</b> You may discard your whole hand (minimum three cards) to charm a single Monster instead of fighting it. Discard the Monster and take its Treasure, but don’t gain levels. If there are other monsters in the combat, fight them normally.
+base.door.3427143b-61fc-4317-a299-6c5333462a70.text	<b>Flight Spell:</b> You may discard up to three cards after rolling the die to Run Away; each one gives you a +1 bonus to flee.<br><b>Charm Spell:</b> You may discard your whole hand (minimum three cards) to charm a single Monster instead of fighting it. Discard the Monster and take its Treasure, but don’t gain levels. If there are other monsters in the combat, fight them normally.
+base.door.b1cc599b-1ab0-4980-ad9a-f99882647fb0.text	You may have two Class cards, and have all of the advantages <i>and</i> disadvantages of each. Or you may have one Class card and have all of its advantages and <i>none</i> of its disadvantages (for example, monsters that hate Clerics will have no bonus against a Super Cleric).<br>Lose this card if you lose your Class card(s).
+base.door.26a21bc0-e8c9-49df-b088-67d1232fb7b6.text	You may have two Class cards, and have all of the advantages <i>and</i> disadvantages of each. Or you may have one Class card and have all of its advantages and <i>none</i> of its disadvantages (for example, monsters that hate Clerics will have no bonus against a Super Cleric).<br>Lose this card if you lose your Class card(s).
+base.door.ff722a55-5407-439d-b7af-57f633e0dbf3.text	You can carry any number of Big items.<br>You can have six cards in your hand.
+base.door.11906a8f-4622-47bd-91ba-a6f5bedb0e5d.text	You can carry any number of Big items.<br>You can have six cards in your hand.
+base.door.2faaf8ea-2915-42dc-a71a-91f7ef6c2b9f.text	You can carry any number of Big items.<br>You can have six cards in your hand.
+base.door.9fa924db-5b36-4831-9f6e-de8303b001b0.text	+1 to Run Away.<br>You go up one level for every monster you <i>help someone else</i> kill.
+base.door.df82e0d2-07a4-47aa-b6cb-0a0281a2f2cc.text	+1 to Run Away.<br>You go up one level for every monster you <i>help someone else</i> kill.
+base.door.3b6f7658-e53f-4713-b447-16785e3eb036.text	+1 to Run Away.<br>You go up one level for every monster you <i>help someone else</i> kill.
+base.door.d9952bfe-f65d-4d46-881a-7e1a2e46f06f.text	You may sell one Item each turn for double price (other Items are at normal price).<br>If you fail your initial Run Away roll, you may discard a card and try once more.
+base.door.97567e5e-96cf-4ddb-9112-2fce279a0138.text	You may sell one Item each turn for double price (other Items are at normal price).<br>If you fail your initial Run Away roll, you may discard a card and try once more.
+base.door.6e83b590-71df-48b3-acdc-481e1a2be7fe.text	You may sell one Item each turn for double price (other Items are at normal price).<br>If you fail your initial Run Away roll, you may discard a card and try once more.
+base.door.4e25e9b2-f39b-426e-9fc0-134d00226b98.text	You may have two Race cards, and have all the advantages <i>and</i> disadvantages of each. Or you may have one Race card and have all of its advantages and <i>none</i> of its disadvantages (for example, monsters that hate Elves will have no bonus against a half-Elf). Lose this card if you lose your Race card(s).
+base.door.bf201553-be7c-4479-a7a0-9cc417588198.text	You may have two Race cards, and have all the advantages <i>and</i> disadvantages of each. Or you may have one Race card and have all of its advantages and <i>none</i> of its disadvantages (for example, monsters that hate Elves will have no bonus against a half-Elf). Lose this card if you lose your Race card(s).
+base.door.a3f1f98e-27d1-4bd5-b97f-203a89114790.text	Will not pursue anyone of Level 4 or below.<br>If you defeat this monster on your turn, gain an extra level.
+base.door.e93e7b43-62bd-4ab3-be4c-506c8a6a621c.text	Slimy! Elves are at -4! Will not pursue anyone of Level 4 or below <i>except Elves</i>.
+base.door.8ab95f50-2c7a-4e6b-ae43-51a51b64b5d3.text	Will not pursue anyone of Level 3 or below.<br>If you defeat this monster on your turn, gain an extra level.
+base.door.afed7786-e2e9-4ca2-a0a6-d30d6df3702b.text	Will not pursue anyone of Level 3 or below. Higher-Level characters lose two levels, <i>even if they escape</i>.<br>If you defeat this monster on your turn, gain an extra level.
+base.door.cd3f3f05-8317-450c-86e4-fd91e0c06bb4.text	Will not pursue anyone of Level 3 or below. Higher-Level characters lose two levels, <i>even if they escape</i>.<br>If you defeat this monster on your turn, gain an extra level.
+base.door.af48c486-1888-4e7e-ad55-0b48d227af3c.text	Your Level does not count. Fight him only with your bonuses!
+base.door.65dee751-4508-4804-8faa-b17fa9c4ed79.text	You may choose whether to fight the Stoned Golem or just wave, walk past and let him keep his treasure. (<b>Exception:</b> Halflings look tasty and must fight.)
+base.door.aa5584c1-fd5d-49a5-8cc0-75f3422c8e6a.text	+4 against Warriors.
+base.door.37b667a1-23ac-4a5f-9427-afff2dad4705.text	+3 against Dwarves and Halflings.
+base.door.4977fc4f-66df-40a6-b5ca-562bb4c8b112.text	A creature from Hell. +4 against Clerics. You must discard one item (your choice) <i>before combat</i>.
+base.door.3ee0b351-54f2-4480-9aa3-380d2593e84a.text	Instead of fighting, a Cleric can chase the Wannabe Vampire away just by going “booga booga,” and take all his Treasure. There is no Level increase for this!
+base.door.55e5c91e-a987-4900-abec-0f502175288a.text	+6 against Dwarves, due to ancient grudges.
+base.door.db29801c-5fe4-4a6c-9e41-35752d1a36bb.text	If you don’t want to fight the Floating Nose, you can bribe it with an Item worth at least 200 Gold Pieces, and it will let you go.
+base.door.43b16c0e-49ac-4688-8db8-5737cbd50eef.text	He has no special powers, and he’s really mad about it.
+base.door.3fb5c60b-98a1-4775-b7b7-7c02910732f2.text	Will not attack females; just gives them one Treasure instead.
+base.door.4d052f9a-2def-4ab8-b100-fde850b71507.text	No one can help you. You must face the Gazebo alone.
+base.door.88716968-ead5-4473-9db2-85b9e9f69ef0.text	No Items or other bonuses help against them -- fight with your Level only.
+base.door.6832d810-5af2-40f9-9877-0dfe91d808f2.text	It’s gross! +6 against Elves.
+base.door.79d7e37c-ad44-460e-a1e9-e65bceeaed00.text	Will not attack a Thief (professional courtesy). A Thief encountering a lawyer may instead discard two Treasures and draw two new ones face down.
+base.door.ef2c8c7e-3043-46a6-ba47-c69ab67f7f2f.text	Resists magic. +6 against Wizards.
+base.door.739ed395-dbbd-4108-92c3-4cbfd317e9c5.text	Gain an extra level if you kill it without using help or bonuses.
+base.door.83ddfb20-2791-40bb-ba58-c051ae2eae9c.text	+6 against Warriors.
+base.door.2f0b14f5-4aab-4855-b9c6-3a340349af8a.text	They resist magic. +5 against Wizards.
+base.door.4a0ad1cf-01bf-423a-9328-e983d188032f.text	He’s gross! +5 against Elves.
+base.door.f906cf16-5a1a-422c-b3fa-9ec583e54c4e.text	-2 to Run Away.
+base.door.63df5d66-f885-4e54-94f7-2cf4e1a8b8d0.text	+5 against Dwarves.
+base.door.b9d66767-ceee-47bb-a428-691cb557c716.text	-1 to Run Away.
+base.door.cc935bfb-40a1-42c0-9c14-d89f91662971.text	+1 to Run Away.
+base.door.53f277b6-ed4b-498d-a582-a2d31c38bf52.text	Fried chicken is delicious. Gain an <i>extra</i> level if you kill it with fire or flame.
+base.door.93a5ec2f-ee7f-4654-a28d-fcf045fa0f97.text	If you can’t defeat it, you may distract it (automatic escape) by dropping any wand, pole, or staff. (Fetch, Fido!)
+base.door.25586aec-1ac3-4b4b-9c9a-bead276efac1.text	Cannot be Outrun!
+base.door.96f29253-b3f9-483f-8028-2e96e2aa519f.text	Yucky slime! +4 against Elves.
+base.door.da9241e2-ed86-4ee1-9a5b-637c95598d4d.text	+1 to Run Away.
+base.door.e013dc7b-77a6-458c-af20-30de04317cc0.text	A creature from Hell. +3 against Clerics.
+base.door.6bcc1629-aaea-409b-9dbc-7fe53576d6a6.text	Elves draw an extra Treasure after defeating it.
+base.door.db4f0e50-a540-4f28-bf8c-cc3eef7d8110.text	+10 to Monster<br>Play during any combat. If the monster is defeated, draw two extra Treasures.
+base.door.bf631030-1e99-4ccc-ae8f-a538a9038c0b.text	-5 To Monster<br>Play during any combat. If the monster is defeated, draw one <i>fewer</i> Treasure (minimum of 1).
+base.door.07501f59-6c5a-41fb-99be-e6b0706e001d.text	+5 to Monster<br>Play during any combat. If the monster is defeated, draw one extra Treasure.
+base.door.45814a37-7d87-4333-8e69-3068628f2474.text	+10 to Monster<br>Play during any combat. If the monster is defeated, draw two extra Treasures.
+base.door.b6ec7ed3-9676-42c9-a55b-f5803f12470d.text	+5 to Monster<br>Play during any combat. If the monster is defeated, draw one extra Treasure.
+base.door.b95cafbd-d581-43ff-a08b-39979135b256.text	Another monster appears, of the same Level and with all the same Monster Enhancers. If the monsters are defeated, draw treasure for each and go up levels for each.
+base.door.efa6fd1e-5308-467c-ae0e-2db9ccfe211a.text	Play this card, with a monster from your hand, when someone (including you!) is in combat. Your monster joins the one already fighting – add their combat strengths. If the character(s) must flee, resolve the Run Away attempts separately, <i>in the order the victim chooses.</i>
+base.door.db238a1c-81ef-4b02-8bc2-4dcb50577ab3.text	Play this card with an Item card you have in play, or when you play an Item card from your hand. This Item is legal for you to use even if it otherwise would not be. Discard this card when you lose (sell, etc.) the attached Item.
+base.door.68e54c25-7e83-4c13-ab9a-13d1381d5850.text	You must play this card as soon as you get it.<br>All Clerics immediately go up a level. This can be the winning level. If this card makes you win, you are entitled to mock the other players mercilessly.
+base.door.8cf2ebf1-610d-448e-a5f6-76f4c73d8176.text	Play this card while you are losing a combat. Take one Item from any other player. At the moment you take it, that Item must make the difference between your winning and losing that combat. You may discard something of your own before taking the Item, if you wish.
+base.door.04774ddc-83e9-48a2-b1ed-3ae630e511b3.text	Play this card during any combat. Discard any one monster in this combat, along with any cards that have been played to modify it, and replace with a monster card from your hand.
+base.door.47b91b62-624d-4543-a0da-50e55cf47a56.text	The monster in this room is on break. Play this card during any combat. The player facing the monster(s) discards them all and draws two Treasure cards immediately.
+base.door.50de36e5-d3ba-4bd6-abe2-694c8f1c2d7e.badstuff	You are roasted and eaten. You are dead.<br>If you defeat this monster on your turn, gain an extra level.
+base.door.278b4940-f066-4019-a0e5-4f9a5cc09f0e.badstuff	His bony touch costs you two levels.
+base.door.a3f1f98e-27d1-4bd5-b97f-203a89114790.badstuff	You are flayed to death.
+base.door.e93e7b43-62bd-4ab3-be4c-506c8a6a621c.badstuff	You are grabbed, slimed, crushed, and gobbled. You are dead, dead, dead. Any questions?<br> If you defeat this monster on your turn, gain an extra level.
+base.door.8ab95f50-2c7a-4e6b-ae43-51a51b64b5d3.badstuff	You are stomped and chomped. You drop things as you flee. Starting with the player before you in turn order, each player may take one Treasure card from in front of you or (without looking) from your hand.
+base.door.afed7786-e2e9-4ca2-a0a6-d30d6df3702b.badstuff	Lose all your Items and all cards in your hand.
+base.door.cd3f3f05-8317-450c-86e4-fd91e0c06bb4.badstuff	You are reduced to Level 1.
+base.door.af48c486-1888-4e7e-ad55-0b48d227af3c.badstuff	You buy insurance. Lose 1,000 Gold Pieces’ worth of items. If you don’t have that much, lose all you have.
+base.door.65dee751-4508-4804-8faa-b17fa9c4ed79.badstuff	He has the munchies. He eats you. You’re dead.
+base.door.aa5584c1-fd5d-49a5-8cc0-75f3422c8e6a.badstuff	Unspeakably awful death for anyone but a Wizard. A Wizard merely loses his powers – discard the Wizard card.
+base.door.37b667a1-23ac-4a5f-9427-afff2dad4705.badstuff	Stomps you flat and eats your hat. Lose the Headgear you were wearing.
+base.door.4977fc4f-66df-40a6-b5ca-562bb4c8b112.badstuff	A really disgusting kiss costs you two levels (three for Elves).
+base.door.3ee0b351-54f2-4480-9aa3-380d2593e84a.badstuff	Blocks the door and tells you about <i>his</i> character. Lose three levels.
+base.door.55e5c91e-a987-4900-abec-0f502175288a.badstuff	Roll a die. On a 2 or less, they stomp you to death. Otherwise, lose as many levels as the die shows.
+base.door.db29801c-5fe4-4a6c-9e41-35752d1a36bb.badstuff	It can sniff you out anywhere. If you lose, you <i>cannot</i> flee; nothing will help you. Lose three levels.
+base.door.43b16c0e-49ac-4688-8db8-5737cbd50eef.badstuff	Screws up the game balance by forcing you to let the player(s) of the highest Level take any one Item (each) from you.
+base.door.3fb5c60b-98a1-4775-b7b7-7c02910732f2.badstuff	You have had your butt kicked by a woman. Your macho munchkin pride is lost. Lose your Class(es). If you already had no Class, lose three levels.
+base.door.4d052f9a-2def-4ab8-b100-fde850b71507.badstuff	Lose three levels.
+base.door.88716968-ead5-4473-9db2-85b9e9f69ef0.badstuff	Your Level becomes equal to the lowest Level of any character in play.
+base.door.6832d810-5af2-40f9-9877-0dfe91d808f2.badstuff	When it sucks your face off, your Headgear goes with it. Discard the Headgear you are wearing, and lose a level.
+base.door.79d7e37c-ad44-460e-a1e9-e65bceeaed00.badstuff	He hits you with an injunction. Let each other player draw one card from your hand, starting with the player after you in turn order. Discard any remainder.
+base.door.ef2c8c7e-3043-46a6-ba47-c69ab67f7f2f.badstuff	Either discard your whole hand or lose two levels.
+base.door.739ed395-dbbd-4108-92c3-4cbfd317e9c5.badstuff	Projectile vomiting attack! Discard your whole hand.
+base.door.83ddfb20-2791-40bb-ba58-c051ae2eae9c.badstuff	You become a normal, boring Human. Discard any Race or Class cards in play.
+base.door.2f0b14f5-4aab-4855-b9c6-3a340349af8a.badstuff	Their music is really, really bad. Lose 2 levels.
+base.door.4a0ad1cf-01bf-423a-9328-e983d188032f.badstuff	He takes two items from you – chosen by the players before and after you in turn order.
+base.door.f906cf16-5a1a-422c-b3fa-9ec583e54c4e.badstuff	They steal your treasure. Roll a die and lose that many items or cards in your hand – your choice.
+base.door.63df5d66-f885-4e54-94f7-2cf4e1a8b8d0.badstuff	Kicks, bites, and smells awful. Lose two levels.
+base.door.b9d66767-ceee-47bb-a428-691cb557c716.badstuff	They bite! Lose two levels.
+base.door.cc935bfb-40a1-42c0-9c14-d89f91662971.badstuff	Drop all your Big items.
+base.door.53f277b6-ed4b-498d-a582-a2d31c38bf52.badstuff	Very painful pecking. Lose a level.
+base.door.93a5ec2f-ee7f-4654-a28d-fcf045fa0f97.badstuff	Fang marks in your butt. Lose two levels.
+base.door.25586aec-1ac3-4b4b-9c9a-bead276efac1.badstuff	Discard Armor and <i>all</i> Items worn below the waist.
+base.door.96f29253-b3f9-483f-8028-2e96e2aa519f.badstuff	Discard the Footgear you are wearing. Lose a level if you have no Footgear.
+base.door.da9241e2-ed86-4ee1-9a5b-637c95598d4d.badstuff	He whacks you with his crutch. Lose a level.
+base.door.e013dc7b-77a6-458c-af20-30de04317cc0.badstuff	She whacks you. Lose a level.
+base.door.6bcc1629-aaea-409b-9dbc-7fe53576d6a6.badstuff	None. Escape is automatic.
+monster.thumbnail.rewardlevels	{0} Levels
+monster.thumbnail.treasures	{0} Treasures
+monster.badstuff	<b><i>Bad Stuff:</i></b> {0}
+base.treasure.809a7b83-272b-4f46-9e6e-8b7db792beb6.name	1,000 Gold Pieces
+base.treasure.9ea3a17f-97f6-4aa7-a1c0-a287ce74e8f7.name	Boil an Anthill
+base.treasure.4eef09b0-311c-4a21-bed3-b8b320618218.name	Bribe GM With Food
+base.treasure.0e5c6c75-98ab-4bee-b3d8-98018b63a50d.name	Convenient Addition Error
+base.treasure.53998110-a846-46d9-8e0f-3986f5a3038d.name	Invoke Obscure Rules
+base.treasure.22f8ccc0-072b-4c86-ab72-0d12bec6fe01.name	Kill the Hireling
+base.treasure.11a0ccea-b9ac-4a91-a00e-a6a227da377c.name	Mutilate the Bodies
+base.treasure.b7770f9c-5ec6-40a3-813c-45ecec1758ca.name	Potion of General Studliness
+base.treasure.9957a953-ba2b-4dd6-b74e-a74a0421c672.name	Whine at the GM
+base.treasure.377084fc-4baa-4efa-944b-fd090892c031.name	Bad-Ass Bandana
+base.treasure.eb7c59af-c029-4b93-bf65-1cca669e1d1a.name	Boots of Butt-Kicking
+base.treasure.1c542973-9445-452b-8bb9-c8de9c5e431b.name	Boots of Running Really Fast
+base.treasure.a93afb4f-fc2a-489b-9f94-e5ee450af48f.name	Bow With Ribbons
+base.treasure.f08f4fef-42c6-4b3e-b189-cc5dd37d00a8.name	Broad Sword
+base.treasure.57f25b88-39fc-448c-b345-bcd6f8cf18d9.name	Buckler of Swashing
+base.treasure.0ec11cb6-b54b-4149-907f-c5c593de9f83.name	Chainsaw of Bloody Dismemberment
+base.treasure.b25c2d56-b5b7-4f69-ad18-50218663e904.name	Cheese Grater of Peace
+base.treasure.d2e348c6-1d45-4de2-b4ba-f1b5299594f7.name	Cloak of Obscurity
+base.treasure.9b45cc0d-e712-40df-b3f6-f8367737a241.name	Cotion of Ponfusion
+base.treasure.b7b46f34-6a41-46ec-8931-df8080fc7e91.name	Dagger of Treachery
+base.treasure.572c199d-5ef9-4e96-be7b-1878fc121faf.name	Doppleganger
+base.treasure.b493204a-28ba-4ff5-b17f-22bf0e0241b1.name	Electric Radioactive Acid Potion
+base.treasure.8ff92ccf-abcf-4190-b405-828766f21113.name	Eleven-Foot Pole
+base.treasure.c6fe1a3b-7c10-4703-b4fb-497bb375389f.name	Flaming Armor
+base.treasure.f7cd336c-60b8-4e61-a4fe-cb1e6dce2c39.name	Flaming Poison Potion
+base.treasure.bab711fd-f1c8-4524-8ab4-6ad7ad2a78c4.name	Flask of Glue
+base.treasure.fd24ac44-4967-4a73-b8aa-06079d2b0905.name	Freezing Explosive Potion
+base.treasure.c6a15483-66f3-4dbe-93be-cb1fb252e896.name	Friendship Potion
+base.treasure.89a4bc60-e43e-4145-a2af-a82600c9c261.name	Gentlemen’s Club
+base.treasure.24b6690b-4ac7-4ad0-b8b2-14e93e59d441.name	Hammer of Kneecapping
+base.treasure.960594e9-a865-42ea-ba5a-461f8063681d.name	Helm of Courage
+base.treasure.3dc3ee77-f659-4958-bbad-e96d2150b04e.name	Horny Helmet
+base.treasure.d161d2e4-ac68-4c7b-9717-0622bc3bc9cb.name	Huge Rock
+base.treasure.af149629-7862-46fe-ae34-032d32fe4426.name	Instant Wall
+base.treasure.b2dd96da-6302-4d5d-8f43-e1fb2efb10e4.name	Invisibility Potion
+base.treasure.5f2391a7-e51d-4404-a5ee-f2f9edaa6a2b.name	Kneepads of Allure
+base.treasure.67b44251-96b9-431a-ac9d-f733809e7097.name	Leather Armor
+base.treasure.4e5de80a-9f85-42e7-8cf7-9e226f499824.name	Limburger and<br>Anchovy Sandwich
+base.treasure.63f73b7d-acc0-4122-a612-4840df4d776a.name	Loaded Die
+base.treasure.465e86f2-0caf-40cc-a01d-28009a2aaf4c.name	Mace of Sharpness
+base.treasure.c75e93c1-aa61-4183-b61b-4e6865310279.name	Magic Lamp
+base.treasure.4a31ba6f-b418-4549-91a2-2ff916079b76.name	Magic Missile
+base.treasure.e712b749-e3ea-4d07-9169-72c33baea44f.name	Mithril Armor
+base.treasure.38254fbc-79f9-48fc-ae10-ebe6ee0fbb4d.name	Nasty-Tasting Sports Drink
+base.treasure.a4b9df0f-71ad-4e20-9c61-cc2e6822d44d.name	Pantyhose of Giant Strength
+base.treasure.e0b9571f-352f-4728-b29c-eee1d4870e7b.name	Pointy Hat of Power
+base.treasure.0c2c5abd-aea7-418e-9e9e-a2e19fe3d2ef.name	Pollymorph Potion
+base.treasure.adb879cd-9d2b-408a-bac2-54a0bcad9e18.name	Potion of Halitosis
+base.treasure.89f5f35f-d81e-4a95-8cc5-a9c188522bce.name	Potion of Idiotic Bravery
+base.treasure.ec6ba1d5-3ecf-40a2-82b1-592fc7799d5c.name	Pretty Balloons
+base.treasure.f8f3606d-0532-46bf-aeba-060b370ca22a.name	Rapier of Unfairness
+base.treasure.6677b88d-6f08-49e9-adc0-5125f4549f41.name	Rat on a Stick
+base.treasure.4a44eff7-1d4d-43bc-8994-9d9e0533cfaf.name	Really Impressive Title
+base.treasure.7bc68e56-6b74-4c4e-80f1-d76e7456759b.name	Sandals of Protection
+base.treasure.40c01965-1169-4e05-a1c1-fc8719bb36bf.name	Shield of Ubiquity
+base.treasure.91af4f9b-1ab3-4e6d-a606-ee73d9511354.name	Short Wide Armor
+base.treasure.a7cfecc2-8f03-469c-86d1-eca7abd48563.name	Singing &<br>Dancing Sword
+base.treasure.8ca5bc1d-d31a-404f-8a2c-08d684acb661.name	Sleep Potion
+base.treasure.e40ee953-081e-4b41-b095-0ca9ad681d8a.name	Slimy Armor
+base.treasure.f1a6aaf7-47ca-4952-b46b-b2e9bd5ae27a.name	Sneaky Bastard Sword
+base.treasure.61bb425e-f07a-4db1-87cc-2fc4b8802c51.name	Spiky Knees
+base.treasure.9cc482d6-25ea-4502-bb10-12ed4deff95e.name	Staff of Napalm
+base.treasure.af9daf73-1d23-4ac1-b3c2-88bc10587054.name	Stepladder
+base.treasure.70b796bf-98e7-401d-b36f-e71399a3c403.name	Swiss Army Polearm
+base.treasure.93c7eb95-8657-4ae8-bdb7-21ab2029cbd0.name	Transferral Potion
+base.treasure.d6b481cd-18fc-4de3-a5e3-95f0858bf832.name	Tuba of Charm
+base.treasure.c337a23b-3fa8-4295-96b7-e3706cdba824.name	Wand of Dowsing
+base.treasure.bd195b65-4e6a-4674-aa26-b6562b50a7d2.name	Wishing Ring
+base.treasure.bb8ffb65-35e4-4dcf-9860-af3bd016953b.name	Yuppie Water
+base.treasure.f233b5ea-f811-4ea6-b518-cda41543639a.name	Hireling
+base.treasure.a685c4ed-40a4-4cd8-a640-02aa65d2c768.name	Hoard!
+base.treasure.d45aaf27-559f-488f-a477-d6858bb56fad.name	Steal a Level
+base.treasure.809a7b83-272b-4f46-9e6e-8b7db792beb6.text	Go Up a Level
+base.treasure.9ea3a17f-97f6-4aa7-a1c0-a287ce74e8f7.text	Go Up a Level
+base.treasure.4eef09b0-311c-4a21-bed3-b8b320618218.text	Go Up a Level
+base.treasure.0e5c6c75-98ab-4bee-b3d8-98018b63a50d.text	Go Up a Level
+base.treasure.53998110-a846-46d9-8e0f-3986f5a3038d.text	Go Up a Level
+base.treasure.22f8ccc0-072b-4c86-ab72-0d12bec6fe01.text	Go Up a Level<br>You can use this card only if a Hireling is in play (no matter who owns him). Discard the Hireling.
+base.treasure.11a0ccea-b9ac-4a91-a00e-a6a227da377c.text	Go Up a Level<br>This card can be played only after combat, but it does not have to be your combat.
+base.treasure.b7770f9c-5ec6-40a3-813c-45ecec1758ca.text	Go Up a Level
+base.treasure.9957a953-ba2b-4dd6-b74e-a74a0421c672.text	Go Up a Level<br>You can’t use this if you are currently the highest-Level player, or tied for highest.
+base.treasure.1c542973-9445-452b-8bb9-c8de9c5e431b.text	Gives you +2 to Run Away.
+base.treasure.9b45cc0d-e712-40df-b3f6-f8367737a241.text	Use during any combat. +3 to either side. Usable once only.
+base.treasure.572c199d-5ef9-4e96-be7b-1878fc121faf.text	Summons your exact duplicate, who fights beside you, so you double your combat strength. You may use the Doppleganger only when you are the only player in the combat. Usable once only.
+base.treasure.b493204a-28ba-4ff5-b17f-22bf0e0241b1.text	Use during any combat. +5 to either side. Usable once only.
+base.treasure.f7cd336c-60b8-4e61-a4fe-cb1e6dce2c39.text	Use during any combat. +3 to either side. Usable once only.
+base.treasure.bab711fd-f1c8-4524-8ab4-6ad7ad2a78c4.text	Use when someone successfully escapes a combat for any reason. They must re-roll their escape (even if it was automatic the first time). Usable once only.
+base.treasure.fd24ac44-4967-4a73-b8aa-06079d2b0905.text	Use during any combat. +3 to either side. Usable once only.
+base.treasure.c6a15483-66f3-4dbe-93be-cb1fb252e896.text	Use during any combat. Discard all monsters in the combat. No Treasure is gained, but the player may Loot The Room. Usable once only.
+base.treasure.3dc3ee77-f659-4958-bbad-e96d2150b04e.text	(+3 for Elves)
+base.treasure.af149629-7862-46fe-ae34-032d32fe4426.text	Allows automatic escape, for one or two players, from any fight. Usable once only.
+base.treasure.b2dd96da-6302-4d5d-8f43-e1fb2efb10e4.text	Use when your Run Away roll fails. You escape automatically. Usable once only.
+base.treasure.5f2391a7-e51d-4404-a5ee-f2f9edaa6a2b.text	No player with a Level higher than yours can refuse your request for help against a monster, or even ask for a reward. You cannot gain the winning level in a combat where your helper was compelled by the Kneepads.
+base.treasure.63f73b7d-acc0-4122-a612-4840df4d776a.text	Play after you roll the die, for any reason. Turn the die so the number of your choice is on top. That's your roll.<br>Usable once only.
+base.treasure.c75e93c1-aa61-4183-b61b-4e6865310279.text	You may use the Lamp only on your turn. It summons a genie who makes a single monster vanish, even if you had already failed your Run Away roll and it was about to catch you. If it was the only monster you were facing, you may take its treasure, but you don’t gain a level. Usable once only.
+base.treasure.4a31ba6f-b418-4549-91a2-2ff916079b76.text	Use during any combat. +5 to either side. Usable once only.
+base.treasure.38254fbc-79f9-48fc-ae10-ebe6ee0fbb4d.text	Use during any combat. +2 to either side. Usable once only.
+base.treasure.0c2c5abd-aea7-418e-9e9e-a2e19fe3d2ef.text	Use during any combat. Turns any one monster into a parrot, which flies away, leaving its treasure behind. Usable once only.
+base.treasure.adb879cd-9d2b-408a-bac2-54a0bcad9e18.text	Use during any combat. +2 to either side, or instantly kills the <b>Floating Nose</b>. Usable once only.
+base.treasure.89f5f35f-d81e-4a95-8cc5-a9c188522bce.text	Use during any combat. +2 to either side. Usable once only.
+base.treasure.ec6ba1d5-3ecf-40a2-82b1-592fc7799d5c.text	Play during any combat, for distraction. +5 to either side. Usable once only.
+base.treasure.6677b88d-6f08-49e9-adc0-5125f4549f41.text	Hey, it’s better than nothing!<br>You may discard this Item, even if you are only carrying it, for an automatic escape from any monster of Level 8 or below.
+base.treasure.7bc68e56-6b74-4c4e-80f1-d76e7456759b.text	Curse cards which you draw when kicking open the door have no effect. (Curses cast by other players will still affect you.)
+base.treasure.8ca5bc1d-d31a-404f-8a2c-08d684acb661.text	Use during any combat. +2 to either side. Usable once only.
+base.treasure.93c7eb95-8657-4ae8-bdb7-21ab2029cbd0.text	Play during any combat. Any other player (your choice) fights the monster(s), may ask for help normally, and gets the Treasure and levels if he wins. The original player then resumes his turn, and may Loot The Room whether the combat was won or lost. Usable once only.
+base.treasure.d6b481cd-18fc-4de3-a5e3-95f0858bf832.text	This melodious instrument captivates your foes, giving you +3 to Run Away. If you successfully escape combat, snag a face-down Treasure on your way out.
+base.treasure.c337a23b-3fa8-4295-96b7-e3706cdba824.text	Go through the discards to find any one card you want. Take that card and discard this one. Usable once only.
+base.treasure.bd195b65-4e6a-4674-aa26-b6562b50a7d2.text	Cancels any Curse. Play at any time. Usable once only.
+base.treasure.bb8ffb65-35e4-4dcf-9860-af3bd016953b.text	Use during any combat. Usable once only, and only to help Elves. +2 to each Elf in the battle.
+base.treasure.f233b5ea-f811-4ea6-b518-cda41543639a.text	Allows you to carry and use one extra Item, even if you could not otherwise. If you lose your Hireling, the Item goes, too.<br>You may discard your Hireling for an automatic escape from any monster.<br>Keep this card in front of you, with your treasures.
+base.treasure.a685c4ed-40a4-4cd8-a640-02aa65d2c768.text	Draw three more Treasure cards immediately. They are face-down if you drew this card face-down; otherwise, they are face-up.
+base.treasure.d45aaf27-559f-488f-a477-d6858bb56fad.text	Pick one player to steal a level from. You go up one. He goes down one.
+kin.item.requirements.class.cleric	Usable by Cleric Only
+kin.item.requirements.class.thief	Usable by Thief Only
+kin.item.requirements.class.warrior	Usable by Warrior Only
+kin.item.requirements.class.wizard	Usable by Wizard Only
+kin.item.requirements.race.human	Usable by Human Only
+kin.item.requirements.race.dwarf	Usable by Dwarf Only
+kin.item.requirements.race.elf	Usable by Elf Only
+kin.item.requirements.race.halfling	Usable by Halfling Only
+kin.item.requirements.gender.male	Usable by Males Only
+kin.item.requirements.gender.female	Usable by Females Only
+kin.item.requirements.notclass.cleric	Not Usable by Cleric
+kin.item.requirements.notclass.thief	Not Usable by Thief
+kin.item.requirements.notclass.warrior	Not Usable by Warrior
+kin.item.requirements.notclass.wizard	Not usable by Wizard
+kin.item.requirements.notrace.human	Not usable by Human
+kin.item.requirements.notrace.dwarf	Not usable by Dwarf
+kin.item.requirements.notrace.elf	Not usable by Elf
+kin.item.requirements.notrace.halfling	Not usable by Halfling
+rules.askingforhelp.1	Asking For Help
+rules.askingforhelp.2	If you cannot win a combat on your own, you may ask any other player to help you. If they refuse, you may ask another player, and so on, until they all turn you down or someone helps. Only one player can help you, adding their combat strength to yours. Anyone can play cards to affect your combat, however!<br><br>You’ll probably have to bribe someone to help. You may offer your helper any Item(s) you are currently carrying, or any number of the Treasure cards the monster has. If you offer part of the monster’s Treasure, you must agree whether they pick first, or you pick first, or whatever.<br><br>The special abilities or vulnerabilities of the monster also apply to your helper, and vice versa. For instance, if a Warrior helps you, you will win if your combined total ties that of the monster, and your helper can Berserk and discard cards to add to their combat strength (but only once per combat, not once per monster). If you are facing the Wannabe Vampire and a Cleric helps you, they can chase it away automatically. But if you are facing the Drooling Slime and an Elf helps you, the monster’s combat strength is increased by 4 (unless you, too, are an Elf and the monster’s combat strength has already been increased).<br><br>If someone successfully helps you kill the monster, discard it, draw Treasures (see Rewards, below), and follow any special instructions on the monster card. You level up for each slain monster. Your helper does not go up any levels . . . unless the helper is an Elf, in which case they gain one level for each monster slain. Treasure cards are then distributed according to the agreement you reached.<br><br>A few cards or abilities allow you to compel another player to help you in combat. These abilities do not work if you are fighting for the win – and if you force someone to help and then the fight becomes one for the win, your helper gets to back out without penalty. However, if you voluntarily help someone, you don’t get to back out just because they’re about to win the game – so pay attention!
+rules.askingforhelp.3	Running Away
+rules.askingforhelp.4	If nobody will help you . . . or if somebody tries to help, and your fellow party members interfere so the two of you still cannot win . . . you must Run Away. You don’t get any levels or Treasure. You don’t even get to Loot the Room. And you don’t always escape unharmed . . .Roll the die. You escape on a 5 or more. Some Class and Race abilities and some Treasures make it easier or harder to Run Away from all monsters. And some monsters give you a bonus or penalty to your roll for that monster only.<br><br>If you fail to Run Away from a monster, it does Bad Stuff to you, as described on its card. If you are fleeing from multiple monsters, you roll separately to escape each one, in any order you choose, and suffer Bad Stuff from each one that catches you as soon as it catches you. If two players are cooperating and still can’t defeat the monster(s), they must both Run Away. They roll separately for each monster. The monster(s) CAN catch them both. Once you have resolved all Run Away rolls, discard the monster(s).
+rules.characterstats.1	Character Stats
+rules.characterstats.2	Each character is basically a collection of weapons, armor, and magic items, with three stats: Level, Race, and Class.<br><br>Level: This is a measure of how generally buff and studly you are. When the rules or cards refer to your Level, capitalized, they mean this number. You gain a level when you kill a monster, or when a card says that you do. You can also sell Items to buy levels (see Items).Your Level can never go below 1. However, your combat strength can be negative, if you get hit by a Curse or suffer some other kind of penalty.<br><br>Class: In the base set, characters may be Warriors, Wizards, Thieves, or Clerics. If you have no Class card in front of you, you have no class. Yeah, I know, we did that one already. Each Class has special abilities, shown on the cards. You gain the abilities of a Class the moment you play its card in front of you, and lose them as soon as you discard that card. Some Class abilities are powered by discards. You may discard any card, in play or in your hand, to power a special ability, unless the ability specifies otherwise. See the Class cards for when abilities can be used. You can discard a Class card at any time during your turn, or whenever you have a jump-in window, even during combat: “I don’t wanna be a wizard anymore.” When you discard a Class card, you become classless until you play another Class card. You may not belong to more than one Class at once unless you play the Super Munchkin card.<br><br>Race: In the base set, characters may be Humans, Elves, Dwarves, or Halflings. If you have no Race card in front of you, you are human. Humans have no special abilities. The rules for Classes, above, also apply to Races. You may not belong to more than one Race at once unless you play the Half-Breed card.
+rules.characterstats.3	Super Munchkin and Half-Breed
+rules.characterstats.4	These cards may be played whenever it is legal to play a Class or Race, as long as you have an appropriate card (Class for Super Munchkin, Race for Half-Breed) to attach it to. You cannot have more than one of the same Class or Race card in play at once.<br><br>If you play Super Munchkin with one Class, you get all the advantages of being that Class (the ability to equip Class-only Items, monsters with penalties against that Class suffer those penalties) and none of the disadvantages (you can equip Items forbidden to that Class, and monsters do not get bonuses because of your Class). If the Class has an ability that has a cost, however, you must still pay it – you aren’t that Super! If you play Super Munchkin  while you have two Classes, you have all the normal advantages and disadvantages of both Classes. (All of the above is also true for Half-Breed, just for Races.)
+rules.death.1	Death
+rules.death.2	If you die, you lose all your stuff. You keep your Classes, Races, and Level (and any Curses that were affecting you when you died) – your new character will look just like your old one. If you have Half-Breed or Super Munchkin, keep those as well. Once you have died, you don’t have to Run Away from any remaining monsters.<br><br>Looting The Body: The rest of your cards are presented to other players for looting. Starting with the player with the highest Level, everyone else chooses one card. Once everyone gets one card, discard the rest. If your corpse runs out of cards, tough. Looted cards go into players’ hands. Dead characters cannot receive cards for any reason, not even Charity, and cannot level up or win the game.<br><br>When the next player begins their turn, your newly revived character appears and can help others in combat with your Level and Class or Race abilities . . . but you have no cards, unless you receive Charity or gifts from other players. On your next turn, you draw four face-down cards from each deck and play any legal cards you want to, just as when you started the game. Then your turn continues as normal.
+rules.monsters.1	Monsters
+rules.monsters.2	If drawn face-up, during the Kick Open The Door phase, monsters immediately attack the person who drew them.<br><br>If you get a monster card any other way, it goes into your hand and may be played during your own turn to Look For Trouble, or played to join another player’s fight with the Wandering Monster card. (See Fighting Multiple Monsters)<br><br>Each monster card is a single monster, even if the name on the card is plural.
+rules.monsters.3	Monster Enhancers
+rules.monsters.4	Certain cards, called monster enhancers, raise or lower the combat strength of individual monsters. They also affect the number of Treasures the monsters are worth. Monster enhancers may be played by any player during any combat.<br><br><br>All enhancers on a single monster add together. If there are multiple monsters in a combat, the person who plays each enhancer must choose which monster it applies to.<br><br><br>Exception: Anything that enhances a monster also enhances its Mate . . . if Ancient, Enraged, and Mate are played on a single monster, in any order, you are facing an Ancient Enraged monster and its Ancient Enraged Mate. Good luck . . .
+rules.monsters.5	Fighting Multiple Monsters
+rules.monsters.6	Some cards (such as Wandering Monster) allow your rivals to send other monsters to join the fight. You must defeat their combined combat strengths. Any special abilities, such as forcing you to fight with your Level only, apply to the entire fight. If you have the right cards, you can eliminate one monster from the combat and fight the other(s) normally, but you cannot choose to fight one and Run Away from the other(s). If you eliminate one monster, but then run from the other(s), you don’t get any levels or Treasure!
+rules.monsters.7	Undead Monsters
+rules.monsters.8	Some monsters are tagged Undead. You may play any Undead monster from your hand into combat to help any other Undead, without using a Wandering Monster card. If you have a card that can be used to make a monster Undead, you may play it with a non-Undead monster to use this rule.
+rules.overview.1	Overview
+rules.overview.2	Character Creation
+rules.overview.3	Everyone starts as a Level 1 Human with no Class. (Heh, heh.) Munchkin characters may be either male or female.<br><br>At the start of the game one player is randomly chosen to be the start player. Before the start player's turn, each player has an opportunity to play Race, Class, and Item cards from their hand.
+rules.overview.4	Goal of the Game
+rules.overview.5	The first player to reach Level 10 wins . . . but you must reach Level 10 by killing a monster, unless a card specifically allows you to win another way.
+rules.overview.6	Turn Phases
+rules.overview.7	Your turn begins as soon as the previous player’s turn ends. When your cards are arranged the way you want, go to phase 1.<br><br>(1) Kick Open The Door<br><br>Draw one card from the Door deck and turn it face up. If it’s a monster, you must fight it. If the card is a Curse it applies to you immediately and is discarded (unless it has a persistent effect or you keep the card as a reminder of an upcoming effect). If you draw any other card, you may either put it in your hand or play it immediately.
+rules.overview.8	(2) Look For Trouble/Loot The Room<br><br>If you fought a monster in phase 1, skip this phase and go to phase 3. If you did NOT draw a monster when you first opened the door, you have two choices: either Look For Trouble or Loot The Room.<br><br>Look For Trouble: Play a monster from your hand and fight it, just as if you had found it when you kicked open the door. Don’t play a monster you can’t handle, unless you’re sure you can count on getting help!<br><br>Loot The Room: Draw a second card from the Door deck, face down, and place it in your hand.
+rules.overview.9	(3) Charity<br><br>If you have more than five cards in your hand, you must play enough cards to get you to five or below – for instance, you can play Curses, sell Items from your hand, or play Items to the table. If you cannot reduce your hand to five cards, or do not want to, you must give the excess cards to the player with the lowest Level. If players are tied for lowest,  the cards are divided as evenly as possible, but it’s up to you who gets the bigger set of leftovers. If YOU are the lowest or tied for lowest, just discard the excess. As soon as you are finished with Charity, the next player’s turn begins.
+rules.overview.10	When You May Take Actions
+rules.overview.11	You may perform these actions at any time during your turn or whenever you have a jump-in window:<br><br>•Discard a Class or Race.<br>•Play a Go Up a Level or Hireling.<br>•Play a Curse.
+rules.overview.12	You may perform these actions at any time during your turn or whenever you have a jump-in window, as long as you are not in combat:<br><br>•Trade an Item with another player (the other player may not be in combat, either).<br>•Change which Items you have equipped.<br>•Play a card that you have just received (some cards may be played even during combat; see above).
+rules.overview.13	You may perform these actions on your own turn:<br><br>•Play a new Class or Race card (at any time).<br>•Sell Items for levels (except when you are in combat).     <br>•Play an Item (most Items cannot be played during combat, but some one-shot Items can if they say so)
+rules.treasures.1	Treasures
+rules.treasures.2	Treasure cards include permanent and “one-shot” cards. Any Treasure card may be played as soon as you get it, or at any time on your own turn except during combat (unless the rules below or the card itself says otherwise).
+rules.treasures.3	Items
+rules.treasures.4	Most Treasures are Items. Items have a Gold Piece value. All Items you have in play are considered “carried.” Items that are actually giving you a bonus are “equipped.” You may not alter the status of your Items during a combat or while running away.<br><br>Anyone can carry any Item (except for extra Big items; see below), but you may equip only one Headgear, one suit of Armor, one pair of Footgear, and two “1 Hand” Items (or one “2 Hands” Item) . . . unless you have a card that lets you ignore these limits, such as Hireling or Cheat!, or unless one of the cards says otherwise. If you are carrying two Headgear cards, for instance, you can equip only one of them at a time.<br><br>Likewise, some Items have restrictions: for instance, the Mace of Sharpness can only be wielded by a Cleric. Its bonus only counts for someone who is, at the moment, a Cleric.<br><br>You may sell Items for a level, trade Items with other players, or give an Item to another player who wants it (see below). You may discard Items to power certain Class and Race abilities. And a Curse or a monster’s Bad Stuff may force you to get rid of something!<br><br>Big Items: You may carry any number of small items, but only one Big one. (Any item not marked Big is considered small.) You may not discard one Big item to play another; you must sell the first Item, trade it, lose it to a Curse or Bad Stuff, or discard it to power a Class or Race ability.<br><br>If something lets you have more than one Big item (for instance, the Dwarf race) and you lose that ability, you must either correct the problem immediately or get rid of all but one Big item. If it’s your turn and you’re not in combat, you can sell the excess Big items (as long as you have at least 1,000 Gold Pieces of Items to sell). Otherwise, you must give them to the lowest-Level player(s) who can carry them! If any Big items are still left over, discard them.<br><br>Trading: You may trade Items (but no other cards) with other players. You may only trade Items in play – not from your hand. You may trade at any time except when you or your trading partner are in combat – in fact, the best time to trade is when it’s not your turn. Any Item you receive in a trade must remain in play. You may also give Items away without a trade, to bribe other players not to offer help in combat this turn. <br><br>Selling Items for Levels: At any point during your turn except during combat or Running Away, you may discard Items worth a total of at least 1,000 Gold Pieces and immediately go up one level. If you discard (for instance) 1,100 Gold Pieces worth, you don’t get change. But if you can manage 2,000 worth, you can go up two levels at once, and so on. You may sell Items from your hand as well as those you are carrying. You may not sell Items to go to Level 10.
+rules.treasures.5	“One-Shot” Treasures
+rules.treasures.6	A Treasure card that says “Usable once only” is referred to as a “one-shot” Treasure. Most of these are used during combat to strengthen the munchkins or the monsters, and may be played from your hand or from your carry area. One-shot items are discarded after use. One-shot Items with a Gold Piece value may be sold for levels, just like other Items.
+rules.treasures.7	Other Treasures
+rules.treasures.8	Other Treasure cards (like Go Up a Level cards) are not Items. Most of these cards say when they can be played, and whether they stay in play or are discarded.<br><br><br>A couple of specific examples:<br><br><br>Go Up a Level cards may be played on yourself or any other player at any time during your turn or whenever you have a jump-in window. Discard them once they are played. Exception: You cannot play a Go Up a Level card to give a player the winning level!<br><br><br>Hireling may be played at any time during your turn or whenever you have a jump-in window. You cannot give a Hireling an Item to carry while you are in combat, however.
+rules.variants.1	Variants
+rules.variants.2	The following variant rules can be toggled on and off when creating a game.
+rules.variants.3	Faster Play Rules
+rules.variants.4	For a faster game, you can add a “phase 0” called Listen At The Door. At the start of your turn before doing anything else, draw a face-down Door card, which you may play or not. Then arrange cards and Kick Open The Door normally. If you Loot The Room, draw a face-down Treasure, not a Door.
+rules.variants.7	Gender Neutral
+rules.variants.8	"Gender matters" cards are removed from the game.
+rules.combatoverview.1	Combat Overview
+rules.combatoverview.2	To fight a monster, compare its combat strength to yours. Combat strength is the total of Level plus all modifiers – positive or negative – given by Items and other cards. If the monster’s combat strength is equal to yours, or greater, you lose the combat and must Run Away. If your combat strength totals more than the monster’s – note that monsters win ties! – you kill it and go up a level (two levels for some big monsters). You’ll also get the number of Treasures shown on its card.<br><br>Sometimes a card will let you get rid of the monster without killing it. This is still “winning,” but you don’t get a level. Unless the ability says otherwise, you don’t get the Treasures, either. If the last monster is removed from a combat, it ends instantly.<br><br>You and the other players may play one-shot Treasures or use Class or Race abilities to help or harm you in your combat. Some Door cards may also be played into a combat, such as monster enhancers.<br><br>If you kill a monster (or monsters!), discard the monster(s) and any other cards played, and claim your rewards.
+rules.combatoverview.3	Interfering With Combat
+rules.combatoverview.4	You can interfere with others’ combats in several ways, including:<br><br>•Use a one-shot card. You could help another player by using a one-shot to strengthen their side. Of course, you can “accidentally” strengthen the monster with it, instead . . .<br>•Play a monster enhancer. These cards (usually) make a monster stronger . . . and give it more Treasure. You can play these either during your own combats or during someone else’s combat.<br>•Add a monster from your hand to join the combat, either with a Wandering Monster card or by using the special Undead rule.<br>•Backstab a player in combat, if you’re a Thief.<br>•Curse them, if you have a Curse card.
+rules.curses.1	Curses
+rules.curses.2	If drawn face-up during the Kick Open The Door phase, Curse cards apply to the person who drew them. If acquired some other way, such as by Looting The Room, Curse cards go into your hand and may be played on any player at any time during your turn or whenever you have a jump-in window.<br><br>Usually, a Curse affects its victim immediately (if it can) and is then discarded. However, some Curses give a penalty later in the game or have a continuing effect. These Curses stay in play until you get rid of the Curse or the penalty takes effect. <br><br>Note: If someone plays a “your next combat” Curse on you while you are in combat, it counts in that combat! The same is true for a “your next turn” Curse played during your turn.
+kin.setup.character.raceandclass	Choose an initial Race and/or Class?
+kin.setup.character.raceandclass.opponent	Opponents are creating their characters
+kin.setup.character.items	Choose initial equipped Items?
+kin.setup.character.items.opponent	Opponents are creating their characters
+kin.setup.character.opponent	Opponents are creating their characters
+kin.jumpin	Would you like to take an action?
+kin.jumpin.door	Take an action before [name] Kicks Open the Door?
+kin.jumpin.attack	Take an action before [name] defeats monster(s)?
+kin.jumpin.beginpursuit	Take an action before the monster begins pursuit of [name]?
+kin.jumpin.endofturn	Take an action after [name] concluded their turn?
+kin.jumpin.endofturn.opponent	Opponent is deciding what action to take before the turn ends.
+kin.jumpin.runaway	Take an action before [name] rolls to run away?
+kin.jumpin.postrunaway	Take an action after [name] rolled to run away?
+kin.jumpin.postcombat	Take an action after [name] completed combat?
+kin.jumpin.precurse	Take an action before [name] is cursed?
+kin.jumpin.abilities	Take an action?
+kin.playerturn.begin	Take actions before Kicking Open The Door?
+kin.playerturn.begin.opponent	An opponent is considering actions before Kicking Open The Door.
+kin.playerturn.lookfortrouble	Play the monster from your hand you want to fight.
+kin.playerturn.draw	Kick Open
+kin.playerturn.lookorloot	Look for Trouble or Loot the Room
+kin.playerturn.end	Take actions before ending your turn?
+kin.playerturn.end.opponent	An opponent is considering actions before ending their turn.
+kin.core.play.class	Play a Class?
+kin.core.play.curse	Play a Curse?
+kin.core.play.item	Play an Item?
+kin.core.play.race	Play a Race?
+kin.core.play.special	Play a special card?
+kin.core.play.monsterenhancer	Play a monster enhancer?
+kin.core.play.combatoneshot	Choose which side to give strength to.
+kin.playerturn.charity.lastchance	Play any cards before beginning Charity?
+kin.playerturn.charity.discard	Choose [X] card(s) to discard.
+kin.playerturn.charity.give	Choose [X] card(s) to give.
+kin.playerturn.charity.giveplayer	Choose player to give Charity card(s).
+kin.draw.play	Play the card(s) you just drew?
+match.actions.opendoor	Open Door
+match.actions.jumpin	Jump In
+kin.combat.begin	Combat
+kin.combat.begin.opponent	Opponent is in combat
+match.actions.lootroom	Loot the Room
+match.actions.lookfortrouble	Look for Trouble
+kin.prompts.givelevelup	Give a level?
+kin.core.play.goupalevel	Choose the player to go up a level
+kin.base.door.cleric.turning	Choose up to [X] cards to discard for +3 Strength each.
+kin.base.door.cleric.resurrection.discard	Choose [X] cards to discard for Resurrection.
+kin.base.door.floatingnose.bribe	Discard an item worth at least 200 Gold Pieces to bribe Floating Nose?
+kin.base.door.halfling.runaway	Choose a card to discard to reroll with Halfling.
+kin.base.door.helpmeout.discard	You may discard a card before stealing.
+kin.base.door.helpmeout.steal	Choose an Item to steal.
+kin.base.door.helpmeout.steal.opponent	Opponent is choosing an item to steal with Help Me Out Here.
+kin.base.door.illusion.remove	Choose a monster card to discard from combat.
+kin.base.door.illusion.add	Choose a monster card to add to combat.
+kin.base.door.lawyer.treasures	Drag 2 Treasures below to replace them with new ones or press skip to continue.
+kin.base.door.pitbull.distract	To distract Pitbull, choose a wand, pole, or staff to discard.
+kin.base.door.platycore.choose	Decide your fate.
+kin.base.door.platycore.button.discardhand	Discard Hand
+kin.base.door.platycore.button.loselevels	Lose 2 Levels
+kin.base.door.snailsonspeed.discard	Lose [num] items or cards in your hand – your choice.
+kin.base.door.stonedgolem.avoid	Fight or Wave to the Stoned Golem and walk past.
+kin.base.door.thief.theft.discard	Choose a card to discard for Theft.
+kin.base.door.thief.theft.steal	Choose a small Item to steal.
+kin.base.door.thief.backstab.discard	Choose a card to discard for Backstab.
+kin.base.door.thief.backstab.player	Choose an opponent.
+kin.base.door.tonguedemon.loseitem	Choose an Item to discard because of the Tongue Demon.
+kin.base.door.tonguedemon.loseitem.opponent	Waiting for player to discard a card to Tongue Demon.
+kin.base.door.wanderingmonster.monster	Choose a monster card to add to combat.
+kin.base.door.warrior.berserking.discard	Choose up to [X] cards to discard for +1 Strength.
+kin.base.door.wizard.charm.monster	Choose a monster to charm.
+kin.base.door.wizard.flight.discard	Choose up to 3 cards to discard for a +1 bonus to flee each.
+kin.base.door.curse.losebigitem.discard	Choose a Big Item to discard.
+kin.base.door.curse.losebigitem.discard.opponent	Opponent is choosing a Big Item to discard
+kin.base.door.curse.loseclass.discard	Choose a Class to discard.
+kin.base.door.curse.loseclass.discard.opponent	Opponent is choosing a Class to discard.
+kin.base.door.curse.losesmallitem.discard	Choose a small Item to discard.
+kin.base.door.curse.losesmallitem.discard.opponent	Opponent is choosing a small Item to discard.
+kin.base.door.curse.obnoxious.discard	Choose an Item to discard that gives you the biggest strength bonus.
+kin.base.door.curse.obnoxious.discard.opponent	Opponent is choosing an Item to discard that gives them the biggest strength bonus.
+kin.base.door.supermunchkin.play	Play Super Munchkin
+kin.base.door.halfbreed.play	Play Half Breed
+kin.base.door.hippogriff.steal	Steal a card.
+kin.base.door.hippogriff.steal.opponent	Waiting for players to determine choices for Bad Stuff.
+kin.base.door.curse.incometax.select	Discard an Item
+kin.base.door.curse.incometax.tax	Income Tax:<br>Discard cards totalling [num] Gold Pieces.
+kin.base.door.curse.incometax.tax.opponent	Opponent is choosing items to discard for Income Tax.
+kin.base.door.insurancesalesman.buy	Discard cards totalling 1000 Gold Pieces.
+kin.base.door.insurancesalesman.buy.opponent	Opponent is choosing cards to discard to Insurance Salesman.
+kin.base.door.divineintervention.jumpin.cleric	Play Cleric before [name] plays Divine Intervention?
+kin.base.door.divineintervention.jumpin.cleric.opponent	Opponents are considering playing a Cleric before Divine Intervention resolves.
+kin.base.treasure.item.ratonastick.discard	Choose a monster to escape.
+kin.base.treasure.item.flaskofglue	Choose which player you want to reroll.
+kin.base.treasure.hireling.monster	Choose a Monster to automatically escape from.
+kin.base.treasure.play.halitosis	Play as a one-shot item or Kill the Floating Nose?
+kin.base.treasure.kneepadsofallure.compelled	[name] compels you to help them in combat with the Kneepads of Allure! They're offering the following reward:
+kin.base.lootthebody	Choose a card to loot from [name]'s dead body.
+kin.base.lootthebody.opponent	Opponent is choosing a card to loot from [name]'s dead body.
+kin.combat.askforhelp.players	Choose who to ask for help
+kin.combat.askforhelp.bribe.type	Choose Bribe
+kin.askforhelp.choosehowtreasure	Choose how to reward Treasures
+kin.askforhelp.chooserandomtreasurecount	Choose how many random Treasures to give away
+kin.askforhelp.choosewhopickstreasure	Choose who is awarded each pick of the monster's Treasure
+kin.askforhelp.choosecardsoffer	Choose cards to offer your opponent
+kin.askforhelp.bribeoffer	{0} has offered you the bribe shown in exchange for helping them in combat. Would you like to accept?
+kin.askforhelp.sharetreasure	Share Treasure
+kin.askforhelp.givecards	Give Cards
+kin.askforhelp.none	None
+kin.askforhelp.random	Random
+kin.askforhelp.draft	Draft
+kin.askforhelp.ntreasure	{0} Random Treasure
+kin.askforhelp.onetreasure	One Random Treasure
+kin.askforhelp.twotreasure	Two Random Treasures
+kin.askforhelp.threetreasure	Three Random Treasures
+kin.askforhelp.pickn	Pick {0}
+kin.askforhelp.pickone	Pick One
+kin.askforhelp.picktwo	Pick Two
+kin.askforhelp.pickthree	Pick Three
+kin.askforhelp.draft.you	You
+kin.askforhelp.draft.them	Them
+kin.core.sellitems	Choose Items to sell for levels.
+kin.core.sellitems.opponent	Opponent is choosing Items to sell for levels.
+kin.nocards	No Cards Available
+kin.pile.race	Race
+kin.pile.class	Class
+kin.pile.carried	Carry
+kin.pile.equipped	Equip
+kin.pile.useonparticipant	Use on Munchkin
+kin.pile.useonmonster	Use on Monster
+kin.pile.enhancemonster	Enhance Monster
+kin.runaway.activateability.preroll	Activate any run away abilities before the die is cast?
+kin.runaway.activateability.postroll	Activate any run away abilities?
+kin.core.play.item.swap	Choose Items to swap.
+kin.core.play.class.replace	Choose a Class to replace.
+kin.core.play.race.replace	Choose a Race to replace.
+kin.core.play.magiclamp	Choose a Monster to make vanish.
+kin.core.play.wishingring	Choose a Curse to cancel with the Wishing Ring.
+kin.prompts.activatecurseonplayer	Choose a Player to Curse.
+kin.confirm.discard.class	Discard Class?
+kin.confirm.discard.race	Discard Race?
+kin.die.preroll	Activate any die abilities before rolling?
+kin.die.header	Rolling Die
+kin.die.postroll	Activate any post die roll abilities?
+kin.choosebadstuff.discard	Discard Hand
+kin.choosebadstuff.losetwolevels	Lose Two Levels
+kin.waitingforplayer.selectavatar	Press join button below to secure your spot.
+kin.core.play.wandofdousing.pickcard	Choose a card to take from the discard pile with Wand of Dowsing.
+kin.base.door.cheat.item	Pick an item to play with Cheat!
+kin.jumpin.door.active	Take an action before Kicking Open the Door?
+kin.jumpin.attack.active	Take an action before defeating the monsters?
+kin.jumpin.beginpursuit.active	Take an action before beginning pursuit?
+kin.jumpin.runaway.active	Take an action before rolling to run away?
+kin.jumpin.postrunaway.active	Take an action after the runaway roll?
+kin.jumpin.postrunaway.opponent	Opponent is considering actions.
+kin.jumpin.postcombat.active	Take an action now that combat is complete?
+kin.jumpin.precurse.active	Take an action before the curse is resolved?
+kin.core.play.undead	Add undead to combat
+kin.prompt.askforhelp.draft.header	Select Draft Order
+kin.askforhelp.draft.yourpick	Your Pick
+kin.askforhelp.draft.opponentpick	Opponent Picks
+kin.core.play.monsterenhancer.selectmonster	Choose a monster to enhance
+kin.prompt.swapitem.message	Would you like to swap to the new item?
+kin.base.door.leperchaun.discard	Choose an enemy item to discard to the Leprechaun.
+kin.base.door.leperchaun.discard.opponent	Waiting for players to determine choices for Bad Stuff.
+kin.runaway.choose.monster	Choose which monster to run away from.
+kin.runaway.choose.monster.opponent	Opponent is choosing which monster to run away from first.
+kin.setup.character.raceclass	Choose an initial Race and/or Class?
+kin.setup.character.raceclass.opponent	Waiting for opponents to finish creating their character.
+kin.setup.character.item	Choose initial equipped Items?
+kin.setup.character.item.opponent	Waiting for opponents to finish creating their character.
+kin.core.play.pollymorph	Choose a monster to turn into a parrot.
+kin.core.play.killhireling	Choose the Hireling to kill
+kin.combat.askforhelp.player.helper	Choose a player to receive help from
+kin.combat.askforhelp.player.helper.opponent	Opponent is choosing a player to receive help from.
+kin.combat.askforhelp.response	[name] is Asking for Help
+kin.combat.askforhelp.response.subheader	You will receive the following rewards for helping win this combat.
+kin.bribes.none	Nothing
+kin.askforhelp.receivecards	These Cards
+kin.thief.roll	Theft Roll
+kin.discardpile.treasure.header	Treasure Discard Pile
+kin.discardpile.door.header	Door Discard Pile
+kin.discardpile.choose.header	Choose Deck
+kin.combat.rewards.pre.draw	Use any abilities before drawing Treasures?
+kin.modifyroll.subheader	Choose a Number
+kin.discardpile.view.header	Discard Piles
+kin.badstuff.roll	Bad Stuff Roll
+dialogmessages.aitakeover	You ran out of time to make a move, so your turn was taken by an AI. Make your next move in the allowed time or you will be removed from the game.
+kin.base.door.hireling.item	Choose an Item for the Hireling to carry
+kin.base.door.hireling.item.swap	Choose an Item to swap with what the Hireling is carring
+kin.jumpin.postroll	Take an action after [name] rolled a die?
+kin.modifyroll.header	Set the Number
+kin.askforhelp.draftrequest	Draft {0} Treasure
+kin.combat.askforhelp.waiting	Waiting for responses
+prompt.charity.header	Charity
+kin.modifyroll.minimumrequired	{0} or more Required to Escape
+kin.reconcile.lastchance	You have too many Big items. Sell them or press Continue to give them away to opponents.
+kin.reconcile.lastchance.sell	Choose items to sell before giving them away.
+kin.reconcile.charity.discard	Too many Big items. Choose [X] out of [X2] to discard.
+kin.reconcile.charity.discard.opponent	Opponent is choosing big items to discard since they have too many.
+kin.reconcile.charity.give	Choose Big items to give away to [name].
+kin.reconcile.charity.give.opponent	Opponent is choosing Big items to give away.
+kin.reconcile.charity.giveplayer	Choose the opponent to give a Big item to.
+kin.resurrection.header	Cleric - Resurrection
+kin.core.play.race.replace.alt	Playing this race will discard your current race.  Are you sure you want to continue?
+kin.core.play.class.replace.alt	Playing this class will discard your current class.  Are you sure you want to continue?
+kin.jumpin.precurse.opponent	Opponent is choosing to respond to a curse or not.
+kin.jumpin.abilities.opponent	Opponent is choosing an action to take.
+kin.playerturn.charity.discard.opponent	Opponent is choosing cards to discard for charity.
+kin.playerturn.lookorloot.opponent	Opponent is choosing to Loot the Room or Look for Trouble.
+kin.base.door.cleric.resurrection.discard.opponent	Opponent is choosing a card to discard to pay for Resurrection.
+kin.combat.rewards.pre.draw.opponent	Opponent is choosing an action to take before treasures are drawn.
+kin.draw.play.opponent	Opponent is considering if they want to play the card they just drew.
+kin.prompt.swapclass.message	Would you like to swap to the new class?
+kin.prompt.swaprace.message	Would you like to swap to the new race?
+kin.core.play.stealalevel	Choose the player to steal a level from
+kin.thief.roll.loadeddie	4 or more required to steal item.
+kin.combat.askforhelp.response.opponent	Opponent is considering an Ask for Help request
+kin.trade.item.accept.opponent	Opponent is considering a Trade offer
+kin.jumpin.confirm.opponent	Opponent is Jumping In
+kin.jumpin.stack.opponent	Opponent is Jumping In
+kin.jumpin.opponent	Opponent is deciding if they would like to Jump In.
+kin.jumpin.door.opponent	Opponent is deciding what action to take after Jumping In
+kin.jumpin.attack.opponent	Opponent is deciding what action to take before the monster(s) is defeated.
+kin.jumpin.beginpursuit.opponent	Opponent is deciding what action to take before the monster begins pursuit.
+kin.jumpin.runaway.opponent	Opponent is deciding what action to take before the Run Away roll.
+kin.jumpin.postcombat.opponent	Opponent is deciding what action to take after the combat completed.
+kin.base.door.curse.incometax.select.opponent	Opponent is choosing items to discard for Income Tax.
+kin.playerturn.draw.opponent	An opponent is considering actions before Kicking Open The Door.
+kin.combat.rewards.draft.pick.opponent	Opponent is drafting a Treasure card.
+kin.base.door.nettroll.steal.opponent	Waiting for players to determine choices for Bad Stuff.
+kin.player.changegear.opponent	Waiting for opponent for configure their items.
+kin.playerturn.charity.lastchance.opponent	Waiting for opponent to decide what to discard to Charity.
+kin.playerturn.charity.give.opponent	Waiting for opponent to decide who to give Charity to
+kin.playerturn.charity.giveplayer.opponent	Waiting for opponent to decide who to give Charity to
+kin.jumpin.postroll.opponent	Waiting for opponent to take actions before resolving the roll
+kin.reconcile.lastchance.opponent	Waiting for opponent carrying too many Big items to discard some.
+kin.reconcile.charity.giveplayer.opponent	Waiting for opponent carrying too many Big items to give away some.
+kin.base.door.snailsonspeed.discard.opponent	Waiting for players to determine choices for Bad Stuff.
+kin.base.door.platycore.choose.opponent	Waiting for players to determine choices for Bad Stuff.
+kin.combat.askforhelp.bribe.selections.opponent	Opponent is making an Ask for Help offer.
+kin.combat.askforhelp.players.opponent	Opponent is making an Ask for Help offer.
+kin.combat.askforhelp.bribe.type.opponent	Opponent is making an Ask for Help offer.
+kin.runawaysuccess.ability	Activate any abilities after a succesful Run Away?
+kin.runaway.badstuff	Activate any abilities after a failed Run Away?
+kin.runawaysuccess.ability.opponent	Opponent is choosing to activate any abilities after a succesful Run Away?
+kin.runaway.badstuff.opponent	Opponent is choosing to activate any abilities after a failed Run Away?
+kin.runaway.rolltarget	Minimum Roll to Escape: [X]
+kin.base.door.nettroll.steal	Choose an Item to steal.
+kin.tooltip.1	kin.tooltip.1
+kin.tooltip.gender.male	Male
+kin.tooltip.gender.female	Female
+kin.tooltip.editcharacter	Edit Character
+kin.tooltip.genderneutral	<b>Gender Neutral</b><br>Cards that care about gender are removed from the game.
+kin.tooltip.fastplay	<b>Fast Play</b><br>For players wishing to play a faster game.<br>At the start of each players turn they draw a face-down Door card, which they may play or not. When players Loot The Room, they draw from the treasure deck instead of the door deck.
+kin.tooltip.sharedvictory	Shared Victory
+kin.tooltip.playerhud.strength	Strength
+kin.tooltip.race.human	<b>Human:</b><br>No Special Abilities
+kin.tooltip.race.dwarf	<b>Dwarf:</b><br>You can carry any number of Big Items.<br>You can have six cards in your hand.
+kin.tooltip.race.elf	<b>Elf:</b><br>+1 to Run Away.<br>You go up one level for every monster you <i>help someone else</i> kill.
+kin.tooltip.race.halfling	<b>Halfling:</b>
+You may sell one Item each turn for double price (other Items are at normal price).<br>If you fail your initial Run Away roll, you may discard a card and try once more.
+kin.tooltip.class.none	No Class
+kin.tooltip.class.cleric	<b>Cleric:</b><br><b>Resurrection:</b> When it is time for you to draw cards face-up, you may instead take some or all from the top of the appropriate <i>discard</i> pile.<br>You must then discard one card from your hand for each card so drawn.<br><b>Turning:</b> You may discard up to three cards in combat against an Undead creature. Each discard gives you a +3 bonus.
+kin.tooltip.class.thief	<b>Thief:</b><br><b>Backstabbing:</b> You may discard a card to backstab another player (-2 in combat). You may do this only once per victim per combat, but if two players are fighting a monster together, you may backstab each of them.<br><b>Theft:</b> You may discard a card to try to steal a small Item carried by another player. Roll a die; 4 or more succeeds. Otherwise, you get whacked and lose a level.
+kin.tooltip.class.warrior	<b>Warrior:</b><br><b>Berserking:</b> You may discard up to three cards in combat; each one gives you a +1 bonus.<br>You win ties in combat.
+kin.tooltip.class.wizard	<b>Wizard:</b><br><b>Flight Spell:</b> You may discard up to three cards after rolling the die to Run Away; each one gives you a +1 bonus to flee.<br><b>Charm Spell:</b> You may discard your whole hand (minimum three cards) to charm a single Monster instead of fighting it. Discard the Monster and take its Treasure, but don’t gain levels. If there are other monsters in the combat, fight them normally.
+kin.tooltip.slowplay	Slow Play
+kin.tooltip.inventory	View Inventory
+kin.tooltip.askforhelp	Ask For Help
+kin.tooltip.monsterstrength	Monster Strength
+kin.tooltip.playerstrength	Player Strength
+kin.tooltip.loottheroom	Draw a face down card from the Door deck.
+kin.tooltip.lookfortrouble	Play a monster from your hand and fight it.
+kin.tooltip.aimood.neutral	Neutral
+kin.tooltip.aimood.hostile	Hostile!
+kin.tooltip.aimood.veryhostile	Very Hostile!!
+kin.tooltip.aimood.friendly	Friendly
+kin.tooltip.aimood.veryfriendly	Very Friendly
+kin.tooltip.ability.halfling	<b>Halfling:</b><br>If you fail your initial Run Away roll, you may discard a card and try once more.
+kin.tooltip.ability.resurrection	<b>Resurrection:</b><br>When it is time for you to draw cards face-up, you may instead take some or all from the top of the appropriate <i>discard</i> pile.<br>You must then discard one card from your hand for each card so drawn.
+kin.tooltip.ability.turning	<b>Turning:</b><br>You may discard up to three cards in combat against an Undead creature. Each discard gives you a +3 bonus.
+kin.tooltip.ability.backstabbing	<b>Backstabbing:</b><br>You may discard a card to backstab another player (-2 in combat). You may do this only once per victim per combat, but if two players are fighting a monster together, you may backstab each of them.
+kin.tooltip.ability.theft	<b>Theft:</b><br>You may discard a card to try to steal a small Item carried by another player. Roll a die; 4 or more succeeds. Otherwise, you get whacked and lose a level.
+kin.tooltip.ability.berserking	<b>Berserking:</b><br>You may discard up to three cards in combat; each one gives you a +1 bonus.
+kin.tooltip.ability.flight	<b>Flight Spell:</b><br>You may discard up to three cards after rolling the die to Run Away; each one gives you a +1 bonus to flee.
+kin.tooltip.ability.charm	<b>Charm Spell:</b><br>You may discard your whole hand (minimum three cards) to charm a single Monster instead of fighting it. Discard the Monster and take its Treasure, but don’t gain levels. If there are other monsters in the combat, fight them normally.
+kin.tooltip.cardsinhand	Cards in Hand
+tooltip.actionlog	<b>Action Log</b>
+tooltip.challengeinfo	<b>Challenge Rules</b>
+kin.tooltip.eotjumpinwindow	Add an additional Jump-In window at the end of each players turn.
+kin.tooltip.discardpiles	View Top Card of Discard Piles
+tooltip.friendslist.owned	Owns Munchkin
+tooltip.friendslist.unowned	Doesn't Own Munchkin
+kin.tooltip.ability.hireling1	Choose an item to carry and use, even if you could not otherwise. If you lose your Hireling, the Item goes, too.
+kin.tooltip.ability.hireling2	Discard your Hireling for an automatic escape from any monster.
+kin.tooltip.heldbyhireling	Held by Hireling
+kin.tooltip.playedusingcheat	Played by using Cheat!
+log.actionlog	Action Log
+log.start.game	Game Begins
+log.turn.start	[name]'s Turn
+log.turn.start.your	Your Turn
+log.kick.door.result	[name] Kicks Open The Door, revealing [card].
+log.look.for.trouble	[name] Looks For Trouble.
+log.loot.room	[name] Loots The Room.
+log.cursed.door	[name] is Cursed by [card].
+log.combat.start	[name] enters combat with [card].
+log.ask.help	[name] asks [playerlist] for help.
+log.accept.help	[name] joins [name2] in combat.
+log.win.combat	[name] has defeated the [cardlist].
+log.win.combat.with.help	[name] and [name2] have defeated the [cardlist].
+log.lose.combat	[name] has lost their combat and must Run Away.
+log.lose.combat.with.help	[name] and [name2] have lost their combat and must Run Away.
+log.discard.monster	[name] discards [card] from combat.
+log.play.card.generic	[name] plays [card].
+log.monster.enhancer.bonus.strength	[name] plays [card] to [card2], giving it [X] strength.
+log.monster.enhancer.add.treasure	[card] increases [card2]'s rewards by [X].
+log.monster.enhancer.lose.treasure	[card] reduces [card2]'s rewards by [X].
+log.play.card.carried	[name] carries [card].
+log.play.card.equipped	[name] equips [card].
+log.levelup	[name] levels up to Level [X2].
+log.lose.levels	[name] loses [X] levels, becoming Level [X2].
+log.draw	[name] draws [X] [deck] cards.
+log.face.up.draw	[name] draws [cardlist].
+log.draw.doors	[name] draws [X] Door cards.
+log.draw.treasures	[name] draws [X] Treasure cards.
+log.shuffle.deck	The [deck]'s discard pile is reshuffled to create a new deck.
+log.die.roll	[name] rolls a [X].
+log.run.away.success	[name] escapes [card].
+log.run.away.fail	[name] fails to escape [card] and suffers Bad Stuff.
+log.charity.give	[name] gives [name2] [X] [deck] cards for Charity.
+log.trade.items	[name] trades their [cardlist] for [name2]'s [cardlist2].
+log.sell.items	[name] sells [cardlist].
+log.badstuff.death.1	[name] dies.
+log.badstuff.death.2	[name] loots [card] from [name2]'s body.
+log.badstuff.death.3	[name] discards their remaining cards.
+log.badstuff.hippogriff.infront	[name] takes [card] from [name2].
+log.badstuff.hippogriff.fromhand	[name] takes a Treasure card from [name2]'s hand.
+log.badstuff.king.tut	[name] loses all their Items and discards their hand.
+log.badstuff.wight.brothers	[name] is reduced to level 1.
+log.badstuff.unspeakable.horror	[name] loses their Wizard powers, discarding their Wizard card.
+log.badstuff.insurance.salesman	[name] discards [cardlist].
+log.badstuff.bigfoot	[name] loses their Headgear, [card].
+log.tongue.demon.kiss	[name] discards [card].
+log.wannabe.vampire.oogabooga	[name] shouts ooga booga, discarding the Wannabe Vampire.
+log.badstuff.net.troll	[name] is the highest level and takes [card] from [name2].
+log.amazon.friend	Amazon refuses to fight [name].
+log.badstuff.amazon.class	[name] loses their Class, [cardlist].
+log.badstuff.amazon.noclass	[name] had no Class, so loses 3 levels.
+log.badstuff.ghoulfiends	[name] becomes Level [X].
+log.badstuff.face.sucker.gear	[name] discards their Headgear [card] and 1 level.
+log.lawyer.thief.courtesy	[name] discards 2 Treasures and the Lawyers.
+log.badstuff.lawyer	[name] draws a [deck] card from [name2]'s hand.
+log.badstuff.platycore.discard	[name] chose to discard their hand to Platycore's Bad Stuff.
+log.badstuff.platycore.lose2	[name] chose to lose 2 levels to Platycore's Bad Stuff.
+log.badstuff.pukachu	[name] discards their hand.
+log.badstuff.shrieking.geek	[name] loses their Race [cardlist] and Class [cardlist2].
+log.badstuff.leperchaun	[name] chooses [card] for [name2] to discard.
+log.badstuff.snails.on.speed	[name] discards [X] Items or cards from their hand.
+log.badstuff.gelatinous.octahedron	[name] discards all their Big Items: [cardlist].
+log.pit.bull.give.stick	[name] discards [card] to escape Pit Bull.
+log.badstuff.crabs	[name] discards [cardlist].
+log.badstuff.drooling.slime.gear	[name] discards their Footgear.
+log.badstuff.drooling.slime.nogear	[name] had no Footgear, so loses 1 level.
+log.curse.effect.change.class	[name] is Cursed to become a [card].
+log.curse.effect.lose class	[name] is Cursed to discard their [cardlist] Class.
+log.curse.effect.change.race	[name] is Cursed to become a [card].
+log.curse.effect.lose.race	[name] is Cursed to discard their [cardlist] Race.
+log.curse.effect.change.sex	[name] is Cursed to become [sex], and will suffer a -5 penalty in their next combat.
+log.curse.effect.chicken.head	[name] has a chicken on their head and will suffer a -1 penalty to all die rolls.
+log.curse.remove.chicken.head	[name] has lost their Headgear, removing the Cursed chicken from their head.
+log.curse.effect.doom.duck	[name] is Cursed to lose 2 levels.
+log.curse.effect.income.tax.1	[name] discards a [card] worth [X] to Income Tax.
+log.curse.effect.income.tax.2	[name] discards [cardlist] to Income Tax.
+log.curse.effect.lose.big	[name] is cursed to discard a Big Item [card].
+log.curse.effect.lose.level	[name] is cursed to lose 1 level.
+log.curse.effect.lose.small	[name] is cursed to discard a small Item [card].
+log.curse.effect.lose.armor	[name] is cursed to lose their Armor [cardlist].
+log.curse.effect.lose.headgear	[name] is cursed to lose their Headgear [cardlist].
+log.curse.effect.lose.footgear	[name] is cursed to lose their Footgear [cardlist].
+log.curse.effect.lose.2.cards	[name] steals a [deck] card from [name2]'s hand.
+log.curse.effect.malign.mirror	[name] is Cursed to gain bonuses only from their Armor in their next fight.
+log.curse.effect.obnoxious.curse	[name] is Cursed to discard their biggest bonus Item [card].
+log.cleric.resurrect.draw	[name] uses Resurrection to draw [X] cards from the [deck] pile.
+log.cleric.resurrect.discard	[name] discards [cardlist] to Resurrection.
+log.cleric.turning	[name] discards [cardlist] to turn Undead, giving them +3 in combat.
+log.thief.backstab	[name] discards [card] to backstab [name2], giving them -2 in combat.
+log.thief.theft.success	[name] discards [card] and steals [card2] from [name2] with a roll of [X].
+log.thief.theft.fail	[name] discards [card] and loses 1 level as they fail to steal an Item with a roll of [X].
+log.warrior.berserking	[name] discards [cardlist] to go berserk, giving them +1 in combat.
+log.wizard.flight.spell	[name] discards [cardlist] to fly, giving them +1 to Run Away.
+log.wizard.charm.spell	[name] discards their hand to charm [card].
+log.elf.helper	[name] is an Elf, so gains [X] level for helping win a combat.
+log.halfling.double.sell	[name] uses their Halfling ability to sell [card] for [X].
+log.halfling.luck	[name] discards [card] to use their Halfling luck to reroll their Run Away roll and rolls a [X].
+log.sandals.protect	[name] is protected from [card] by Sandals of Protection.
+log.update.race	[name]'s character sheet changes, making them a [card]!
+log.update.class	[name]'s character sheet changes, making them a [card]!
+log.update.sex	[name]'s character sheet changes, making them [sex]!
+log.wandering.monster	[name] uses Wandering Monster to add [card] to the combat.
+log.automatic.escape	[name] escapes combat automatically
+log.badstuff.loseitems	[name] loses their [gearType], [cardlist] to [card].
+log.cheat.used	[name] uses Cheat! to use [card].
+log.divine.intervention	[name] gains 1 level from Divine Intervention.
+log.doppelganger	[name] copies themself with Doppelganger, gaining +[X] strength in combat.
+log.flask.of.glue	[name] plays Flask of Glue to force [name2] to reroll their Run Away roll.
+log.halitosis.vs.nose	[name] plays Potion of Halitosis to instantly kill the Floating Nose.
+log.help.me.out.here.steal	[name] steals [card] with Help Me Out Here!
+log.hireling.equip	[name] gives their Hireling [card].
+log.hireling.killed	[name] kills [name2]'s Hireling.
+log.hireling.sacrifice	[name] sacrifices their Hireling to escape [card].
+log.illusion	[name] replaces [card] with [card2].
+log.kneepads.compel	[name] is compelled to help [name2] in combat.
+log.loaded.die	[name] sets their roll to [X].
+log.monster.enhancer.lose.strength	[name] plays [card] to [card2], giving it -[X] strength.
+log.monster.enhancer.mate	[name] plays Mate to [card], adding an exact copy of it to the combat.
+log.one.shot.bonus.monsters	[name] plays [card] to give the monsters +[X] in combat.
+log.one.shot.bonus.players	[name] plays [card] to give the players +[X] in combat.
+log.rat.stick.discard	[name] discards Rat on a Stick to escape [card].
+log.steal.level	[name] steals 1 level from [name2].
+log.tuba.bonus.treasure	[name] had a Tuba of Charm, so draws 1 Treasure for successfully escaping.
+log.undead.pile.on	[name] plays the Undead monster [card] to the combat.
+log.wand.of.dowsing	[name] plays Wand of Dowsing to draw [card].
+log.wishing.ring	[name]'s Wishing Ring cancels [card].
+log.trade.items.one.sided	[name] trades their [card] to [name2].
+log.discard.generic	[name] discards [card].
+log.no.combat.generic	[name] chooses not to fight [card].
+log.help.reward.random	[name] agrees to help [name2] in combat for [X] random treasures.
+log.help.reward.draft	[name] agrees to help [name2] in combat for draft picks [string1].
+log.help.reward.cards	[name] agrees to help [name2] in combat for [cardlist].
+t1.intro	Welcome to the monster-slaying, treasure-stealing, backstabbing world of Munchkin. Hold onto your seat, it’s time to dive into the dungeon.
+t1.goal	You begin the game as a lowly Level 1 adventurer with no class (heh, heh). Your goal is to gear up, defeat monsters, and reach Level 10 before another player gets there first.
+t1.char.build	At the start of the game, you'll get a hand of four cards from each of the Treasure and Door decks. Then, you'll get a chance to play any Class, Race, or Item cards you want to start the game with.
+t1.moz.1.mobile	You can tap and hold any card in your hand to get a closer look. Let's check out that Slimy Armor.
+t1.moz.1.pc	You can hover over any card in your hand to get a closer look. Let's check out that Slimy Armor.
+t1.play.items	Looks disgusting, but you're never gonna make it around here if you won't lather yourself in slime for a +1 bonus!
+t1.play.items.2	To wear Slimy Armor, drag it upwards and an "Equip" box will appear to place it in.
+t1.total.strength	Notice that as you play these items, your combat strength increases. Combat strength is equal to your gear bonus plus your current Level.
+t1.play.items2	Let's play the Buckler of Swashing to crank that number even higher. Equipment can't be played in combat, so it's worth gearing up ahead of time.
+t1.end.char.creation	When you're done playing cards, click Continue to get this show on the road! (Or dark foreboding tunnel, as the case may be.)
+t1.turn1	You're up first! At the start of your turn, you'll have a chance to play cards before Kicking Down the Door to the next room of the dungeon. But this time you're all geared up already, so let's get this party started!
+t1.harpies	A monster appears! To defeat the Harpies in combat, your strength must be greater than its level. If you lose, you suffer Bad Stuff!
+t1.tie.v1	Unfortunately, you are tied for strength: 4 to 4. But you've got a card in hand that can help! Check out this Warrior.
+t1.class.v1	As you can see, Warriors win on ties! And unlike equipment, you can play a Class or Race at any time during your turn, even during combat. Go ahead and play that Warrior now.
+t1.tie.v2	Normally you'd lose on a tie. But because you cleverly became a Warrior earlier, we're poised for victory!
+t1.end.player.combat.phase	Click Attack to beat up that Harpy and take its stuff!
+t1.gary.ponfusion	Not so fast! Gary, here. Also known as the Shrieking Geek. Before combat ends, your opponents get a chance to play cards – like this Cotion of Ponfusion I have to increase the Harpies' strength by 3!
+t1.easy	It’s their first game Gary. We agreed we were going to take it easy on them, remember?
+t1.gary.potion	Hey, I'm teaching a valuable lesson, here! Remember, newbie: Life sucks, and people are jerks! And hey, at least it's only a one-shot Item, so I can't do it again.
+t1.jump.in	Don't worry, you get a chance to respond to Gary's nonsense. Go ahead and select Jump-In to take priority from Gary.
+t1.oneshot.v1	Great! Now you can turn the table with that Freezing Explosive Potion! It's a one-shot Item, which means that unlike equipment, it can be played from your hand during combat or on your opponent's turn.
+t1.oneshot.v2	Great! Now you can turn the table with that Freezing Explosive Potion in your inventory! You can open your inventory to access it, or tap its button next to your avatar.
+t1.rewards	Fantastic work! Any time you defeat a monster, you gain a level! You also gain the Harpies' listed reward of 2 treasures.
+t1.charity.warning	Hmm, it seems you have 6 cards in hand. If you end the turn with more than 5, you'll have to give cards to the lowest-level opponent to compensate. To avoid that, why don't you sell those two Treasures you drew – you can't use 'em anyway.
+t1.sell	Each Item has a Gold Piece value in its lower left corner. During your turn when you are not in combat, you can sell 1000 Gold Pieces worth of Items to gain a level. Press the sell Items button to sell your Cloak and Hat.
+t1.pass	Great, you're off to quite a start! Now it's time for Gary and I to take our turns. Press Done to pass the turn to the next player.
+t1.op1.chainsaw	Can't wait to chop some monsters up with this bad boy!
+t1.op1.jump.in	You can Jump In during your opponents' turns too. Gary just played that "Big" Chainsaw, so why don't you jump in and play that "Lose Big Item" Curse on him?
+t1.op1.gary.annoyed	What did you do that for?!
+t1.op1.retort	Life sucks and people are jerks, Gary!
+t1.op1.gary.sulk	Whatever. If you weren't a dumb newb, you'd have waited until I was in combat to really get me. Curses can be played any time, ya know.
+t1.op1.end.jump.in	Yeah, but it was fun to do it now! Let's see what Gary does next.
+t1.kick	Your turn again. Looks to me like you're ready to Kick Open that Door!
+t1.curse	Oh no, a Curse! Sometimes you will find things other than Monsters when Kicking Open the Door. If it's something like a Class or Race card you'll just draw it, but if it's a Curse, it's immediately played – on you!
+t1.curse.2	You'll have to lose that Slimy Armor. On the bright side, maybe someday you'll feel clean again.
+t1.trouble	If you don't encounter a monster, you get the choice to either Look For Trouble by playing a monster from your hand or Loot The Room to draw another Door card.
+t1.trouble.2	Those Crabs you've got in hand should be easy to stomp, so why don't you Look for Trouble and play them?
+t1.gary.comment	Ha, I can't let you win that easily! I'm going to play a Monster Enhancer to make those Crabs Intelligent. They are now level 6, but will give out an additional Treasure if defeated.
+t1.help	Looks like you are short a few strength. Thankfully I'm here to help. You can press the Ask For Help button to request another player add their strength to your strength in battle.
+t1.help.3	Since you're the only one who gains the level for defeating the monster, you'll usually have to bribe people to help you. I'll help you out for the low, low price of a single Treasure.
+t1.offer.2	I accept the offer. Time to enjoy some crab cakes!
+t1.offer.3	You won't be able to equip your Mace of Sharpness now since you are not a Cleric. But go ahead and play it to your Carry area. Perhaps you will find a use for it later.
+t1.op2.fight	You've met your match, tiny dog!
+t1.op2.enrage	Looks like a chance to give Gary a taste of his own medicine. Jump in and Enrage that pooch!
+t1.op2.gary.grumble	Next Gary will try and Run Away by rolling a six sided die. On a roll of 5 or higher he avoids the negative effect of the monsters "Bad Stuff".
+t1.op2.gary.loss	Ow, my aching everything!
+t1.trade	Hmmm.... It seems we both have an Item that can only be equipped by each others' Class. Let's swap!
+t1.trade.2	Any time players aren't in combat they may trade Items. Press the Trade button now to offer me a trade.
+t1.trade.4	Pleasure doing business with you! You can check your gear at any time by clicking your avatar.
+t1.op3.horror	*SHRIEK!* Not the Unspeakably Awful Indescribable Horror! Death becomes me!
+t1.op3.death	Poor Gary. When a player dies, they lose all their stuff other than their Race, Class, Curses, and Level, and are out of the game until the following turn. On their next turn they will draw a new starting hand.
+t1.op3.death.2	But first we get to loot the body, taking one of his cards. Go ahead and take anything that suits your fancy!
+t1.op3.tutorial.end	Well, now that you've looted your first corpse, I think it's safe to say you're a true Munchkin! From here on out, I'll be trying to beat you, not teach you. If you have any questions, check the rulebook in the settings menu.
+t1.op3.tutorial.end2	First player to level 5 wins this time (normally 10). And remember, your last level must be earned by killing a monster!
+t1.op3.tutorial.end3	Oh good, I was just getting warmed up! May the best adventurer win!
+t1.play.items3.demo	Munchkins may only equip one Footgear, Armor, and Headgear, and may only have 1 Item in each hand (or a single two handed Item). You may also only have one Big Item at a time.
+t1.charity.warning.demo	Hmm, it seems you have 6 cards in hand. If you end the turn with more than 5, you'll have to give cards to the lowest-level opponent.
+t1.sell.demo	To avoid having to give things away to Charity, you should make sure to play your cards.
+t1.pass.demo	Your Pointy Hat of Power can only be equipped by a Wizard so it's not especially useful but you can drag it to your Carry area to keep it out of your hand. It won't provide any strength while there.
+t1.crabs.demo	Time to enjoy some crab cakes!
+kin.tutorial.leave	Leave
+kin.tutorial.finish	Finish the Game!
+t1.op3.tutorial.end1	Well, now that you've showed Gary who is boss, you're on your way to being a Munchkin pro! From here on out, I'll be trying to beat you, not teach you.
+t2.set.1	Time for another adventure! Why don't you try thieving this time?
+t2.set.2	The Thief, really? Did you go through the deck and find the card with the most text to read? What kind of tutorial is this?
+t2.turn1.1	Boy, looks like you drew a bunch of useless items. But at least they are worth some gold! Let's see if we can pawn them off on someone else!
+t2.turn1.2	During your turn, when you are not in combat, you can sell 1000 gold worth of items to gain a level. Head to your inventory screen and sell your Stepladder and Shield.
+t2.turn1.3	So you got a level, big deal. I'd rather have a good Item.
+t2.turn1.4	I do like Items. And as a Cleric, I'd really like that Mace of Sharpness you've got there. Why don't you get that into play so you can trade it to me?
+t2.turn1.5	I'm carrying a Dagger that would be perfect for your Thief Class to give you in return. Drag the Mace and Dagger down to the trade areas.
+t2.turn1.7	Yikes, you're going to need a hand fighting this troll. Press this Ask For Help button to bring me in and my strength will be added to your side!
+t2.turn1.8	Since you're the only one who gains the level for defeating the monster, you'll usually have to bribe people to help you. I'll help you out for the low, low price of a single Treasure.
+t2.turn1.9	You're lucky I don't have a monster enhancer right now -- you'd BOTH get hit with the bad stuff if you lost!
+t2.turn1.enemy.1	Jump in now to put your thieving skills to work against Gary.
+t2.turn1.enemy.2	Your abilities will show up here in your action area when available. Discard Bullrog with Backstab to reduce Gary's strength.
+t2.turn1.enemy.3	Hmm... Gary didn't like that one bit. You can track how friendly an AI opponent is here. Players will become more or less friendly as a result of your actions towards them and act accordingly. But beware! The only person you can trust is yourself.
+t2.turn1.enemy.4	*SHRIEK!* Not the Unspeakably Awful Indescribable Horror! Death becomes me!
+t2.turn1.enemy.5	Poor Gary. When a player dies, they lose all their stuff other than their Race, Class, Curses, and Level, and are out of the game until the following turn. On their next turn they will draw a new starting hand.
+t2.turn1.enemy.6	But first we get to loot the body, taking one of his cards. You haven't got any armor yet, so why don't you grab that Flaming Armor?
+t2.turn1.enemy.7	Well, now that you've looted your first corpse, I think it's safe to say you're a true Munchkin expert! From here on out, I'll be trying to beat you to level 10, not teach you. If you have any questions, check the rulebook in the settings menu.
+t2.turn1.enemy.8	Now, shall we finish this game? Or would you rather start a game from scratch in Solo Play, Challenges, or Online Play?
+t2.turn1.triggered.1	Oh good, I was just getting warmed up! May the best adventurer win!
+t2.turn1.triggered.2	Hey (position) isn't so bad for your first real game. You'll show us whose boss in no time!
+t2.turn1.triggered.3	Incredible! A win on your very first game!?! Gary will never let me hear the end of this....
+ftt.undead	You have an undead card in hand. Undead can be played during combat to join another undead.
+ftt.multi.monster	You are facing two monsters. To defeat them you must have more power than their total combined strength.
+t1.curse.3	Curses that you have drawn outside of Kicking Open the Door can be played on other players. Try cursing Gary with "Lose Big Item".
+tutorial.prompt.complete.header	Tutorial Complete
+tutorial.prompt.complete.body	What are you waiting for? There are more dungeons to raid in Local and Online play!
+tutorial.title.tutorial01	Tutorial 1 - Introduction
+tutorial.description.tutorial01	Learn the basics! You've got to start somewhere.
+tutorial.title.tutorial02	Tutorial 2 - More Stuff!
+tutorial.description.tutorial02	Learn how to get yourself out of sticky situations by Trading, Selling, and Asking for Help.
+tutorial.cardanatomy.title	Title
+tutorial.cardanatomy.geartype	Gear Type
+tutorial.cardanatomy.goldcost	Gold Cost
+tutorial.cardanatomy.cardtype	Card Type
+eula.acceptterms	I agree
+eula.requestupdates	Send me news
+eula.title	End User License Agreement
+eula.body	<b>License</b><br>By using this Dire Wolf Digital game (the “Game”) containing this software, you agree that this End User License Agreement (“Agreement”) is a legally binding and valid contract and agree to be bound by it. You agree to abide by the intellectual property laws and all of the terms and conditions of this Agreement.<br><br><uppercase>PLEASE READ THIS END USE LICENSE AGREEMENT CAREFULLY AND ENSURE YOU UNDERSTAND ALL THE FOLLOWING TERMS AND CONDITIONS BEFORE ACCESSING OR USING THE GAME SERVICES.</uppercase><br><br>Your use of the Game indicates your acceptance of this Agreement and warranty.<br><br>Subject to the terms of this Agreement, Dire Wolf Digital grants to you a limited, non-exclusive, non-transferable license, without right to sub-license, to use the Game in accordance with this Agreement and any other written Agreement with Dire Wolf Digital. Dire Wolf Digital does not transfer the title of the Game to you; the license granted to you is not a sale. This Agreement is a binding legal agreement between Dire Wolf Digital and the purchasers or users of the Game.<br><br>If you do not agree to be bound by this Agreement, remove the Game from your computer or similar device now.<br><br><b>Distribution</b><br>The Game and the license herein granted shall not be copied, shared, distributed, re-sold, offered for re-sale, transferred, or sub-licensed in whole or in part.<br><br><b>User Agreement</b><br>You shall use the Game in compliance with all applicable laws and not for any unlawful purpose. Use of the Game means that you have loaded, installed, or run the Game on a computer or similar device.<br><br>To use the online services portion of the Game, you must create an account. You may create an account only if you possess full legal capacity in your country of residence and you have not been specifically prohibited from creating an Account by Dire Wolf Digital. For purposes of this Agreement, online services indicates the means and methods for connecting to other players to engage in chat and play multiplayer games.<br><br>You shall not use, create, promote, or distribute cheats, bots, hacks or any software that exploits, changes, or automates the control, gameplay, or any other functionality of the Game.<br><br>You shall not use any process or software that collects or collates data generated or stored by the Game.<br><br>You shall not use, display or distribution of the Game together with material that is pornographic, racist, vulgar, obscene, defamatory, libelous, abusive, promoting hatred, discriminating, or displaying prejudice based on religion, ethnic heritage, race, gender, sexual orientation, or age.<br><br><b>Copyright Restriction</b><br>This Game contains copyrighted material, trade secrets, and other proprietary material. You shall not, and shall not attempt to, modify, reverse engineer, disassemble, or decompile the Game. You shall not create any derivative works or other works that are based upon or derived from the Game in whole or in part.<br><br>Dire Wolf Digital's name, logo, and graphics file that represents the Game shall not be used in any way to promote non-Dire Wolf Digital products. Dire Wolf Digital retains sole and exclusive ownership of all right, title and interest in and to the Game and all Intellectual Property rights relating thereto.<br><br>Copyright law and international copyright treaty provisions protect all parts of the Game, products, and services. No program, code, part, image, audio sample, or text may be copied or used in any way by the user except as intended within the bounds of the single user program. All rights not expressly granted hereunder are reserved for Dire Wolf Digital.<br><br><b>Limitation of Responsibility</b><br>You will indemnify, hold harmless, and defend Dire Wolf Digital, its employees, agents, and distributors against any and all claims, proceedings, demand and costs resulting from or in any way connected with your use of Dire Wolf Digital's Software.<br><br>In no event (including, without limitation, in the event of negligence) will Dire Wolf Digital, its employees, agents, or distributors be liable for any consequential, incidental, indirect, special or punitive damages whatsoever (including, without limitation, damages for loss of profits, loss of use, business interruption, loss of information or data, or pecuniary loss), in connection with or arising out of or related to this Agreement, the Game or the use or inability to use the Game or the furnishing, performance or use of any other matters hereunder whether based upon contract, tort or any other theory including negligence.<br><br><b>Warranties</b><br>Except as expressly stated in writing, Dire Wolf Digital makes no representation or warranties in respect of this software and expressly excludes all other warranties, expressed or implied, oral or written, including, without limitation, any implied warranties of merchantable quality or fitness for a particular purpose.<br><br><b>Governing Law</b><br>This Agreement shall be governed by and construed in accordance with the laws of the State of Colorado, without regard to principles of conflict of laws. Any dispute arising under this EULA shall be heard exclusively in a federal or state court sitting in the City and County of Denver, Colorado, and you hereby irrevocably agree to the non-exclusive jurisdiction of such courts. If any provision of this Agreement shall be considered unlawful, void or otherwise unenforceable, then that provision shall be deemed severable from this License and not affect the validity and enforceability of any other provisions.<br><br><b>Termination</b><br>Any failure to comply with the terms and conditions of this Agreement will result in automatic and immediate termination of this license. Upon termination of this license for any reason, you agree to immediately cease use of the Game and destroy all copies of the Game supplied under this Agreement. The financial obligations incurred by you shall survive the expiration or termination of this license.<br><br><b>Disclaimer of Warranty</b><br><uppercase>THIS SOFTWARE AND THE ACCOMPANYING FILES ARE PROVIDED AND/OR SOLD "AS IS" AND WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED (INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTY OF PERFORMANCE, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE), AND ALL SUCH WARRANTIES ARE HEREBY DISCLAIMED. THIS DISCLAIMER CONCERNS ALL FILES GENERATED AND EDITED BY THE GAME AS WELL.</uppercase><br><br>
+ai.avatar.floatingnose	Nosy Ned
+ai.avatar.wightbrothers	The Brothers Wight
+ai.avatar.plutoniumdragon	Dr. Dragon
+ai.avatar.bullrog	Fred
+ai.avatar.pottedplant	Peaty Potter
+ai.avatar.theshadow	The Shadow
+ai.avatar.fredflametoe	Terry Flametoe
+ai.avatar.largeangrychicken	Mr. Chicken
+ai.avatar.mrbones	Ben Bonesly
+ai.avatar.tonguedemon	Lana Longton
+ai.avatar.nettroll	Ted Trollbooth
+ai.avatar.carolcatsuit	Carol Catsuit
+ai.avatar.slimysal	Slimy Sal
+ai.avatar.harriethippietin	Harriet Hippietin
+ai.avatar.sallyswording	Sally Butterknife
+ai.avatar.earlyuppiedink	Earl Yuppiedink
+ai.avatar.debbieaxerow	Debbie Axerow
+ai.avatar.courageouscarl	Courageous Carl
+ai.avatar.insurancesalesman	Sal from Sales
+ai.avatar.stonedgolem	Rocky
+ai.avatar.wannabeevampire	Count Wannabee
+ai.avatar.pierrearrlington	Pierre Arrlington
+ai.avatar.ghouliaghostly	Ghoulia Ghostly
+ai.avatar.randyrulefinder	Randy Rulefinder
+ai.avatar.ottoorcington	Otto Orcington
+ai.avatar.mwelbybalding	Welby Balding
+ai.avatar.pandolfpocus	Pandolf Pocus
+ai.avatar.maulrat	Maulery Ratstuff
+ai.avatar.breehornshield	Brie Hornshield
+ai.avatar.sueshorterly	Sue Shorterly
+ai.avatar.morwengreenfoot	Morwen Greenfoot
+kin.challenge.trackmeet.name	Track Meet
+kin.challenge.trackmeet.normal.description	When a player successfully Runs Away, they gain a level (can't be the winning level).
+kin.challenge.trackmeet.heroic.description	When a player successfully Runs Away, they gain a level (can't be the winning level). Opponents all start with Boots of Running Really Fast.
+kin.challenge.superduper.name	Super-Duper
+kin.challenge.superduper.normal.description	Instead of drawing Door cards at the start of the game, you start with Super-Munchkin and two random Classes, and Half-Breed and two random Races.
+kin.challenge.superduper.heroic.description	Everyone starts with Super-Munchkin and two random classes, and Half-Breed and two random races. You start without Door cards.
+kin.challenge.rulesofattraction.name	Rules of Attraction
+kin.challenge.rulesofattraction.normal.description	You start with the Kneepads of Allure but your opponents start at Level 3.
+kin.challenge.rulesofattraction.heroic.description	Everyone starts with Kneepads of Allure. Your opponents start at level 3.
+kin.challenge.babyland.name	Baby Land
+kin.challenge.babyland.normal.description	All monsters are Babies (-5 strength, -1 treasure). Low level monsters in deck replaced by higher level ones.
+kin.challenge.babyland.heroic.description	All monsters are Babies (-5 strength, -1 treasure). Low level monsters in deck replaced by higher level ones. You get -1 to your roll when running away from Babies.
+kin.challenge.veryhelpful.name	Very Helpful
+kin.challenge.veryhelpful.normal.description	You start as an Elf, but can’t refuse Ask For Help offers.
+kin.challenge.veryhelpful.heroic.description	You start as an Elf, but can’t refuse Ask For Help offers. The door deck has 5 extra Face Suckers and Leprechauns in it.
+kin.challenge.dicechucker.name	Dice Chucker
+kin.challenge.dicechucker.normal.description	Monster levels are increased by 3. Whenever a player starts a combat on their turn they roll a die and add the number to their combat strength.
+kin.challenge.dicechucker.heroic.description	Monster levels are increased by 3. Whenever a player starts a combat on their turn they roll a die and add the number to their combat strength. Opponents are dirty cheaters and always roll at least a 3 this way.
+kin.challenge.neveradullmoment.name	Never a Dull Moment
+kin.challenge.neveradullmoment.normal.description	At the start of turn, players draw a non-monster door card face down. Players will ALWAYS draw a Monster when Kicking Open The Door.
+kin.challenge.neveradullmoment.heroic.description	At the start of turn, other players draw a non-monster door card face down. Yours will be face up instead (watch out for curses!). Players will ALWAYS draw a Monster when Kicking Open The Door.
+kin.challenge.charactersheetconfusion.name	Character Sheet Confusion
+kin.challenge.charactersheetconfusion.normal.description	At the start of your turn, you randomly become a different Race, Class, or gender.
+kin.challenge.charactersheetconfusion.heroic.description	At the start of your turn, you randomly become a different Race, Class, or gender. Your opponents start at level 3.
+kin.challenge.merchantofmenace.name	Merchant of Menace
+kin.challenge.merchantofmenace.normal.description	The AI will never refuse a trade if it’s receiving an Item of equal or greater value. Buying level ups costs 500 Gold Pieces more.
+kin.challenge.merchantofmenace.heroic.description	The AI will never refuse a trade if it’s receiving an Item of equal or greater value. You cannot sell Items to level up.
+kin.challenge.loner.name	Loner
+kin.challenge.loner.normal.description	You start with a Rat on a Stick and a Nasty Tasting Sports Drink in play. You cannot Ask For Help from other players this game.
+kin.challenge.loner.heroic.description	You start with a Rat on a Stick and a Nasty Tasting Sports Drink in play. You cannot Ask For Help from other players this game. Opponents start out as hostile to you.
+kin.challenge.doubletrouble.name	Double Trouble
+kin.challenge.doubletrouble.normal.description	All level 1-2 monsters you encounter when Kicking Open The Door appear with a mate.
+kin.challenge.doubletrouble.heroic.description	All level 1-4 monsters you encounter when Kicking Open The Door appear with a mate.
+kin.challenge.pantslessjuggler.name	Pantsless Juggler
+kin.challenge.pantslessjuggler.normal.description	You may carry up to 6 Hands worth of Items but may not equip Footgear or Armor. You start with a random 2-Handed Item in hand in place of one of your Treasures.
+kin.challenge.pantslessjuggler.heroic.description	You may carry up to 6 Hands worth of Items but may not equip Footgear or Armor. You start with a random 2-Handed item in hand in place of your Treasures.
+kin.challenge.curses.name	Curses!
+kin.challenge.curses.normal.description	The deck has two times as many curses in it. You start with a Wishing Ring.
+kin.challenge.curses.heroic.description	The deck has two times as many curses in it. Opponents start with Sandals of Protection.
+marketing.1	Kill the monsters! Steal the treasure! Stab your buddy!
+marketing.2	In partnership with Steve Jackson Games, the iconic tabletop card game Munchkin brings its murderous mischief to digital devices!
+marketing.3	Go down to the dungeon. Kick in the door. Kill everything you find. Backstab your friends. Steal the treasure and run.
+marketing.4	With millions of copies sold around the world, Munchkin is the mega-hit card game about dungeon adventure...with none of that stupid roleplaying stuff. You and your friends compete to kill monsters and grab magic items. Don the Horny Helmet and the Boots of Butt-Kicking. Wield the Staff of Napalm...or maybe the Chainsaw of Bloody Dismemberment. Start by slaughtering the Potted Plant and the Drooling Slime, and work your way up to the Plutonium Dragon!
+marketing.5	Shuffle Up an Adventure!
+marketing.6	You're a Munchkin...and Munchkins love treasure! But a stack of pesky monster and Curse cards are between you and your hard-earned loot!
+marketing.7	Munchkin is played in a series of rounds using Door cards and Treasure cards to explore a dungeon.
+marketing.8	Build a character by combining Race and Class cards, then gear up to face the lurking monsters!
+marketing.9	Kill monsters and collect Treasure to level up! The first Munchkin to reach Level 10 wins!
+marketing.10	But wait...there's more!
+marketing.11	Cross-platform, online multiplayer shenanigans!
+marketing.12	Learn the tricks of the adventuring trade in a dungeon-delving tutorial!
+marketing.13	Sharpen your blade in Solo Challenges with special rules!
+marketing.14	Go looking for trouble in Munchkin. Hey, we're all going to get roasted and eaten sometime.
