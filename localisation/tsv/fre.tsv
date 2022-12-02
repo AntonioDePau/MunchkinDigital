@@ -1,0 +1,1391 @@
+#_	_
+button.back	Retour
+settings.gameplay.title	Jouabilité
+settings.video.resolution	Résolution
+tutorial.advanced.separator	Advanced Tutorials
+button.newtag	NOUVEAU
+gameoptions.timer.slow	Relax
+gameoptions.timer.fast	Direct
+multiplayer.globalchat	Chat global
+button.account	Compte
+login.title.change.user	Changer d'utilisateur
+changepassword.title	Changer le mot de passe
+login.logoutbutton	Déconnexion
+friends.removefreind	
+friends.addfriend	Ajouter Un Ami
+friends.invitefriends.button	
+friends.invitefriends.send	Envoyer
+singleplayer.header.label	Défis
+button.no	Non
+button.yes	Oui
+prompt.continuesaved.desc	Vous avez une partie en cours sauvegardée Voulez-vous poursuivre cette partie ou la supprimer et en commencer une nouvelle ?
+prompt.continuesaved.title	Continuer la partie
+prompt.continuesaved.buttonnewgame	Nouvelle partie
+button.continue	Continuer
+login.title.create.account	Créer un compte
+login.email	E-mail
+createaccount.screenname	Nom à l'écran
+login.password	Mot de passe
+createaccount.reenterpassword	Resaisir le mot de passe
+button.cancel	Annuler
+button.close	Fermer
+direbytes.header	Actualités de Dire Wolf
+direbytes.none	Pas d'actualités de Direwolf
+direbytes.link	Lien
+direbytes.store	Boutique
+button.commit	
+button.submit	Envoyer
+settings.feedback	Avis
+settings.feedback.email.placeholder	E-mail
+settings.feedback.placeholder	Saisir le problème ici. Veuillez inclure votre faction et le mode de jeu le cas échéant.
+settings.feedback.send	Envoyer
+settings.feedback.sendlogs	Envoyer les journaux d'événements
+login.forgotpassword	Mot De Passe Oublié
+login.forgotpassword.reset	Réinitialiser
+friends.title	Amis
+playonline.optionheader.password	Mot de passe
+savedgames.joingame	Rejoindre une partie
+button.ok	O.K.
+button.tutorial	Tutoriel
+mainmenu.localplay	Partie locale
+mainmenu.onlineplay	Partie en ligne
+button.shop	Boutique
+button.quit	Quitter le jeu
+mainmenu.leaderboards	Classements
+leaderboards.friendsonly	Amis uniquement
+prompt.leaderboard.score.label	
+prompt.leaderboard.rank.label	Classement
+prompt.leaderboard.name.label	Nom
+login.title.log.in	Connexion
+settings.login	Connexion
+login.create.account	Créer un compte
+changepassword.oldpassword	Ancien mot de passe
+changepassword.newpassword	Nouveau mot de passe
+multiplayer.gotogame	Aller à la partie
+multiplayer.playonline	Jouer En Ligne
+multiplayer.showpasswordgames	Show Password Games
+multiplayer.activetab	Actif
+lobby.nogames.label	Aucune partie
+multiplayer.browsertab	Navigateur
+multiplayer.columntimer	Chrono
+multiplayer.columnname	Nom
+multiplayer.columnbanned	Banni
+multiplayer.columnplayers	Joueurs
+gameoptions.creategame	Créer Une Partie
+gameoptions.startgame	Commencer la partie
+gameoptions.joingame	Rejoindre une partie
+button.rules	Règles
+settings.gen.title	Réglages
+settings.video.title	Vidéo
+settings.audio.title	Audio
+settings.pc.windowed	Fenêtré
+settings.pc.vsync	Synchronisation verticale
+settings.video.quality	Qualité
+settings.audio.musicvolume	Volume de la musique
+settings.audio.effectsvolume	Volume des effets
+settings.languages	Langues
+settings.eula	CLUF
+solooptions.singleplayer	Campagne
+solooptions.play	Contre L'ia
+multiplayer.passandplay	Passer et Jouer
+appirater.header	Évaluer l'application
+appirater.body	Root vous plaît ? N'hésitez pas à nous donner votre avis.
+appirater.ratebutton	Évaluer l'application
+appirater.remindbutton	Me le rappeler plus tard
+appirater.rejectbutton	Non, merci
+playonline.confirmresign	Voulez-vous vraiment abandonner cette partie ?
+settings.pc.confirmation.body	Voulez-vous conserver ces paramètres d'affichage ? Les paramètres précédents seront restaurés dans {0} secondes.
+friends.category.invites	Invitations
+friends.category.online	En ligne
+friends.category.offline	Hors ligne
+friends.category.count.label	({0})
+store.restorepurchaseserror.default	
+dialogmessages.resetpassword.info	Consultez votre messagerie pour plus d'informations.
+lobby.timerdisplay.hoursformat	{0} h
+lobby.timerdisplay.minsformat	{0} min
+lobby.timerdisplay.daysformat	{0} j
+playonline.cpuplayer.label	IA
+playonline.waitingplayer.label	<color=#858585>En attente du joueur</color>
+playonline.joinedplayer.label	<color=#FFFF00>{0}</color>
+playonline.availablegames.game	Partie de {0}
+waitingforplayers.timer.label	Durée maximale des tours : {0}
+waitingforplayers.aidifficulty.label	Difficulté IA : {0}
+gameoptions.aidifficultyeasy	Facile
+gameoptions.aidifficultymedium	Moyen
+gameoptions.aidifficultyhard	Difficile
+waitingforplayers.invalideplayerstate	Une erreur s'est produite. Veuillez réessayer.
+dialogmessages.lobbyended.message	Le salon que vous observiez n'existe plus.
+playsolo.match.startfailure	Impossible de charger la partie.
+prompts.gameresults.title	Partie perdue
+dialogmessages.feedback.success	Merci d'avoir partagé vos réactions.
+prompttitles.generic.success	Succès
+singleplayer.difficulty.label	Difficulté : {0}
+singleplayer.difficulty.easy	
+singleplayer.difficulty.medium	
+singleplayer.difficulty.hard	
+quitapplication.confirm.message	Voulez-vous vraiment quitter ?
+login.loggedinas	Connexion en tant que : {0}
+friends.invitationsent	Invitation envoyée !
+friends.areyousure	Vous êtes sûr ?
+dialogmessages.invitefriend.success	Invitation envoyée !
+login.error.invalidemail	Erreur : e-mail non valide
+login.error.invalidusername	Erreur : nom d'utilisateur non valide
+login.error.invalidpassword	Erreur : le mot de passe doit comporter au moins 6 caractères et des lettres et des chiffres.
+login.error.passwordmismatch	Erreur : les mots de passe ne correspondent pas
+prompts.loginfailure.nocredentials	
+prompts.loginfailure.eulanotaccepted	Veuillez accepter le CLUF avant de vous connecter.
+dialogmessages.login.errors.upgradeclient	Impossible de se connecter, veuillez vous assurer que votre client est à jour.
+dialogmessages.login.errors.couldnotconnect	Impossible de se connecter au serveur d'autorisation. Veuillez réessayer plus tard.
+dialogmessages.login.errors.gatewaydown	Impossible de se connecter à la passerelle.
+dialogmessages.login.errors.ipbanned	Impossible de se connecter depuis cette adresse IP.
+dialogmessages.login.errors.maintenance	Impossible de se connecter. Serveur en maintenance.
+dialogmessages.login.errors.serverfull	Impossible de se connecter. Serveurs au complet pour le moment.
+network.checkconnection	Vérifiez votre connexion à Internet.
+dialogmessages.login.errors.default	Impossible de se connecter pour le moment.
+dialogmessages.registration.thanksnewaccount	Merci pour votre inscription !
+dialogmessages.registration.toomanyrequests	Demandes trop nombreuses. Veuillez réessayer dans 15 minutes.
+dialogmessages.registration.authunavailable	Impossible de se connecter au serveur d'autorisation. Veuillez réessayer plus tard.
+dialogmessages.registration.failure	Impossible de créer un compte :
+ {0}
+code.redeem.equip.immediate	
+dialogmessages.continuegame.playeractivationfailure	
+match.start.failure	Échec du chargement du match
+multiplayer.matchremoved	Ce match n'existe plus.
+multiplayer.matchresigned.2	Vous avez abandonné le match avec {0}.
+multiplayer.matchresigned.3	Vous avez abandonné le match avec {0} et {1}.
+multiplayer.matchresigned.4	Vous avez abandonné le match avec {0}, {1} et {2}.
+multiplayer.matchresigned.5	
+multiplayer.matchresigned.6	
+dialogmessages.resignfromgame.failure	Impossible d'abandonner. Vérifiez votre connexion à Internet.
+rankedselect.errors.connectfailed	Votre connexion a expiré. Veuillez vérifier votre connexion Internet et réessayer.
+dialogmessages.feedback.timeout	Une erreur s'est produite pendant l'envoi des réactions.
+dialogmessages.leaderboard.failure	Impossible de récupérer le tableau des scores pour le moment.
+dialogmessages.addfriend.accountnotfound	Erreur pendant l'envoi de l'invitation d'amitié : compte introuvable.
+dialogmessages.addfriend.invitefailure	Erreur pendant l'envoi de l'invitation d'amitié.
+dialogmessages.acceptfriend.failure	Erreur lors de l'acceptation de l'invitation d'amitié.
+dialogmessages.cancelfriendrequest.failure	Erreur durant l'annulation d'une demande d'ami.
+dialogmessages.removefriend.failure	Erreur lors de la suppression de l'ami(e).
+dialogmessages.invitefriend.failure	Impossible d'envoyer l'invitation, veuillez réessayer plus tard.
+disconnect.timeout	Connexion expirée
+disconnect.idletimeout	
+dialogmessages.changepassword.success	Votre mot de passe a été modifié avec succès.
+dialogmessages.passwordpolicy	Votre mot de passe doit comporter au moins 6 caractères, une lettre majuscule et des lettres et des chiffres.
+dialogmessages.login.errors.invalidlogin	E-mail ou mot de passe non valide.
+dialogmessages.continuegame.failure	Impossible de se connecter au jeu. Erreur : {0}
+disconnect.defaultreason	Connexion avec le serveur perdue
+challenges.startgame	Commencer une partie
+addfriend.addplayername	Player Name or Email
+button.accept	
+button.invite	Inviter
+online.lobbypassword.enter	Indiquer mot de passe salon
+button.exit	Sortir
+settings.audio.mute	Muet
+header.campaign	Campagne
+game.over.prompt.confirm	Quitter la partie
+settings.pc.graphics.high	Élevé
+settings.pc.graphics.medium	Moyen
+settings.pc.graphics.low	Bas
+account.error.usernametaken	Le compte existe déjà
+mainmenu.friends	Amis
+settings.title	Réglages
+friends.invite	Inviter
+friends.removefriend	Retirer un ami
+friends.game.invite.accept	Accepter
+friends.game.invite.decline	Refuser
+friends.cancelrequest	Annuler
+button.next	Suivant
+landing.grm	Lancer l'appli Game Room de Dire Wolf
+settings.clientversion	Version du client :
+settings.serverversion	Version du serveur :
+button.saveandquit	Sauvegarder et quitter
+settings.resign	Abandonner
+landing.achievements.gc	Succès
+button.mainmenu	Menu principal
+button.replay	Rejouer
+button.resign	Abandonner
+lobby.resign.confirmation	Voulez-vous vraiment abandonner cette partie ?
+player.unsetperson	En attente d'un joueur...
+player.localperson	Vous
+button.skip	Passer
+dialogmessages.registration.nointernet	Pas de connexion à Internet
+playonline.error.wrongpassword	Mot de passe incorrect
+playonline.error.waitingoncasual	
+playonline.error.cannotcreatelivegame	
+playonline.error.cannotcreateasyncgame	
+block.player	Bloquer le joueur
+multiplayer.blockplayer	Bloquer {0} cachera ses messages. Cette action est irréversible.
+multiplayer.reportplayer	{0} a été bloqué(e). Voulez-vous signaler ce joueur ?
+multiplayer.reportplayer.describe	Veuillez expliquer pourquoi vous souhaitez signaler {0}.
+multiplayer.reportplayer.reason.abusive	Messages abusifs ou inappropriés sur le chat
+multiplayer.reportplayer.reason.inappropriateusername	Nom d'utilisateur inapproprié
+multiplayer.reportplayer.reason.griefing	Comportement antijeu ou jeu volontairement lent
+multiplayer.reportplayer.reason.cheating	Possible triche ou usage de bot
+name.ai.easy	
+name.ai.medium	
+name.ai.hard	
+button.createfriendgame	
+playonline.yourturn	
+multiplayer.yourturn.2	
+mainmenu.friendgame	
+button.invitefriend	
+player.defaultname	
+button.decline	
+button.minimize	
+button.expand	
+multiplayer.matchchat	
+multiplayer.variants	
+prompt.unitdetails.title.monster	
+prompt.unitdetails.title.player	
+prompt.unitdetails.subheader	
+trade.empty.player	
+trade.empty.partner	
+trade.theyget	
+trade.iget	
+sell.wontlevel	
+sell.youritems	
+sell.tosell	
+sell.empty	
+kin.level	
+prompt.inventory.offertrade	
+prompt.inventory.sellforlevel	
+playmat.battle.askforhelp	
+playmat.battle.runaway	
+playmat.battle.failed	
+playmat.battle.success	
+prompt.avatarselection	
+prompt.showowned	
+prompt.sort	
+card.type.class	Classe
+card.type.race	Race
+card.type.item	
+card.type.item.big	
+card.type.item.oneshot	
+card.type.curse	Malédiction !
+card.type.special	
+card.type.monster	
+card.type.monster.undead	Mort-vivant
+card.type.monsterenhancer	
+playmat.battle.win	
+player.name.self	Vous
+playonline.offplayer.label	Fermé
+login.newaccount	Nouveau Compte
+playonline.humanplayer.label	Ouvert
+character.race.norace	
+character.race.human	
+character.race.dwarf	Nain
+character.race.elf	Elfe
+character.race.halfling	Halfelin
+character.class.noclass	
+character.class.none	
+character.class.cleric	Prêtre
+character.class.thief	Voleur
+character.class.warrior	Guerrier
+character.class.wizard	Magicien
+button.emote	
+placement.1st	
+placement.2nd	
+placement.3rd	
+placement.4th	
+placement.5th	
+placement.6th	
+button.done	
+gen.one	
+gen.two	
+gen.three	
+prompt.inventory.configure	
+equip.armor	Armure
+equip.headgear	Couvre-chef
+equip.footgear	Chaussures
+equip.onehand	1 main
+equip.twohand	2 mains
+equip.twohandbig	2 mains Gros
+equip.oneshot	
+prompt.tradeoffer.togive	
+prompt.tradeoffer.toreceive	
+prompt.tradeoffer.header	
+prompt.tradecomplete.accepted	
+prompt.tradecomplete.rejected	
+sell.noitemstosell	
+deck.door	
+deck.treasure	
+sex.male	
+sex.female	
+prompt.inventory.equipped	
+prompt.inventory.carried	
+prompt.inventory.inhand	
+prompt.inventory.raceclass	
+button.block	
+prompt.unequip.header	
+prompt.replaceclass.header	
+prompt.replacerace.header	
+prompt.lootthebody.header	
+prompt.played	
+prompt.readylivegame	Votre partie en direct est prête. Étant donné la durée limitée des tours, vous devez y aller immédiatement.
+prompt.discard.header	
+dragtarget.drophere	
+dragtarget.usenow	
+dragtarget.addundead	
+prompt.stealcard.header	
+prompt.choosecard.header	
+prompt.chooseplayer.header	
+prompt.choosemanyplayers.header	
+prompt.killhireling.header	
+prompt.choosediscardpile.header	
+button.confirm	
+emote.curses	
+emote.incredible	
+emote.help	
+emote.unplanned	
+emote.wellplayed	
+emote.run	
+prompt.general.or	
+prompt.reportplayer.dropdown	Choisissez la raison du signalement
+prompt.discarded	
+prompt.gave	
+prompt.stole	
+button.distract	
+kin.killnose	
+button.wave	
+button.scare	
+button.bribe	
+button.ignorefight	
+prompt.cursed	
+prompt.cheat.header	
+button.reconnect	
+match.askforhelp.failed	
+playonline.error.cannotjoingame	
+gameoptions.endturnjumpin	
+prompt.title.tradedfor	
+prompt.used	
+button.mustaccept	
+prompt.sold	
+kin.deckshuffle.door	
+kin.deckshuffle.treasure	
+auto.update.body	Une mise à jour est disponible.
+auto.update.body.forced	Une mise à jour est requise pour continuer.
+auto.update.confirm	Mettre à jour
+button.reject	
+deck.door.top	
+deck.treasure.top	
+card.type.monster.baby	
+card.type.monster.baby.undead	
+prompt.looted	
+dialogmessages.addfriend.inviteexists	Invitation déjà envoyée à cet utilisateur.
+login.deleteaccountbutton	Supprimer le compte
+deleteaccount.confirm.message	Voulez-vous vraiment supprimer votre compte ?
+deleteaccount.complete.message	Consultez votre messagerie pour finaliser la suppression du compte.
+deleteaccount.failed.message	Une erreur de réseau a empêché la suppression de votre compte. Veuillez réessayer plus tard.
+playonline.error.gamefull	Cette partie est complète.
+dialogmessages.continuegame.failure.gameended	
+kin.combat.rewards.draft.pick	
+equip.armorbig	
+equip.onehandbig	
+equip.slotlessbig	
+multiplayer.gamecompleted.1	
+multiplayer.gamecompleted.2	
+multiplayer.gamecompleted.3	
+multiplayer.gamecompleted.4	
+multiplayer.gamecompleted.5	
+multiplayer.gamecompleted.6	
+prompt.gave.too.big	
+kin.event.revived	
+test.ops.key	
+base.door.50de36e5-d3ba-4bd6-abe2-694c8f1c2d7e.name	Dragon de Plutonium
+base.door.278b4940-f066-4019-a0e5-4f9a5cc09f0e.name	Mr. Nonos
+base.door.51ae062a-ebff-11ec-8ea0-0242ac120002.name	Changement de Classe
+base.door.2cdcfcbf-228b-46b9-851e-6d5ba05f8300.name	Changement de Race
+base.door.171641c6-ba97-425c-8b65-9d5a04105a04.name	Changement de Sexe
+base.door.1c9f4659-bc94-4904-ad2c-7cf9b733c88c.name	Poulet sur la Tête
+base.door.4e2b9d92-2841-4ba8-ac42-8cfe1ab6b519.name	Canard de l’Apocalypse
+base.door.c72b235c-c758-427e-a882-e21aa0a8d351.name	Impôt sur le Revenu
+base.door.fd91affd-27ba-4d0c-88b3-bb4313c440cf.name	Grosse Perte
+base.door.1c83481f-ed9e-4e3f-9d78-72e527693ff7.name	Perdez 1 niveau
+base.door.217b04bf-e9b0-4878-b1cd-4f9122239913.name	Perdez 1 niveau
+base.door.d6fd9095-d91a-42f3-9004-98181b10eaf0.name	Petite Perte
+base.door.e9f354fb-0267-487b-a4dc-2709b65c870d.name	Petite Perte
+base.door.4a26cc13-09e9-4366-97f3-70a176a6c9bc.name	
+base.door.2df75f0c-19e7-42c4-b978-7d41a0042dde.name	
+base.door.4d904b4c-d13a-4112-875a-35cfceaede54.name	
+base.door.be74d2ee-5455-425d-93ea-dbb443ea778a.name	Perdez deux cartes
+base.door.25b06508-10aa-43de-a3c7-24880b8afd72.name	Déclassé
+base.door.d5183d93-4f22-4aa2-a6fb-bacb6fa1d33e.name	Commun des Mortels
+base.door.e0be0f5f-0724-4d82-b577-c55ff5b74839.name	Miroir Perfide
+base.door.b42aff04-6ff2-41c2-af92-637b283b8ea5.name	Vraiment Trop Injuste
+base.door.2413c379-f721-42d6-aca8-e1fb7eb9011f.name	Prêtre
+base.door.5705ed95-b87d-4cc0-9daf-f6382be734a8.name	Voleur
+base.door.7ff31d6d-05bd-4b10-bae9-fe18ba7ea087.name	Guerrier
+base.door.388e4af8-ba44-4715-9962-455838bfbe73.name	Magicien
+base.door.b1cc599b-1ab0-4980-ad9a-f99882647fb0.name	Super Munchkin
+base.door.ff722a55-5407-439d-b7af-57f633e0dbf3.name	Nain
+base.door.9fa924db-5b36-4831-9f6e-de8303b001b0.name	Elfe
+base.door.d9952bfe-f65d-4d46-881a-7e1a2e46f06f.name	Halfelin
+base.door.4e25e9b2-f39b-426e-9fc0-134d00226b98.name	Sang-mêlè
+base.door.a3f1f98e-27d1-4bd5-b97f-203a89114790.name	Balrog Charolais
+base.door.e93e7b43-62bd-4ab3-be4c-506c8a6a621c.name	Céphalopodzilla
+base.door.8ab95f50-2c7a-4e6b-ae43-51a51b64b5d3.name	Hippogriffe
+base.door.afed7786-e2e9-4ca2-a0a6-d30d6df3702b.name	Tut-Tuuut-Ankh-Ammon
+base.door.cd3f3f05-8317-450c-86e4-fd91e0c06bb4.name	René Crophage et Fils, Dépanneurs en Chirurgie
+base.door.af48c486-1888-4e7e-ad55-0b48d227af3c.name	Représentant en Assurances
+base.door.65dee751-4508-4804-8faa-b17fa9c4ed79.name	Golem Fracassé
+base.door.aa5584c1-fd5d-49a5-8cc0-75f3422c8e6a.name	Horreur non-euclidienne indicible
+base.door.37b667a1-23ac-4a5f-9427-afff2dad4705.name	Bigfoot, alias Grand-Pied
+base.door.4977fc4f-66df-40a6-b5ca-562bb4c8b112.name	Succube Langue-de-Belle-Mère
+base.door.3ee0b351-54f2-4480-9aa3-380d2593e84a.name	Fan De Vampire
+base.door.55e5c91e-a987-4900-abec-0f502175288a.name	3872 Orques
+base.door.db29801c-5fe4-4a6c-9e41-35752d1a36bb.name	Nez Flottant
+base.door.43b16c0e-49ac-4688-8db8-5737cbd50eef.name	Trôliste
+base.door.3fb5c60b-98a1-4775-b7b7-7c02910732f2.name	Amazone
+base.door.4d052f9a-2def-4ab8-b100-fde850b71507.name	Belvédère Sauvage
+base.door.88716968-ead5-4473-9db2-85b9e9f69ef0.name	Vamps...ires !?!
+base.door.6832d810-5af2-40f9-9877-0dfe91d808f2.name	Suceur de Tête
+base.door.79d7e37c-ad44-460e-a1e9-e65bceeaed00.name	Huissier
+base.door.ef2c8c7e-3043-46a6-ba47-c69ab67f7f2f.name	Manticor- nithorynque
+base.door.739ed395-dbbd-4108-92c3-4cbfd317e9c5.name	Gerbosaure
+base.door.83ddfb20-2791-40bb-ba58-c051ae2eae9c.name	Binoclard Hurleur
+base.door.2f0b14f5-4aab-4855-b9c6-3a340349af8a.name	Harpies
+base.door.4a0ad1cf-01bf-423a-9328-e983d188032f.name	Lépreuxchaun
+base.door.f906cf16-5a1a-422c-b3fa-9ec583e54c4e.name	Escargots sous Acide
+base.door.63df5d66-f885-4e54-94f7-2cf4e1a8b8d0.name	Cheval Zombie
+base.door.b9d66767-ceee-47bb-a428-691cb557c716.name	Grenouilles Volantes
+base.door.cc935bfb-40a1-42c0-9c14-d89f91662971.name	Octaèdre Gélatineux
+base.door.53f277b6-ed4b-498d-a582-a2d31c38bf52.name	Poulet Élevé aux Stéroïdes
+base.door.93a5ec2f-ee7f-4654-a28d-fcf045fa0f97.name	Pit Bull
+base.door.25586aec-1ac3-4b4b-9c9a-bead276efac1.name	Morpions
+base.door.96f29253-b3f9-483f-8028-2e96e2aa519f.name	Mucus Baveux
+base.door.da9241e2-ed86-4ee1-9a5b-637c95598d4d.name	Gobelin Estropié
+base.door.e013dc7b-77a6-458c-af20-30de04317cc0.name	Rat Musclé
+base.door.6bcc1629-aaea-409b-9dbc-7fe53576d6a6.name	Plante d’Ornement
+base.door.db4f0e50-a540-4f28-bf8c-cc3eef7d8110.name	Vénérable
+base.door.bf631030-1e99-4ccc-ae8f-a538a9038c0b.name	Bébé
+base.door.07501f59-6c5a-41fb-99be-e6b0706e001d.name	Enragé
+base.door.45814a37-7d87-4333-8e69-3068628f2474.name	Énoooorme
+base.door.b6ec7ed3-9676-42c9-a55b-f5803f12470d.name	Intelligent
+base.door.b95cafbd-d581-43ff-a08b-39979135b256.name	Petite Amie
+base.door.efa6fd1e-5308-467c-ae0e-2db9ccfe211a.name	Monstre Errant
+base.door.db238a1c-81ef-4b02-8bc2-4dcb50577ab3.name	Tricheur!
+base.door.68e54c25-7e83-4c13-ab9a-13d1381d5850.name	Intervention Divine
+base.door.8cf2ebf1-610d-448e-a5f6-76f4c73d8176.name	Tire-moi de là !
+base.door.04774ddc-83e9-48a2-b1ed-3ae630e511b3.name	Illusion
+base.door.47b91b62-624d-4543-a0da-50e55cf47a56.name	Pause Déjeuner
+base.door.50de36e5-d3ba-4bd6-abe2-694c8f1c2d7e.text	
+base.door.278b4940-f066-4019-a0e5-4f9a5cc09f0e.text	Si vous devez vous enfuir, vous perdez 1 niveau même si vous arrivez à Déguerpir.
+base.door.51ae062a-ebff-11ec-8ea0-0242ac120002.text	Si vous n’avez pas encore de Classe, cette malédiction est sans effet. Sinon, regardez une à une les cartes de la défausse, en commençant par la dernière posée. La première carte de Classe que vous trouvez remplace votre (ou vos) Classe(s) actuelle(s). Si la défausse n’en contient aucune, vous perdez simplement votre Classe.
+base.door.2cdcfcbf-228b-46b9-851e-6d5ba05f8300.text	Si vous n’avez pas encore de Race, cette malédiction est sans effet. Sinon, regardez les cartes de la défausse, en commençant par la dernière posée. La première carte de Race que vous trouvez remplace votre (ou vos) Race(s) actuelle(s). Si la défausse n’en contient aucune, vous perdez simplement votre Race.
+base.door.171641c6-ba97-425c-8b65-9d5a04105a04.text	Vous êtes momentanément distrait par le changement pendant votre prochain combat (malus de -5). Après, il n’y a plus aucun malus. Toutefois, le changement est permanent.
+base.door.1c9f4659-bc94-4904-ad2c-7cf9b733c88c.text	-1 à tous vos jets de dé. Toute Malédiction ou Incident Fâcheux qui vous retire votre Couvre-chef fera également disparaître le poulet.
+base.door.4e2b9d92-2841-4ba8-ac42-8cfe1ab6b519.text	Les aventuriers malins ne ramassent pas de canard dans les donjons. Perdez 2 niveaux.
+base.door.c72b235c-c758-427e-a882-e21aa0a8d351.text	Défaussez un objet de votre choix. Chaque autre joueur doit maintenant défausser un ou des objets dont la valeur totale égale au moins celle du vôtre. Ceux qui n’ont pas assez pour payer doivent défausser tous leurs objets et perdre 1 niveau.
+base.door.fd91affd-27ba-4d0c-88b3-bb4313c440cf.text	Choisissez un Gros objet à défausser
+base.door.1c83481f-ed9e-4e3f-9d78-72e527693ff7.text	Perdez 1 niveau
+base.door.d6fd9095-d91a-42f3-9004-98181b10eaf0.text	Choisissez un petit objet à défausser. Tout objet qui n’est pas spécifiquement désigné comme « Gros » est petit.
+base.door.4a26cc13-09e9-4366-97f3-70a176a6c9bc.text	Perdez l’Armure que vous portez
+base.door.2df75f0c-19e7-42c4-b978-7d41a0042dde.text	Choisissez un petit objet à défausser. Tout objet qui n’est pas spécifiquement désigné comme « Gros » est petit.
+base.door.4d904b4c-d13a-4112-875a-35cfceaede54.text	Perdez les Chaussures que vous portez
+base.door.be74d2ee-5455-425d-93ea-dbb443ea778a.text	Le joueur situé à la gauche de la victime prend une carte au hasard dans la main de cette dernière et la conserve. Le joueur situé à la droite de la victime fait ensuite de même.
+base.door.25b06508-10aa-43de-a3c7-24880b8afd72.text	Défaussez votre carte de Classe si vous en avez une. Si vous avez 2 Classes en jeu, vous en perdez une au choix. Si vous n’avez pas de Classe, vous perdez 1 niveau.
+base.door.d5183d93-4f22-4aa2-a6fb-bacb6fa1d33e.text	Défaussez toute carte de Race que vous avez en jeu et redevenez Humain.
+base.door.e0be0f5f-0724-4d82-b577-c55ff5b74839.text	Vous êtes maudit ! Lors de votre prochain combat uniquement, vous n’obtiendrez aucun bonus de vos objets à l’exception de votre armure. Si vous utilisez un Anneau de Souhait avant votre prochain combat, la malédiction est levée.
+base.door.b42aff04-6ff2-41c2-af92-637b283b8ea5.text	Perdez l’objet qui vous donne le plus haut bonus
+base.door.2413c379-f721-42d6-aca8-e1fb7eb9011f.text	<b>Résurrection :</b> quand vous devez tirer des cartes face visible, vous pouvez choisir de tirer à la place le même nombre de carte de la défausse appropriée (Trésor ou Donjon). Vous devez ensuite défausser une carte de votre main pour chaque carte que vous avez tirée ainsi.<br><b>Renvoi :</b> vous pouvez défausser jusqu’à 3 cartes en combat contre une créature de type Mort-vivant. Chaque carte défaussée vous donne un bonus de +3.
+base.door.fe64f0ce-af63-467d-8ad1-0ee7ddbc344f.text	<b>Résurrection :</b> quand vous devez tirer des cartes face visible, vous pouvez choisir de tirer à la place le même nombre de carte de la défausse appropriée (Trésor ou Donjon). Vous devez ensuite défausser une carte de votre main pour chaque carte que vous avez tirée ainsi.<br><b>Renvoi :</b> vous pouvez défausser jusqu’à 3 cartes en combat contre une créature de type Mort-vivant. Chaque carte défaussée vous donne un bonus de +3.
+base.door.ca594201-bd83-4215-8b5a-88f5359bd827.text	<b>Résurrection :</b> quand vous devez tirer des cartes face visible, vous pouvez choisir de tirer à la place le même nombre de carte de la défausse appropriée (Trésor ou Donjon). Vous devez ensuite défausser une carte de votre main pour chaque carte que vous avez tirée ainsi.<br><b>Renvoi :</b> vous pouvez défausser jusqu’à 3 cartes en combat contre une créature de type Mort-vivant. Chaque carte défaussée vous donne un bonus de +3.
+base.door.5705ed95-b87d-4cc0-9daf-f6382be734a8.text	<b>Poignarder :</b> vous pouvez défausser une carte pour poignarder un autre joueur dans le dos (-2 au combat). Vous ne pouvez le faire qu’une fois par victime et par combat, mais si deux joueurs combattent ensemble, vous pouvez les poignarder tous les deux.<br> <b>Vol à la tire :</b> vous pouvez défausser une carte pour essayer de voler un petit objet porté par un autre joueur. Lancez un dé : vous réussissez si vous faites 4 ou plus. Sinon, vous prenez une torgnole et perdez 1 niveau.
+base.door.6f8d05dd-10e6-41b3-813b-a74d4afa2a62.text	<b>Poignarder :</b> vous pouvez défausser une carte pour poignarder un autre joueur dans le dos (-2 au combat). Vous ne pouvez le faire qu’une fois par victime et par combat, mais si deux joueurs combattent ensemble, vous pouvez les poignarder tous les deux.<br> <b>Vol à la tire :</b> vous pouvez défausser une carte pour essayer de voler un petit objet porté par un autre joueur. Lancez un dé : vous réussissez si vous faites 4 ou plus. Sinon, vous prenez une torgnole et perdez 1 niveau.
+base.door.a6ebc11c-6d9a-462c-b8e9-b2ec5e2d0222.text	<b>Poignarder :</b> vous pouvez défausser une carte pour poignarder un autre joueur dans le dos (-2 au combat). Vous ne pouvez le faire qu’une fois par victime et par combat, mais si deux joueurs combattent ensemble, vous pouvez les poignarder tous les deux.<br> <b>Vol à la tire :</b> vous pouvez défausser une carte pour essayer de voler un petit objet porté par un autre joueur. Lancez un dé : vous réussissez si vous faites 4 ou plus. Sinon, vous prenez une torgnole et perdez 1 niveau.
+base.door.7ff31d6d-05bd-4b10-bae9-fe18ba7ea087.text	<b>Rage de berserker :</b> vous pouvez défausser jusqu’à 3 cartes durant un combat. Chacune vous donne un bonus de +1.<br>En cas d’ex-aequo durant un combat, c’est vous qui l’emportez.
+base.door.08bbdd74-a5bb-4150-980a-63ffb491e787.text	<b>Rage de berserker :</b> vous pouvez défausser jusqu’à 3 cartes durant un combat. Chacune vous donne un bonus de +1.<br>En cas d’ex-aequo durant un combat, c’est vous qui l’emportez.
+base.door.094b1e99-e8e3-4111-8ad7-6d9f57c62bc4.text	<b>Rage de berserker :</b> vous pouvez défausser jusqu’à 3 cartes durant un combat. Chacune vous donne un bonus de +1.<br>En cas d’ex-aequo durant un combat, c’est vous qui l’emportez.
+base.door.388e4af8-ba44-4715-9962-455838bfbe73.text	<b>Sort de vol :</b> après avoir jeté le dé pour déguerpir, vous pouvez défausser jusqu’à 3 cartes. Chacune vous confère un bonus de +1.<br><b>Sort de charme :</b> vous pouvez défausser toute votre main (minimum de trois cartes) pour charmer un Monstre, et un seul, au lieu de le combattre. Défaussez le Monstre et prenez son Trésor, mais ne gagnez pas de niveau. Si d’autres monstres participent au combat, combattez-les normalement.
+base.door.dda0c66f-0b6b-40dc-bd2c-4f0728c8089a.text	<b>Sort de vol :</b> après avoir jeté le dé pour déguerpir, vous pouvez défausser jusqu’à 3 cartes. Chacune vous confère un bonus de +1.<br><b>Sort de charme :</b> vous pouvez défausser toute votre main (minimum de trois cartes) pour charmer un Monstre, et un seul, au lieu de le combattre. Défaussez le Monstre et prenez son Trésor, mais ne gagnez pas de niveau. Si d’autres monstres participent au combat, combattez-les normalement.
+base.door.3427143b-61fc-4317-a299-6c5333462a70.text	<b>Sort de vol :</b> après avoir jeté le dé pour déguerpir, vous pouvez défausser jusqu’à 3 cartes. Chacune vous confère un bonus de +1.<br><b>Sort de charme :</b> vous pouvez défausser toute votre main (minimum de trois cartes) pour charmer un Monstre, et un seul, au lieu de le combattre. Défaussez le Monstre et prenez son Trésor, mais ne gagnez pas de niveau. Si d’autres monstres participent au combat, combattez-les normalement.
+base.door.b1cc599b-1ab0-4980-ad9a-f99882647fb0.text	En tant que super grosbill, vous pou- vez posséder 2 cartes de Classe, et dis- poser de tous les avantages et désavan- tages de chacune. Vous pouvez aussi choisir de n’avoir qu’une Classe et d’avoir tous ses avantages mais aucun désavantage (par exemple les monstres qui haïssent les Prêtres n’auront aucun bonus contre les super Prêtres).Vous perdez cette carte si vous perdez votre ou vos carte (s) de Classe.
+base.door.26a21bc0-e8c9-49df-b088-67d1232fb7b6.text	En tant que super grosbill, vous pou- vez posséder 2 cartes de Classe, et dis- poser de tous les avantages et désavan- tages de chacune. Vous pouvez aussi choisir de n’avoir qu’une Classe et d’avoir tous ses avantages mais aucun désavantage (par exemple les monstres qui haïssent les Prêtres n’auront aucun bonus contre les super Prêtres).Vous perdez cette carte si vous perdez votre ou vos carte (s) de Classe.
+base.door.ff722a55-5407-439d-b7af-57f633e0dbf3.text	Vous pouvez porter autant de Gros objets que vous voulez.<br>Vous pouvez avoir 6 cartes dans votre main.
+base.door.11906a8f-4622-47bd-91ba-a6f5bedb0e5d.text	Vous pouvez porter autant de Gros objets que vous voulez.<br>Vous pouvez avoir 6 cartes dans votre main.
+base.door.2faaf8ea-2915-42dc-a71a-91f7ef6c2b9f.text	Vous pouvez porter autant de Gros objets que vous voulez.<br>Vous pouvez avoir 6 cartes dans votre main.
+base.door.9fa924db-5b36-4831-9f6e-de8303b001b0.text	+1 pour Déguerpir<br>Vous gagnez un niveau pour chaque monstre que vous avez aidé à tuer.
+base.door.df82e0d2-07a4-47aa-b6cb-0a0281a2f2cc.text	+1 pour Déguerpir<br>Vous gagnez un niveau pour chaque monstre que vous avez aidé à tuer.
+base.door.3b6f7658-e53f-4713-b447-16785e3eb036.text	+1 pour Déguerpir<br>Vous gagnez un niveau pour chaque monstre que vous avez aidé à tuer.
+base.door.d9952bfe-f65d-4d46-881a-7e1a2e46f06f.text	Vous pouvez vendre un objet par tour au double de son prix (les autres objets sont au prix normal).<br>Si vous ratez votre première tentative pour déguerpir, vous pouvez défausser une carte pour réessayer une fois.
+base.door.97567e5e-96cf-4ddb-9112-2fce279a0138.text	Vous pouvez vendre un objet par tour au double de son prix (les autres objets sont au prix normal).<br>Si vous ratez votre première tentative pour déguerpir, vous pouvez défausser une carte pour réessayer une fois.
+base.door.6e83b590-71df-48b3-acdc-481e1a2be7fe.text	Vous pouvez vendre un objet par tour au double de son prix (les autres objets sont au prix normal).<br>Si vous ratez votre première tentative pour déguerpir, vous pouvez défausser une carte pour réessayer une fois.
+base.door.4e25e9b2-f39b-426e-9fc0-134d00226b98.text	Vous pouvez avoir deux cartes de Race, et disposer de tous les avantages et désavantages de chacune. Vous pouvez aussi choisir de n’avoir qu’une Race et d’avoir tous ses avantages mais aucun désavantage (par exemple, les monstres qui haïssent les Elfes n’auront aucun bonus contre un demi-Elfe). Vous perdez cette carte si vous perdez votre ou vos carte(s) de Race.
+base.door.bf201553-be7c-4479-a7a0-9cc417588198.text	Vous pouvez avoir deux cartes de Race, et disposer de tous les avantages et désavantages de chacune. Vous pouvez aussi choisir de n’avoir qu’une Race et d’avoir tous ses avantages mais aucun désavantage (par exemple, les monstres qui haïssent les Elfes n’auront aucun bonus contre un demi-Elfe). Vous perdez cette carte si vous perdez votre ou vos carte(s) de Race.
+base.door.a3f1f98e-27d1-4bd5-b97f-203a89114790.text	
+base.door.e93e7b43-62bd-4ab3-be4c-506c8a6a621c.text	
+base.door.8ab95f50-2c7a-4e6b-ae43-51a51b64b5d3.text	
+base.door.afed7786-e2e9-4ca2-a0a6-d30d6df3702b.text	
+base.door.cd3f3f05-8317-450c-86e4-fd91e0c06bb4.text	
+base.door.af48c486-1888-4e7e-ad55-0b48d227af3c.text	Votre niveau ne compte pas. Vous le combattez uniquement avec vos bonus !
+base.door.65dee751-4508-4804-8faa-b17fa9c4ed79.text	Vous pouvez combattre ce Golem complètement défoncé ou vous contenter de lui faire coucou et lui laisser son trésor. (Exception : les savoureux halfelins doivent combattre).
+base.door.aa5584c1-fd5d-49a5-8cc0-75f3422c8e6a.text	+4 contre les Guerriers
+base.door.37b667a1-23ac-4a5f-9427-afff2dad4705.text	+3 contre les Nains et les Halfelins
+base.door.4977fc4f-66df-40a6-b5ca-562bb4c8b112.text	Créature de l’enfer. +4 contre les Prêtres. Vous devez défausser un objet (que vous choisissez) avant le combat.
+base.door.3ee0b351-54f2-4480-9aa3-380d2593e84a.text	Au lieu de le combattre, un Prêtre peut chasser le Fan de Vampire en criant simplement « bouga bouga ! », et s’emparer de son trésor. Dans ce cas, il ne gagne aucun niveau.
+base.door.55e5c91e-a987-4900-abec-0f502175288a.text	+6 contre les Nains, en raison d’une rancune obscure, certes, mais millénaire.
+base.door.db29801c-5fe4-4a6c-9e41-35752d1a36bb.text	Si vous ne voulez pas combattre le Nez flottant, achetez-le avec un objet qui vaut au moins 200 pièces d’or. Il vous laissera partir.
+base.door.43b16c0e-49ac-4688-8db8-5737cbd50eef.text	Il n’a aucun pouvoir spécial, et ça le rend furax.
+base.door.3fb5c60b-98a1-4775-b7b7-7c02910732f2.text	N’attaque ni les joueurs de sexe féminin, ni les joueurs masculins qui ont changé de sexe, mais se contente de leur donner 1 trésor.
+base.door.4d052f9a-2def-4ab8-b100-fde850b71507.text	Nul ne peut vous aider. Vous devez affronter seul le Belvédère.
+base.door.88716968-ead5-4473-9db2-85b9e9f69ef0.text	Pour les combattre, vous ne pouvez utiliser aucun objet ni autre bonus ! Vous ne pouvez utiliser que votre niveau.
+base.door.6832d810-5af2-40f9-9877-0dfe91d808f2.text	C’est dégueu ! +6 contre les Elfes
+base.door.79d7e37c-ad44-460e-a1e9-e65bceeaed00.text	N’attaque pas les Voleurs (entre confrères…). Un Voleur qui rencontre un huissier peut choisir de défausser 2 cartes trésor et en tirer 2 nouvelles, face cachée
+base.door.ef2c8c7e-3043-46a6-ba47-c69ab67f7f2f.text	Résiste à la magie. +6 contre les Magiciens
+base.door.739ed395-dbbd-4108-92c3-4cbfd317e9c5.text	Vous gagnez un niveau supplémentaire si vous le tuez seul et sans utiliser de bonus.
+base.door.83ddfb20-2791-40bb-ba58-c051ae2eae9c.text	+6 contre les Guerriers.
+base.door.2f0b14f5-4aab-4855-b9c6-3a340349af8a.text	Résistent à la magie. +5 contre les Magiciens.
+base.door.4a0ad1cf-01bf-423a-9328-e983d188032f.text	Mais il est dégueu ! +5 contre les Elfes.
+base.door.f906cf16-5a1a-422c-b3fa-9ec583e54c4e.text	-2 pour Déguerpir.
+base.door.63df5d66-f885-4e54-94f7-2cf4e1a8b8d0.text	+5  contre les Nains.
+base.door.b9d66767-ceee-47bb-a428-691cb557c716.text	Malus de -1 pour Déguerpir.
+base.door.cc935bfb-40a1-42c0-9c14-d89f91662971.text	+1 au jet pour Déguerpir.
+base.door.53f277b6-ed4b-498d-a582-a2d31c38bf52.text	Frit, c’est délicieux : vous gagnez donc 1 niveau supplémentaire instantanément si vous tuez le poulet avec du feu ou des flammes.
+base.door.93a5ec2f-ee7f-4654-a28d-fcf045fa0f97.text	Si vous ne pouvez le vaincre, vous pouvez le distraire (vous Déguerpissez automatiquement) en lâchant une baguette, un bâton ou une lance. Va chercher, Médor !
+base.door.25586aec-1ac3-4b4b-9c9a-bead276efac1.text	Impossible de Déguerpir !
+base.door.96f29253-b3f9-483f-8028-2e96e2aa519f.text	Beeerk ! +4 contre les Elfes.
+base.door.da9241e2-ed86-4ee1-9a5b-637c95598d4d.text	+1 au jet pour Déguerpir.
+base.door.e013dc7b-77a6-458c-af20-30de04317cc0.text	Créature de l’enfer. +3 contre les prêtres.
+base.door.6bcc1629-aaea-409b-9dbc-7fe53576d6a6.text	Les Elfes tirent une carte Trésor supplémentaire après l’avoir vaincue.
+base.door.db4f0e50-a540-4f28-bf8c-cc3eef7d8110.text	+10 au monstre<br>À jouer pendant le combat. Si le monstre est vaincu, tirez 2 cartes trésor supplémentaires.
+base.door.bf631030-1e99-4ccc-ae8f-a538a9038c0b.text	-5 (niveau minimum : 1)<br>À jouer pendant le combat. Si le monstre est vaincu, tirez 1 carte trésor en moins (minimum 1).
+base.door.07501f59-6c5a-41fb-99be-e6b0706e001d.text	+5 au monstre<br>À jouer pendant un combat. Si le monstre est vaincu, tirez 1 carte trésor supplémentaire.
+base.door.45814a37-7d87-4333-8e69-3068628f2474.text	+10 au monstre<br>À jouer pendant le combat. Si le monstre est vaincu, tirez 2 cartes trésor supplémentaires.
+base.door.b6ec7ed3-9676-42c9-a55b-f5803f12470d.text	+5 au monstre<br>À jouer pendant un combat. Si le monstre est vaincu, tirez 1 carte trésor supplémentaire.
+base.door.b95cafbd-d581-43ff-a08b-39979135b256.text	Un autre monstre apparaît, du même niveau, et avec les mêmes bonus. Si les monstres sont vaincus, tirez les cartes de trésor et gagnez des niveaux pour chacun d’entre eux.
+base.door.efa6fd1e-5308-467c-ae0e-2db9ccfe211a.text	À jouer, ainsi qu’un monstre de votre main, quand quelqu’un (vous y compris) se bat. Votre monstre rejoint celui qui combat : leurs forces de combat s’additionnent. Si le ou les personnages doivent Déguerpir, résolvez séparément les tentatives, dans l’ordre choisi par les victimes.
+base.door.db238a1c-81ef-4b02-8bc2-4dcb50577ab3.text	Vous pouvez posséder et utiliser 1 objet qui vous serait normalement interdit par les règles. Posez cette carte à côté de l’objet que vous jouez de votre main ou que vous avez déjà en jeu. Si vous perdez cet objet, cette carte est défaussée avec.
+base.door.68e54c25-7e83-4c13-ab9a-13d1381d5850.text	Vous devez jouer cette carte immédiatement. Tous les Prêtres gagnent immédiatement 1 niveau. Si cela permet à un joueur de terminer la partie, il est autorisé à se gausser grassement et sans pitié des autres joueurs.
+base.door.8cf2ebf1-610d-448e-a5f6-76f4c73d8176.text	Jouez cette carte quand vous êtes en plein combat. Vous pouvez prendre un objet à n’importe quel autre joueur, à condition qu’il vous permette de gagner le combat alors que vous n’aviez aucune chance au moment où vous jouez la carte. Vous pouvez défausser un de vos propres objets avant de prendre celui-ci si vous le désirez.
+base.door.04774ddc-83e9-48a2-b1ed-3ae630e511b3.text	À jouer pendant n’importe quel combat. Défaussez un monstre impliqué dans ce combat, ainsi que toutes les cartes jouées pour le modifier, et remplacez-le par une carte de monstre tirée de votre main.
+base.door.47b91b62-624d-4543-a0da-50e55cf47a56.text	À jouer pendant n’importe quel combat. Les monstres de cette pièce font la pause. Le joueur qui affronte le ou les monstres les défausse tous et tire immédiatement 2 cartes trésor.
+base.door.50de36e5-d3ba-4bd6-abe2-694c8f1c2d7e.badstuff	vous êtes rôti, dévoré et mort.
+base.door.278b4940-f066-4019-a0e5-4f9a5cc09f0e.badstuff	son contact osseux vous coûte 2 niveaux.
+base.door.a3f1f98e-27d1-4bd5-b97f-203a89114790.badstuff	vous êtes fouetté jusqu’à ce que mort s’ensuive. Et mort s’ensuit.
+base.door.e93e7b43-62bd-4ab3-be4c-506c8a6a621c.badstuff	vous êtes saisi, englué, broyé et avalé. Vous êtes mort, mort, et re-mort. Des questions ?
+base.door.8ab95f50-2c7a-4e6b-ae43-51a51b64b5d3.badstuff	vous êtes piétiné et mâché. Vous perdez vos affaires en fuyant. En partant de votre droite, chaque joueur peut prendre une carte trésor posée devant vous ou dans votre main (sans regarder)
+base.door.afed7786-e2e9-4ca2-a0a6-d30d6df3702b.badstuff	perdez tous vos objets et toutes les cartes de votre main.
+base.door.cd3f3f05-8317-450c-86e4-fd91e0c06bb4.badstuff	ils vous font une vidange des fluides vitaux. Vous retombez au niveau 1.
+base.door.af48c486-1888-4e7e-ad55-0b48d227af3c.badstuff	vous sou- scrivez une assurance. Défaussez pour 1000 pièces d’or d’objets. Si vous n’en avez pas autant, perdez tout ce que vous avez.
+base.door.65dee751-4508-4804-8faa-b17fa9c4ed79.badstuff	Il a la dalle. Il vous mange. Vous êtes mort.
+base.door.aa5584c1-fd5d-49a5-8cc0-75f3422c8e6a.badstuff	si vous n’êtes pas Magicien, une mort indicible et apocalyptiquement horrible vous attend. Sinon, vous ne perdez que vos pouvoirs : défaussez votre carte de Magicien.
+base.door.37b667a1-23ac-4a5f-9427-afff2dad4705.badstuff	vous écrase comme une crêpe et vous grignote la tête. Perdez votre couvre-chef.
+base.door.4977fc4f-66df-40a6-b5ca-562bb4c8b112.badstuff	un baiser vraiment dégoûtant vous coûte 2 niveaux (3 pour les Elfes).
+base.door.3ee0b351-54f2-4480-9aa3-380d2593e84a.badstuff	il verrouille la porte et vous parle longuement de son personnage. Perdez 3 niveaux.
+base.door.55e5c91e-a987-4900-abec-0f502175288a.badstuff	lancez un dé. Sur un 1 ou 2, ils vous piétinent à mort. Sinon, perdez autant de niveau qu’indiqué par le dé.
+base.door.db29801c-5fe4-4a6c-9e41-35752d1a36bb.badstuff	il vous suivra partout à l’odeur. Si vous perdez, vous ne pouvez pas Déguerpir, quoi que vous fassiez. Perdez 3 niveaux.
+base.door.43b16c0e-49ac-4688-8db8-5737cbd50eef.badstuff	déséquilibre complètement le jeu en vous forçant à laisser le(s) joueur(s) ayant le plus haut niveau à vous prendre (chacun) un objet.
+base.door.3fb5c60b-98a1-4775-b7b7-7c02910732f2.badstuff	on s’est fait tabasser par une nana ? Lamentez-vous amèrement sur votre fierté de macho. Perdez votre (vos) classe(s). Si vous n’avez pas de classe, perdez 3 niveaux.
+base.door.4d052f9a-2def-4ab8-b100-fde850b71507.badstuff	perdez 3 niveaux.
+base.door.88716968-ead5-4473-9db2-85b9e9f69ef0.badstuff	votre niveau devient équivalent à celui du joueur de plus bas niveau…
+base.door.6832d810-5af2-40f9-9877-0dfe91d808f2.badstuff	quand il vous arrache le visage, votre Couvre-chef part avec ! Défaussez tout Couvre- chef porté et perdez 1 niveau.
+base.door.79d7e37c-ad44-460e-a1e9-e65bceeaed00.badstuff	confiscation des biens ! Chacun des autres joueurs prend une carte dans votre main, en commençant par le joueur à votre gauche. Défaussez les cartes restantes.
+base.door.ef2c8c7e-3043-46a6-ba47-c69ab67f7f2f.badstuff	défaussez toute votre main ou perdez 2 niveaux.
+base.door.739ed395-dbbd-4108-92c3-4cbfd317e9c5.badstuff	jet de vomi tiède ! Défaussez toute votre main.
+base.door.83ddfb20-2791-40bb-ba58-c051ae2eae9c.badstuff	vous devenez un humain anodin et ennuyeux. Défaussez toute carte de Race ou de Classe que vous avez en jeu.
+base.door.2f0b14f5-4aab-4855-b9c6-3a340349af8a.badstuff	elles jouent vraiment comme des manches. Perdez 2 niveaux.
+base.door.4a0ad1cf-01bf-423a-9328-e983d188032f.badstuff	il vous prend 2 objets, choisis par chacun des deux joueurs qui vous entourent.
+base.door.f906cf16-5a1a-422c-b3fa-9ec583e54c4e.badstuff	ils volent votre trésor. Le résultat d’un jet de dé indique combien d’objets ou de cartes de votre main (vous devez choisir l’un ou l’autre) vous perdez.
+base.door.63df5d66-f885-4e54-94f7-2cf4e1a8b8d0.badstuff	mord, rue, et sent le canasson crevé. Vous perdez 2 niveaux.
+base.door.b9d66767-ceee-47bb-a428-691cb557c716.badstuff	Mais ça mord ! Perdez 2 niveaux.
+base.door.cc935bfb-40a1-42c0-9c14-d89f91662971.badstuff	si vous n’arrivez pas à Déguerpir, vous lâchez tous vos Gros objets.
+base.door.53f277b6-ed4b-498d-a582-a2d31c38bf52.badstuff	se faire picorer est très douloureux. Vous perdez 1 niveau.
+base.door.93a5ec2f-ee7f-4654-a28d-fcf045fa0f97.badstuff	traces de morsures sur vos fesses. Perdez 2 niveaux.
+base.door.25586aec-1ac3-4b4b-9c9a-bead276efac1.badstuff	défaussez votre armure et tous les objets portés sous la ceinture.
+base.door.96f29253-b3f9-483f-8028-2e96e2aa519f.badstuff	défaussez les Chaussures que vous portez. Vous perdez 1 niveau si vous n’avez pas de Chaussures.
+base.door.da9241e2-ed86-4ee1-9a5b-637c95598d4d.badstuff	Il vous met un coup de béquille en traître. Vous perdez 1 niveau.
+base.door.e013dc7b-77a6-458c-af20-30de04317cc0.badstuff	la créature vous passe à tabac. Perdez 1 niveau.
+base.door.6bcc1629-aaea-409b-9dbc-7fe53576d6a6.badstuff	rien du tout… Si vous devez Déguerpir, vous réussissez automatiquement.
+monster.thumbnail.rewardlevels	Niveaux
+monster.thumbnail.treasures	Trésor
+monster.badstuff	<b><i>Incident Fâcheux :</i></b>
+base.treasure.809a7b83-272b-4f46-9e6e-8b7db792beb6.name	1000 pièces d’or
+base.treasure.9ea3a17f-97f6-4aa7-a1c0-a287ce74e8f7.name	Génocide de Fourmis à l’Huile Bouillante
+base.treasure.4eef09b0-311c-4a21-bed3-b8b320618218.name	Don de Chips Désintéressé au M
+base.treasure.0e5c6c75-98ab-4bee-b3d8-98018b63a50d.name	Erreur de Calcul Avantageuse
+base.treasure.53998110-a846-46d9-8e0f-3986f5a3038d.name	Invocation de Règles Obscures
+base.treasure.22f8ccc0-072b-4c86-ab72-0d12bec6fe01.name	Tuer le Fidèle Serviteur
+base.treasure.11a0ccea-b9ac-4a91-a00e-a6a227da377c.name	Mutiler les Cadavres
+base.treasure.b7770f9c-5ec6-40a3-813c-45ecec1758ca.name	Potion de Machisme Triomphant
+base.treasure.9957a953-ba2b-4dd6-b74e-a74a0421c672.name	Pleurer dans les Jupes du M
+base.treasure.377084fc-4baa-4efa-944b-fd090892c031.name	Bandana de Gros Dur
+base.treasure.eb7c59af-c029-4b93-bf65-1cca669e1d1a.name	Bottes de Convocation d'Hémorroïdes
+base.treasure.1c542973-9445-452b-8bb9-c8de9c5e431b.name	Bottes de Déplacement Frénetique
+base.treasure.a93afb4f-fc2a-489b-9f94-e5ee450af48f.name	Arc Enrubanné
+base.treasure.f08f4fef-42c6-4b3e-b189-cc5dd37d00a8.name	Épée de Féminisme Exacerbé
+base.treasure.57f25b88-39fc-448c-b345-bcd6f8cf18d9.name	Targe d’Inconscience Suicidaire
+base.treasure.0ec11cb6-b54b-4149-907f-c5c593de9f83.name	Tronçonneuse de la Mort
+base.treasure.b25c2d56-b5b7-4f69-ad18-50218663e904.name	Râpe à Fromage de la Paix
+base.treasure.d2e348c6-1d45-4de2-b4ba-f1b5299594f7.name	Cape d’Ombre
+base.treasure.9b45cc0d-e712-40df-b3f6-f8367737a241.name	Cotion de Ponfusion
+base.treasure.b7b46f34-6a41-46ec-8931-df8080fc7e91.name	Dague de Traitrise
+base.treasure.572c199d-5ef9-4e96-be7b-1878fc121faf.name	Doppelganger
+base.treasure.b493204a-28ba-4ff5-b17f-22bf0e0241b1.name	Potion Acide, Radioactive et Électrique
+base.treasure.8ff92ccf-abcf-4190-b405-828766f21113.name	Lance de 3,50 m
+base.treasure.c6fe1a3b-7c10-4703-b4fb-497bb375389f.name	Armure de Flammes
+base.treasure.f7cd336c-60b8-4e61-a4fe-cb1e6dce2c39.name	Potion de Poison Enflammé
+base.treasure.bab711fd-f1c8-4524-8ab4-6ad7ad2a78c4.name	Flaque de Colle
+base.treasure.fd24ac44-4967-4a73-b8aa-06079d2b0905.name	Potion Glaciale Explosive
+base.treasure.c6a15483-66f3-4dbe-93be-cb1fb252e896.name	Potion d’Amitié
+base.treasure.89a4bc60-e43e-4145-a2af-a82600c9c261.name	Gourdin de Misogynie Fracassante
+base.treasure.24b6690b-4ac7-4ad0-b8b2-14e93e59d441.name	Marteau des Rotules Douloureuses
+base.treasure.960594e9-a865-42ea-ba5a-461f8063681d.name	Casque de Courage
+base.treasure.3dc3ee77-f659-4958-bbad-e96d2150b04e.name	Casque de Virilité Ostentatoire
+base.treasure.d161d2e4-ac68-4c7b-9717-0622bc3bc9cb.name	Énorme Rocher
+base.treasure.af149629-7862-46fe-ae34-032d32fe4426.name	Mur Instantané
+base.treasure.b2dd96da-6302-4d5d-8f43-e1fb2efb10e4.name	Potion d’Invisibilité
+base.treasure.5f2391a7-e51d-4404-a5ee-f2f9edaa6a2b.name	Genouillères de Séduction
+base.treasure.67b44251-96b9-431a-ac9d-f733809e7097.name	Armure de Cuir
+base.treasure.4e5de80a-9f85-42e7-8cf7-9e226f499824.name	Sandwich Chocolat-Moules-Anchois
+base.treasure.63f73b7d-acc0-4122-a612-4840df4d776a.name	Dé Pipé
+base.treasure.465e86f2-0caf-40cc-a01d-28009a2aaf4c.name	Masse d’Armes de Répartie Piquante
+base.treasure.c75e93c1-aa61-4183-b61b-4e6865310279.name	Lampe Merveilleuse
+base.treasure.4a31ba6f-b418-4549-91a2-2ff916079b76.name	Missile Magique
+base.treasure.e712b749-e3ea-4d07-9169-72c33baea44f.name	Armure de Mithril
+base.treasure.38254fbc-79f9-48fc-ae10-ebe6ee0fbb4d.name	Boisson Énergisante Éventée
+base.treasure.a4b9df0f-71ad-4e20-9c61-cc2e6822d44d.name	Collants de Force de Géant
+base.treasure.e0b9571f-352f-4728-b29c-eee1d4870e7b.name	Chapeau Pointu de Thaumaturgie
+base.treasure.0c2c5abd-aea7-418e-9e9e-a2e19fe3d2ef.name	Potion de Polly-morphie
+base.treasure.adb879cd-9d2b-408a-bac2-54a0bcad9e18.name	Potion de Mauvaise Haleine
+base.treasure.89f5f35f-d81e-4a95-8cc5-a9c188522bce.name	Potion de bravoure hystérique
+base.treasure.ec6ba1d5-3ecf-40a2-82b1-592fc7799d5c.name	Oh, les Jolis Ballons !
+base.treasure.f8f3606d-0532-46bf-aeba-060b370ca22a.name	Rapière d’Injustice Flagrante
+base.treasure.6677b88d-6f08-49e9-adc0-5125f4549f41.name	Brochette de Rat
+base.treasure.4a44eff7-1d4d-43bc-8994-9d9e0533cfaf.name	Titre qui en Jette Vraiment Grave
+base.treasure.7bc68e56-6b74-4c4e-80f1-d76e7456759b.name	Sandales de Protection
+base.treasure.40c01965-1169-4e05-a1c1-fc8719bb36bf.name	Bouclier Surdimensionné
+base.treasure.91af4f9b-1ab3-4e6d-a606-ee73d9511354.name	Armure Trapue
+base.treasure.a7cfecc2-8f03-469c-86d1-eca7abd48563.name	Épée Karaok
+base.treasure.8ca5bc1d-d31a-404f-8a2c-08d684acb661.name	Potion de Sommeil
+base.treasure.e40ee953-081e-4b41-b095-0ca9ad681d8a.name	Armure Gluante
+base.treasure.f1a6aaf7-47ca-4952-b46b-b2e9bd5ae27a.name	Épée (de) Bâtard(e)
+base.treasure.61bb425e-f07a-4db1-87cc-2fc4b8802c51.name	Genouillères Perforantes
+base.treasure.9cc482d6-25ea-4502-bb10-12ed4deff95e.name	Bâton de Napalm
+base.treasure.af9daf73-1d23-4ac1-b3c2-88bc10587054.name	Escabeau
+base.treasure.70b796bf-98e7-401d-b36f-e71399a3c403.name	Hallebarde Suisse Multifonctions
+base.treasure.93c7eb95-8657-4ae8-bdb7-21ab2029cbd0.name	Potion de Transfert
+base.treasure.d6b481cd-18fc-4de3-a5e3-95f0858bf832.name	Tuba d’Envoûtement
+base.treasure.c337a23b-3fa8-4295-96b7-e3706cdba824.name	Baguette de Sourcier
+base.treasure.bd195b65-4e6a-4674-aa26-b6562b50a7d2.name	Anneau de Souhait
+base.treasure.bb8ffb65-35e4-4dcf-9860-af3bd016953b.name	Champagne
+base.treasure.f233b5ea-f811-4ea6-b518-cda41543639a.name	Fidèle Serviteur
+base.treasure.a685c4ed-40a4-4cd8-a640-02aa65d2c768.name	Pillaaaaaaage !
+base.treasure.d45aaf27-559f-488f-a477-d6858bb56fad.name	Vol de Niveau
+base.treasure.809a7b83-272b-4f46-9e6e-8b7db792beb6.text	Gagnez un niveau
+base.treasure.9ea3a17f-97f6-4aa7-a1c0-a287ce74e8f7.text	Gagnez un niveau
+base.treasure.4eef09b0-311c-4a21-bed3-b8b320618218.text	Gagnez un niveau
+base.treasure.0e5c6c75-98ab-4bee-b3d8-98018b63a50d.text	Gagnez un niveau
+base.treasure.53998110-a846-46d9-8e0f-3986f5a3038d.text	Gagnez un niveau
+base.treasure.22f8ccc0-072b-4c86-ab72-0d12bec6fe01.text	Gagnez un niveau<br>Vous ne pouvez utiliser cette carte que si le Fidèle Serviteur est en jeu (quel que soit son possesseur). Le Fidèle Serviteur est défaussé.
+base.treasure.11a0ccea-b9ac-4a91-a00e-a6a227da377c.text	Gagnez un niveau<br>Cette carte ne peut être jouée qu’après un combat, mais pas obligatoirement un combat que vous avez livré.
+base.treasure.b7770f9c-5ec6-40a3-813c-45ecec1758ca.text	Gagnez un niveau
+base.treasure.9957a953-ba2b-4dd6-b74e-a74a0421c672.text	Gagnez un niveau<br>Vous ne pouvez pas utiliser cette carte si vous êtes le joueur de plus haut niveau, ou ex-aequo avec celui-ci.
+base.treasure.1c542973-9445-452b-8bb9-c8de9c5e431b.text	Confèrent un bonus de +2 pour Déguerpir.
+base.treasure.9b45cc0d-e712-40df-b3f6-f8367737a241.text	À jouer pendant n’importe quel combat. Bonus de +3 accordé à un camp au choix. Usage unique.
+base.treasure.572c199d-5ef9-4e96-be7b-1878fc121faf.text	Crée votre double, qui combat à vos côtés : votre force de combat est doublée. Vous ne pouvez utiliser le Doppelganger que si vous êtes le seul joueur à participer au combat. Usage unique.
+base.treasure.b493204a-28ba-4ff5-b17f-22bf0e0241b1.text	À jouer pendant n’importe quel combat. Bonus de +5 accordé à un camp au choix. Usage unique.
+base.treasure.f7cd336c-60b8-4e61-a4fe-cb1e6dce2c39.text	À jouer pendant n’importe quel combat. Bonus de +3 accordé à un camp au choix. Usage unique.
+base.treasure.bab711fd-f1c8-4524-8ab4-6ad7ad2a78c4.text	À utiliser quand quelqu’un réussit à fuir le combat pour quelque raison que ce soit. La victime doit relancer les dés pour Déguerpir (même s’il s’agissait d’une réussite automatique la première fois). Usage unique.
+base.treasure.fd24ac44-4967-4a73-b8aa-06079d2b0905.text	À jouer pendant n’importe quel combat. Bonus de +3 accordé à un camp au choix. Usage unique.
+base.treasure.c6a15483-66f3-4dbe-93be-cb1fb252e896.text	À jouer pendant n’importe quel combat. Défaussez tous les monstres combattus. Aucun trésor n’est gagné, mais vous pouvez piller la pièce Usage unique.
+base.treasure.3dc3ee77-f659-4958-bbad-e96d2150b04e.text	(+3 pour les Elfes)
+base.treasure.af149629-7862-46fe-ae34-032d32fe4426.text	Permet à un ou deux personnages de fuir automatiquement n’importe quel combat. Usage unique.
+base.treasure.b2dd96da-6302-4d5d-8f43-e1fb2efb10e4.text	À défausser après avoir raté votre jet pour Déguerpir. Vous vous enfuyez automatiquement. Usage unique.
+base.treasure.5f2391a7-e51d-4404-a5ee-f2f9edaa6a2b.text	Si vous demandez à quelqu’un d’un niveau supérieur au votre de vous aider à combattre un monstre, il ne peut ni refuser, ni exiger de paiement en retour. Vous ne pouvez pas gagner en montant de niveau dans un combat dans lequel vous avez été aidé grâce à vos Genouillères.
+base.treasure.63f73b7d-acc0-4122-a612-4840df4d776a.text	À jouer après n’importe quel jet de dé. Vous choisissez vous-même le résultat du jet de dé. Usage unique.
+base.treasure.c75e93c1-aa61-4183-b61b-4e6865310279.text	Vous ne pouvez utiliser la Lampe qu’à votre tour. Elle invoque un génie qui fait disparaître un seul monstre, même s’il était sur le point de vous attraper après un jet de Déguerpir raté. S’il était seul contre vous, vous prenez son trésor mais sans gagner de niveau. Usage unique.
+base.treasure.4a31ba6f-b418-4549-91a2-2ff916079b76.text	À jouer pendant n’importe quel combat. Bonus de +5 accordé à un camp au choix. Usage unique.
+base.treasure.38254fbc-79f9-48fc-ae10-ebe6ee0fbb4d.text	À jouer pendant n’importe quel combat. Bonus de +2 accordé à un camp au choix. Usage unique.
+base.treasure.0c2c5abd-aea7-418e-9e9e-a2e19fe3d2ef.text	Utilisable une seule fois, pendant le combat. Transforme n’importe quel monstre en joli perroquet appelé Polly, qui s’envole en abandonnant son trésor. Usage unique.
+base.treasure.adb879cd-9d2b-408a-bac2-54a0bcad9e18.text	À jouer pendant n’importe quel combat. Bonus de +2 accordé à un camp au choix, ou tue instantanément <b>le nez flottant.</b> Usage unique.
+base.treasure.89f5f35f-d81e-4a95-8cc5-a9c188522bce.text	À jouer pendant n’importe quel combat. Bonus de +2 accordé à un camp au choix. Usage unique.
+base.treasure.ec6ba1d5-3ecf-40a2-82b1-592fc7799d5c.text	À jouer pendant n’importe quel combat pour distraire l’ennemi. Bonus de +5 accordé à un camp au choix. Usage unique.
+base.treasure.6677b88d-6f08-49e9-adc0-5125f4549f41.text	Défaussez cette carte pour échapper automatiquement à n’importe quel monstre de niveau 8 ou inférieur.
+base.treasure.7bc68e56-6b74-4c4e-80f1-d76e7456759b.text	Les cartes de Malédiction que vous tirez en défonçant les portes n’ont aucun effet. Les Malédictions lancées sur vous par d’autres joueurs vous affectent cependant normalement.
+base.treasure.8ca5bc1d-d31a-404f-8a2c-08d684acb661.text	À jouer pendant n’importe quel combat. Bonus de +2 accordé à un camp au choix. Usage unique.
+base.treasure.93c7eb95-8657-4ae8-bdb7-21ab2029cbd0.text	À jouer pendant n’importe quel combat. Un autre joueur de votre choix combat le ou les monstres. Il peut demander de l’aide normalement, et obtient le trésor et les niveaux s’il l’emporte. Le joueur qui combattait à l’origine reprend alors son tour, et peut piller la pièce, que le combat ait été remporté ou perdu. Usage unique.
+base.treasure.d6b481cd-18fc-4de3-a5e3-95f0858bf832.text	Ce délicat instrument subjugue vos ennemis vous conférant un bonus de +3 pour déguerpir. Si vous réussissez à fuir, tirez une carte Trésor face cachée.
+base.treasure.c337a23b-3fa8-4295-96b7-e3706cdba824.text	Parcourez les défausses pour trouver la carte de votre choix. Prenez-la et défaussez la baguette de sourcier.
+base.treasure.bd195b65-4e6a-4674-aa26-b6562b50a7d2.text	Annule n’importe quelle Malédiction. Peut être joué n’importe quand. Usage unique.
+base.treasure.bb8ffb65-35e4-4dcf-9860-af3bd016953b.text	À jouer pendant n’importe quel combat. Utilisable une fois, et seulement sur les Elfes. Confère un bonus de +2 à chaque Elfe engagé dans la bataille.
+base.treasure.f233b5ea-f811-4ea6-b518-cda41543639a.text	Ce laquais qui vous suit et vous sert de porteur vous permet de porter et d’utiliser un Gros objet supplémentaire, mais il ne se battra pas pour vous… si vous perdez votre serviteur, vous perdez aussi votre gros objet. Vous pouvez défausser votre serviteur pour vous permettre de fuir automatiquement contre n’importe quel monstre.
+base.treasure.a685c4ed-40a4-4cd8-a640-02aa65d2c768.text	Tirez immédiatement trois nouvelles cartes de trésor. Elles sont tirées face cachée si vous avez tiré cette carte face cachée, et face visible dans le cas contraire.
+base.treasure.d45aaf27-559f-488f-a477-d6858bb56fad.text	Choisissez un joueur auquel vous volez un niveau. Vous gagnez un niveau, et il en perd un.
+kin.item.requirements.class.cleric	Réservé aux Prêtres
+kin.item.requirements.class.thief	Réservée aux Voleurs
+kin.item.requirements.class.warrior	Réservé aux Guerriers
+kin.item.requirements.class.wizard	Réservé aux Magiciens
+kin.item.requirements.race.human	Réservé aux Humains
+kin.item.requirements.race.dwarf	Réservé aux Nains
+kin.item.requirements.race.elf	Réservé aux Elfes
+kin.item.requirements.race.halfling	Réservé aux Halfelins
+kin.item.requirements.gender.male	Réservé aux joueurs (ou aux joueuses qui ont changé de sexe).
+kin.item.requirements.gender.female	Réservé aux joueuses (ou aux joueurs qui ont changé de sexe).
+kin.item.requirements.notclass.cleric	Interdit aux prêtres
+kin.item.requirements.notclass.thief	Interdite aux Voleurs
+kin.item.requirements.notclass.warrior	Interdit aux Guerriers
+kin.item.requirements.notclass.wizard	Interdite aux Magiciens
+kin.item.requirements.notrace.human	
+kin.item.requirements.notrace.dwarf	
+kin.item.requirements.notrace.elf	
+kin.item.requirements.notrace.halfling	
+rules.askingforhelp.1	
+rules.askingforhelp.2	
+rules.askingforhelp.3	
+rules.askingforhelp.4	
+rules.characterstats.1	
+rules.characterstats.2	
+rules.characterstats.3	
+rules.characterstats.4	
+rules.death.1	
+rules.death.2	
+rules.monsters.1	
+rules.monsters.2	
+rules.monsters.3	
+rules.monsters.4	
+rules.monsters.5	
+rules.monsters.6	
+rules.monsters.7	
+rules.monsters.8	
+rules.overview.1	
+rules.overview.2	
+rules.overview.3	
+rules.overview.4	
+rules.overview.5	
+rules.overview.6	
+rules.overview.7	
+rules.overview.8	
+rules.overview.9	
+rules.overview.10	
+rules.overview.11	
+rules.overview.12	
+rules.overview.13	
+rules.treasures.1	
+rules.treasures.2	
+rules.treasures.3	
+rules.treasures.4	
+rules.treasures.5	
+rules.treasures.6	
+rules.treasures.7	
+rules.treasures.8	
+rules.variants.1	
+rules.variants.2	
+rules.variants.3	
+rules.variants.4	
+rules.variants.7	
+rules.variants.8	
+rules.combatoverview.1	
+rules.combatoverview.2	
+rules.combatoverview.3	
+rules.combatoverview.4	
+rules.curses.1	
+rules.curses.2	
+kin.setup.character.raceandclass	
+kin.setup.character.raceandclass.opponent	
+kin.setup.character.items	
+kin.setup.character.items.opponent	
+kin.setup.character.opponent	
+kin.jumpin	
+kin.jumpin.door	
+kin.jumpin.attack	
+kin.jumpin.beginpursuit	
+kin.jumpin.endofturn	
+kin.jumpin.endofturn.opponent	
+kin.jumpin.runaway	
+kin.jumpin.postrunaway	
+kin.jumpin.postcombat	
+kin.jumpin.precurse	
+kin.jumpin.abilities	
+kin.playerturn.begin	
+kin.playerturn.begin.opponent	
+kin.playerturn.lookfortrouble	
+kin.playerturn.draw	
+kin.playerturn.lookorloot	
+kin.playerturn.end	
+kin.playerturn.end.opponent	
+kin.core.play.class	
+kin.core.play.curse	
+kin.core.play.item	
+kin.core.play.race	
+kin.core.play.special	
+kin.core.play.monsterenhancer	
+kin.core.play.combatoneshot	
+kin.playerturn.charity.lastchance	
+kin.playerturn.charity.discard	
+kin.playerturn.charity.give	
+kin.playerturn.charity.giveplayer	
+kin.draw.play	
+match.actions.opendoor	
+match.actions.jumpin	
+kin.combat.begin	
+kin.combat.begin.opponent	
+match.actions.lootroom	
+match.actions.lookfortrouble	
+kin.prompts.givelevelup	
+kin.core.play.goupalevel	
+kin.base.door.cleric.turning	
+kin.base.door.cleric.resurrection.discard	
+kin.base.door.floatingnose.bribe	
+kin.base.door.halfling.runaway	
+kin.base.door.helpmeout.discard	
+kin.base.door.helpmeout.steal	
+kin.base.door.helpmeout.steal.opponent	
+kin.base.door.illusion.remove	
+kin.base.door.illusion.add	
+kin.base.door.lawyer.treasures	
+kin.base.door.pitbull.distract	
+kin.base.door.platycore.choose	
+kin.base.door.platycore.button.discardhand	
+kin.base.door.platycore.button.loselevels	
+kin.base.door.snailsonspeed.discard	
+kin.base.door.stonedgolem.avoid	
+kin.base.door.thief.theft.discard	
+kin.base.door.thief.theft.steal	
+kin.base.door.thief.backstab.discard	
+kin.base.door.thief.backstab.player	
+kin.base.door.tonguedemon.loseitem	
+kin.base.door.tonguedemon.loseitem.opponent	
+kin.base.door.wanderingmonster.monster	
+kin.base.door.warrior.berserking.discard	
+kin.base.door.wizard.charm.monster	
+kin.base.door.wizard.flight.discard	
+kin.base.door.curse.losebigitem.discard	
+kin.base.door.curse.losebigitem.discard.opponent	
+kin.base.door.curse.loseclass.discard	
+kin.base.door.curse.loseclass.discard.opponent	
+kin.base.door.curse.losesmallitem.discard	
+kin.base.door.curse.losesmallitem.discard.opponent	
+kin.base.door.curse.obnoxious.discard	
+kin.base.door.curse.obnoxious.discard.opponent	
+kin.base.door.supermunchkin.play	
+kin.base.door.halfbreed.play	
+kin.base.door.hippogriff.steal	
+kin.base.door.hippogriff.steal.opponent	
+kin.base.door.curse.incometax.select	
+kin.base.door.curse.incometax.tax	
+kin.base.door.curse.incometax.tax.opponent	
+kin.base.door.insurancesalesman.buy	
+kin.base.door.insurancesalesman.buy.opponent	
+kin.base.door.divineintervention.jumpin.cleric	
+kin.base.door.divineintervention.jumpin.cleric.opponent	
+kin.base.treasure.item.ratonastick.discard	
+kin.base.treasure.item.flaskofglue	
+kin.base.treasure.hireling.monster	
+kin.base.treasure.play.halitosis	
+kin.base.treasure.kneepadsofallure.compelled	
+kin.base.lootthebody	
+kin.base.lootthebody.opponent	
+kin.combat.askforhelp.players	
+kin.combat.askforhelp.bribe.type	
+kin.askforhelp.choosehowtreasure	
+kin.askforhelp.chooserandomtreasurecount	
+kin.askforhelp.choosewhopickstreasure	
+kin.askforhelp.choosecardsoffer	
+kin.askforhelp.bribeoffer	
+kin.askforhelp.sharetreasure	
+kin.askforhelp.givecards	
+kin.askforhelp.none	
+kin.askforhelp.random	
+kin.askforhelp.draft	
+kin.askforhelp.ntreasure	
+kin.askforhelp.onetreasure	
+kin.askforhelp.twotreasure	
+kin.askforhelp.threetreasure	
+kin.askforhelp.pickn	
+kin.askforhelp.pickone	
+kin.askforhelp.picktwo	
+kin.askforhelp.pickthree	
+kin.askforhelp.draft.you	
+kin.askforhelp.draft.them	
+kin.core.sellitems	
+kin.core.sellitems.opponent	
+kin.nocards	
+kin.pile.race	
+kin.pile.class	
+kin.pile.carried	
+kin.pile.equipped	
+kin.pile.useonparticipant	
+kin.pile.useonmonster	
+kin.pile.enhancemonster	
+kin.runaway.activateability.preroll	
+kin.runaway.activateability.postroll	
+kin.core.play.item.swap	
+kin.core.play.class.replace	
+kin.core.play.race.replace	
+kin.core.play.magiclamp	
+kin.core.play.wishingring	
+kin.prompts.activatecurseonplayer	
+kin.confirm.discard.class	
+kin.confirm.discard.race	
+kin.die.preroll	
+kin.die.header	
+kin.die.postroll	
+kin.choosebadstuff.discard	
+kin.choosebadstuff.losetwolevels	
+kin.waitingforplayer.selectavatar	
+kin.core.play.wandofdousing.pickcard	
+kin.base.door.cheat.item	
+kin.jumpin.door.active	
+kin.jumpin.attack.active	
+kin.jumpin.beginpursuit.active	
+kin.jumpin.runaway.active	
+kin.jumpin.postrunaway.active	
+kin.jumpin.postrunaway.opponent	
+kin.jumpin.postcombat.active	
+kin.jumpin.precurse.active	
+kin.core.play.undead	
+kin.prompt.askforhelp.draft.header	
+kin.askforhelp.draft.yourpick	
+kin.askforhelp.draft.opponentpick	
+kin.core.play.monsterenhancer.selectmonster	
+kin.prompt.swapitem.message	
+kin.base.door.leperchaun.discard	
+kin.base.door.leperchaun.discard.opponent	
+kin.runaway.choose.monster	
+kin.runaway.choose.monster.opponent	
+kin.setup.character.raceclass	
+kin.setup.character.raceclass.opponent	
+kin.setup.character.item	
+kin.setup.character.item.opponent	
+kin.core.play.pollymorph	
+kin.core.play.killhireling	
+kin.combat.askforhelp.player.helper	
+kin.combat.askforhelp.player.helper.opponent	
+kin.combat.askforhelp.response	
+kin.combat.askforhelp.response.subheader	
+kin.bribes.none	
+kin.askforhelp.receivecards	
+kin.thief.roll	
+kin.discardpile.treasure.header	
+kin.discardpile.door.header	
+kin.discardpile.choose.header	
+kin.combat.rewards.pre.draw	
+kin.modifyroll.subheader	
+kin.discardpile.view.header	
+kin.badstuff.roll	
+dialogmessages.aitakeover	
+kin.base.door.hireling.item	
+kin.base.door.hireling.item.swap	
+kin.jumpin.postroll	
+kin.modifyroll.header	
+kin.askforhelp.draftrequest	
+kin.combat.askforhelp.waiting	
+prompt.charity.header	
+kin.modifyroll.minimumrequired	
+kin.reconcile.lastchance	
+kin.reconcile.lastchance.sell	
+kin.reconcile.charity.discard	
+kin.reconcile.charity.discard.opponent	
+kin.reconcile.charity.give	
+kin.reconcile.charity.give.opponent	
+kin.reconcile.charity.giveplayer	
+kin.resurrection.header	
+kin.core.play.race.replace.alt	
+kin.core.play.class.replace.alt	
+kin.jumpin.precurse.opponent	
+kin.jumpin.abilities.opponent	
+kin.playerturn.charity.discard.opponent	
+kin.playerturn.lookorloot.opponent	
+kin.base.door.cleric.resurrection.discard.opponent	
+kin.combat.rewards.pre.draw.opponent	
+kin.draw.play.opponent	
+kin.prompt.swapclass.message	
+kin.prompt.swaprace.message	
+kin.core.play.stealalevel	
+kin.thief.roll.loadeddie	
+kin.combat.askforhelp.response.opponent	
+kin.trade.item.accept.opponent	
+kin.jumpin.confirm.opponent	
+kin.jumpin.stack.opponent	
+kin.jumpin.opponent	
+kin.jumpin.door.opponent	
+kin.jumpin.attack.opponent	
+kin.jumpin.beginpursuit.opponent	
+kin.jumpin.runaway.opponent	
+kin.jumpin.postcombat.opponent	
+kin.base.door.curse.incometax.select.opponent	
+kin.playerturn.draw.opponent	
+kin.combat.rewards.draft.pick.opponent	
+kin.base.door.nettroll.steal.opponent	
+kin.player.changegear.opponent	
+kin.playerturn.charity.lastchance.opponent	
+kin.playerturn.charity.give.opponent	
+kin.playerturn.charity.giveplayer.opponent	
+kin.jumpin.postroll.opponent	
+kin.reconcile.lastchance.opponent	
+kin.reconcile.charity.giveplayer.opponent	
+kin.base.door.snailsonspeed.discard.opponent	
+kin.base.door.platycore.choose.opponent	
+kin.combat.askforhelp.bribe.selections.opponent	
+kin.combat.askforhelp.players.opponent	
+kin.combat.askforhelp.bribe.type.opponent	
+kin.runawaysuccess.ability	
+kin.runaway.badstuff	
+kin.runawaysuccess.ability.opponent	
+kin.runaway.badstuff.opponent	
+kin.runaway.rolltarget	
+kin.base.door.nettroll.steal	
+kin.tooltip.1	
+kin.tooltip.gender.male	
+kin.tooltip.gender.female	
+kin.tooltip.editcharacter	
+kin.tooltip.genderneutral	
+kin.tooltip.fastplay	
+kin.tooltip.sharedvictory	
+kin.tooltip.playerhud.strength	
+kin.tooltip.race.human	
+kin.tooltip.race.dwarf	
+kin.tooltip.race.elf	
+kin.tooltip.race.halfling	
+kin.tooltip.class.none	
+kin.tooltip.class.cleric	
+kin.tooltip.class.thief	
+kin.tooltip.class.warrior	
+kin.tooltip.class.wizard	
+kin.tooltip.slowplay	
+kin.tooltip.inventory	
+kin.tooltip.askforhelp	
+kin.tooltip.monsterstrength	
+kin.tooltip.playerstrength	
+kin.tooltip.loottheroom	
+kin.tooltip.lookfortrouble	
+kin.tooltip.aimood.neutral	
+kin.tooltip.aimood.hostile	
+kin.tooltip.aimood.veryhostile	
+kin.tooltip.aimood.friendly	
+kin.tooltip.aimood.veryfriendly	
+kin.tooltip.ability.halfling	
+kin.tooltip.ability.resurrection	
+kin.tooltip.ability.turning	
+kin.tooltip.ability.backstabbing	
+kin.tooltip.ability.theft	
+kin.tooltip.ability.berserking	
+kin.tooltip.ability.flight	
+kin.tooltip.ability.charm	
+kin.tooltip.cardsinhand	
+tooltip.actionlog	
+tooltip.challengeinfo	
+kin.tooltip.eotjumpinwindow	
+kin.tooltip.discardpiles	
+tooltip.friendslist.owned	
+tooltip.friendslist.unowned	
+kin.tooltip.ability.hireling1	
+kin.tooltip.ability.hireling2	
+kin.tooltip.heldbyhireling	
+kin.tooltip.playedusingcheat	
+log.actionlog	Journal d’actions
+log.start.game	La partie commence
+log.turn.start	
+log.turn.start.your	
+log.kick.door.result	
+log.look.for.trouble	
+log.loot.room	
+log.cursed.door	
+log.combat.start	
+log.ask.help	
+log.accept.help	
+log.win.combat	
+log.win.combat.with.help	
+log.lose.combat	
+log.lose.combat.with.help	
+log.discard.monster	
+log.play.card.generic	
+log.monster.enhancer.bonus.strength	
+log.monster.enhancer.add.treasure	
+log.monster.enhancer.lose.treasure	
+log.play.card.carried	
+log.play.card.equipped	
+log.levelup	
+log.lose.levels	
+log.draw	
+log.face.up.draw	
+log.draw.doors	
+log.draw.treasures	
+log.shuffle.deck	
+log.die.roll	
+log.run.away.success	
+log.run.away.fail	
+log.charity.give	
+log.trade.items	
+log.sell.items	
+log.badstuff.death.1	
+log.badstuff.death.2	
+log.badstuff.death.3	
+log.badstuff.hippogriff.infront	
+log.badstuff.hippogriff.fromhand	
+log.badstuff.king.tut	
+log.badstuff.wight.brothers	
+log.badstuff.unspeakable.horror	
+log.badstuff.insurance.salesman	
+log.badstuff.bigfoot	
+log.tongue.demon.kiss	
+log.wannabe.vampire.oogabooga	
+log.badstuff.net.troll	
+log.amazon.friend	
+log.badstuff.amazon.class	
+log.badstuff.amazon.noclass	
+log.badstuff.ghoulfiends	
+log.badstuff.face.sucker.gear	
+log.lawyer.thief.courtesy	
+log.badstuff.lawyer	
+log.badstuff.platycore.discard	
+log.badstuff.platycore.lose2	
+log.badstuff.pukachu	
+log.badstuff.shrieking.geek	
+log.badstuff.leperchaun	
+log.badstuff.snails.on.speed	
+log.badstuff.gelatinous.octahedron	
+log.pit.bull.give.stick	
+log.badstuff.crabs	
+log.badstuff.drooling.slime.gear	
+log.badstuff.drooling.slime.nogear	
+log.curse.effect.change.class	
+log.curse.effect.lose class	
+log.curse.effect.change.race	
+log.curse.effect.lose.race	
+log.curse.effect.change.sex	
+log.curse.effect.chicken.head	
+log.curse.remove.chicken.head	
+log.curse.effect.doom.duck	
+log.curse.effect.income.tax.1	
+log.curse.effect.income.tax.2	
+log.curse.effect.lose.big	
+log.curse.effect.lose.level	
+log.curse.effect.lose.small	
+log.curse.effect.lose.armor	
+log.curse.effect.lose.headgear	
+log.curse.effect.lose.footgear	
+log.curse.effect.lose.2.cards	
+log.curse.effect.malign.mirror	
+log.curse.effect.obnoxious.curse	
+log.cleric.resurrect.draw	
+log.cleric.resurrect.discard	
+log.cleric.turning	
+log.thief.backstab	
+log.thief.theft.success	
+log.thief.theft.fail	
+log.warrior.berserking	
+log.wizard.flight.spell	
+log.wizard.charm.spell	
+log.elf.helper	
+log.halfling.double.sell	
+log.halfling.luck	
+log.sandals.protect	
+log.update.race	
+log.update.class	
+log.update.sex	
+log.wandering.monster	
+log.automatic.escape	
+log.badstuff.loseitems	
+log.cheat.used	
+log.divine.intervention	
+log.doppelganger	
+log.flask.of.glue	
+log.halitosis.vs.nose	
+log.help.me.out.here.steal	
+log.hireling.equip	
+log.hireling.killed	
+log.hireling.sacrifice	
+log.illusion	
+log.kneepads.compel	
+log.loaded.die	
+log.monster.enhancer.lose.strength	
+log.monster.enhancer.mate	
+log.one.shot.bonus.monsters	
+log.one.shot.bonus.players	
+log.rat.stick.discard	
+log.steal.level	
+log.tuba.bonus.treasure	
+log.undead.pile.on	
+log.wand.of.dowsing	
+log.wishing.ring	
+log.trade.items.one.sided	
+log.discard.generic	
+log.no.combat.generic	
+log.help.reward.random	
+log.help.reward.draft	
+log.help.reward.cards	
+t1.intro	
+t1.goal	
+t1.char.build	
+t1.moz.1.mobile	
+t1.moz.1.pc	
+t1.play.items	
+t1.play.items.2	
+t1.total.strength	
+t1.play.items2	
+t1.end.char.creation	
+t1.turn1	
+t1.harpies	
+t1.tie.v1	
+t1.class.v1	
+t1.tie.v2	
+t1.end.player.combat.phase	
+t1.gary.ponfusion	
+t1.easy	
+t1.gary.potion	
+t1.jump.in	
+t1.oneshot.v1	
+t1.oneshot.v2	
+t1.rewards	
+t1.charity.warning	
+t1.sell	
+t1.pass	
+t1.op1.chainsaw	
+t1.op1.jump.in	
+t1.op1.gary.annoyed	
+t1.op1.retort	
+t1.op1.gary.sulk	
+t1.op1.end.jump.in	
+t1.kick	
+t1.curse	
+t1.curse.2	
+t1.trouble	
+t1.trouble.2	
+t1.gary.comment	
+t1.help	
+t1.help.3	
+t1.offer.2	
+t1.offer.3	
+t1.op2.fight	
+t1.op2.enrage	
+t1.op2.gary.grumble	
+t1.op2.gary.loss	
+t1.trade	
+t1.trade.2	
+t1.trade.4	
+t1.op3.horror	
+t1.op3.death	
+t1.op3.death.2	
+t1.op3.tutorial.end	
+t1.op3.tutorial.end2	
+t1.op3.tutorial.end3	
+t1.play.items3.demo	
+t1.charity.warning.demo	
+t1.sell.demo	
+t1.pass.demo	
+t1.crabs.demo	
+kin.tutorial.leave	
+kin.tutorial.finish	
+t1.op3.tutorial.end1	
+t2.set.1	
+t2.set.2	
+t2.turn1.1	
+t2.turn1.2	
+t2.turn1.3	
+t2.turn1.4	
+t2.turn1.5	
+t2.turn1.7	
+t2.turn1.8	
+t2.turn1.9	
+t2.turn1.enemy.1	
+t2.turn1.enemy.2	
+t2.turn1.enemy.3	
+t2.turn1.enemy.4	
+t2.turn1.enemy.5	
+t2.turn1.enemy.6	
+t2.turn1.enemy.7	
+t2.turn1.enemy.8	
+t2.turn1.triggered.1	
+t2.turn1.triggered.2	
+t2.turn1.triggered.3	
+ftt.undead	
+ftt.multi.monster	
+t1.curse.3	
+tutorial.prompt.complete.header	
+tutorial.prompt.complete.body	
+tutorial.title.tutorial01	
+tutorial.description.tutorial01	
+tutorial.title.tutorial02	
+tutorial.description.tutorial02	
+tutorial.cardanatomy.title	
+tutorial.cardanatomy.geartype	
+tutorial.cardanatomy.goldcost	
+tutorial.cardanatomy.cardtype	
+eula.acceptterms	J'accepte
+eula.requestupdates	Envoyez-moi des informations
+eula.title	Contrat de licence d'utilisateur final
+eula.body	<b>Licence</b><br>En utilisant le jeu de Dire Wolf Digital (le « Jeu ») contenant ce logiciel, vous acceptez que cet Accord de licence d'utilisateur final (l'« Accord ») est juridiquement contraignant et valide, et que vous acceptez les conditions. Vous acceptez de vous conformer aux lois relatives à la propriété intellectuelle, et à tous les termes et conditions de cet Accord.<br><br><uppercase>VEUILLEZ LIRE CET ACCORD DE LICENCE D'UTILISATEUR FINAL ATTENTIVEMENT ET VOUS ASSURER DE BIEN COMPRENDRE TOUS LES TERMES ET CONDITIONS QUI SUIVENT AVANT D'ACCÉDER OU UTILISER LES SERVICES DU JEU.</uppercase><br><br>Votre utilisation du Jeu indique que vous acceptez cet Accord et la garantie.<br><br>Sujet aux conditions de cet Accord, Dire Wolf Digital vous octroie une licence limitée, non exclusive et non transférable, sans droit de céder des sous-licences, pour l'utilisation du Jeu dans le respect de cet Accord et tout autre Accord écrit entre vous et Dire Wolf Digital. Dire Wolf Digital ne vous transfert pas le titre du Jeu ; la licence qui vous est garantie n'est pas une vente. Cet Accord est une convention juridiquement contraignante entre Dire Wolf Digital et les acheteurs ou utilisateurs du Jeu.<br><br>Si vous refusez d'être lié par les termes de cet Accord, désinstallez immédiatement le Jeu de votre ordinateur ou tout autre appareil similaire.<br><br><b>Distribution</b><br>Le Jeu et la licence ici octroyés ne peuvent pas être copiés, partagés, distribués, revendus, proposés à la revente, transférés ou proposés en sous-licence dans sa totalité ou en partie.<br><br><b>Accord d'utilisateur</b><br>Vous devez utiliser le Jeu en conformité avec les lois applicables et non à des fins illicites. L'utilisation du Jeu signifie que vous avez chargé, installé ou lancé le Jeu sur un ordinateur ou appareil similaire.<br><br>Pour utiliser les portions de services en ligne du Jeu, vous devrez créer un compte. Vous pouvez créer un compte seulement si vous possédez la pleine capacité juridique dans votre pays de résidence, et n'avez pas été spécifiquement interdit de création d'un compte par Dire Wolf Digital. Pour les besoins de cet Accord, les services en ligne indiquent les moyens et méthodes de se connecter à d'autres joueurs pour participer à des conversations et jouer à des jeux en multijoueur.<br><br>Vous ne pouvez pas utiliser, créer, promouvoir ou distribuer des outils de triche, bots, outils de piratage ou tout autre logiciel qui exploite, change ou automatise les commandes, la façon de jouer ou toute autre fonctionnalité du Jeu.<br><br>Vous ne pouvez utiliser aucun procédé ou logiciel qui collecte ou compile des données générées ou stockées par le Jeu.<br><br>Vous ne pouvez utiliser, afficher ou distribuer le Jeu en l'associant à tout matériau pornographique, raciste, vulgaire, obscène, diffamatoire, calomnieux, abusif, qui promeut la haine, la discrimination, ou avec des préjudices basés sur la religion, l'héritage ethnique, la race, le genre, l'orientation sexuelle ou l'âge.<br><br><b>Restriction du droit de reproduction</b><br>Ce Jeu contient du matériel protégé, des secrets commerciaux, et d'autres matériaux de propriété exclusive. Vous ne pouvez pas, et ne devez pas essayer de modifier, rétroconcevoir, désassembler ou décompiler le Jeu. Vous vous engagez à ne pas créer de travaux dérivatifs ou autres travaux basés sur ou dérivés du Jeu dans son ensemble ou en partie.<br><br>Le nom de Dire Wolf Digital, le logo et les fichiers graphiques qui représentent le jeu ne peuvent être utilisés d'aucune façon pour promouvoir des produits non liés à Dire Wolf Digital. Dire Wolf Digital se réserve la propriété exclusive de tous les droits, titres et intérêts dans et au Jeu et tous les droits de propriété intellectuelle s'y rapportant.<br><br>Le droit d'auteur et les traités internationaux du droit d'auteur protègent l'ensemble des parties du Jeu, produits et services. Aucun programme, code, partie, image, extrait audio ou texte ne peut être copié ou utilisé de quelque façon par l'utilisateur autrement que comme prévu dans les limites du programme à utilisateur unique. Tous les droits non expressément accordés ici sont réservés à Dire Wolf Digital.<br><br><b>Limitation de responsabilité</b><br>Vous acceptez d'indemniser, protéger et défendre Dire Wolf Digital, ses employés, agents et distributeurs contre les réclamations, procédures, demandes et coûts résultant de ou connectés à votre utilisation du logiciel de Dire Wolf Digital.<br><br>Sous aucune circonstance (incluant, mais non limité à un cas de négligence) Dire Wolf Digital, ses employés, agents ou distributeurs ne peuvent être tenus responsables de dommages indirects, accessoires, incidentaux, spéciaux ou punitifs (incluant, mais non limité aux dommages en cas de perte de profits, d'utilisation, d'interruption des activités, perte de données ou d'informations, ou perte pécuniaire), en lien avec, découlant ou en rapport avec cet Accord, le Jeu ou son utilisation, ou l'incapacité d'utiliser le Jeu ou la fourniture, la performance ou l'utilisation de tout autre question ci-mentionnée fondée sur le contrat, délit ou sur toute autre théorie incluant la négligence.<br><br><b>Garanties</b><br>À l'exception des points expressément rédigés, Dire Wolf Digital n'accorde aucune représentation ni garantie quant à ce logiciel et exclut expressément toutes autres garanties, explicites ou implicites, orales ou écrites, incluant mais non limité aux garanties implicites, la qualité marchande ou la conformité à des fins particulières.<br><br><b>Loi applicable</b><br>Le présent contrat est régi et interprété conformément aux lois de l'État du Colorado, sans égard aux principes relatifs aux conflits de droit. Tout litige né de l'application des présentes conditions sera soumis exclusivement à un tribunal d'État ou un tribunal fédéral compétent qui siège dans la ville et le comté de Denver, Colorado, et vous reconnaissez inconditionnellement et irrévocablement la compétence non exclusive de ces tribunaux. Si une disposition de l'Accord est considérée comme invalide, nulle ou inexécutable, alors la disposition sera considérée séparable de cet Accord et n'affectera pas la validité et l'exécution de toute autre disposition.<br><br><b>Terminaison</b><br>Le non-respect des termes et conditions de cet Accord résultera en une terminaison automatique et immédiate de cette licence. Après la terminaison de cette licence pour toute raison, vous vous engagez à mettre immédiatement fin à votre utilisation du Jeu et à détruire toutes les copies du Jeu procurées dans le cadre de cet Accord. Les obligations financières que vous avez contractées survivront à l'expiration ou la terminaison de cette licence.<br><br><b>Clause de non-responsabilité</b><br>CE LOGICIEL ET LES FICHIERS QUI L'ACCOMPAGNENT SONT FOURNIS ET/OU VENDUS « EN L'ÉTAT » SANS AUCUNE GARANTIE DE QUELQUE NATURE QUE CE SOIT, EXPRESSE OU IMPLICITE (INCLUANT, MAIS NON LIMITÉ À TOUTES GARANTIES IMPLICITES DE PERFORMANCE, DE COMMERCIALITÉ ET D'ADAPTATION À UNE FIN PARTICULIÈRE), ET TOUTES LES AUTRES GARANTIES SONT EXPRESSÉMENT REJETÉES. CETTE DÉCLARATION INCLUT ÉGALEMENT TOUS LES FICHIERS GÉNÉRÉS ET ÉDITÉS PAR LE JEU.
+ai.avatar.floatingnose	Nosy Ned
+ai.avatar.wightbrothers	The Brothers Wight
+ai.avatar.plutoniumdragon	Dr. Dragon
+ai.avatar.bullrog	Fred
+ai.avatar.pottedplant	Peaty Potter
+ai.avatar.theshadow	The Shadow
+ai.avatar.fredflametoe	Terry Flametoe
+ai.avatar.largeangrychicken	Mr. Chicken
+ai.avatar.mrbones	Ben Bonesly
+ai.avatar.tonguedemon	Lana Longton
+ai.avatar.nettroll	Ted Trollbooth
+ai.avatar.carolcatsuit	Carol Catsuit
+ai.avatar.slimysal	Slimy Sal
+ai.avatar.harriethippietin	Harriet Hippietin
+ai.avatar.sallyswording	Sally Butterknife
+ai.avatar.earlyuppiedink	Earl Yuppiedink
+ai.avatar.debbieaxerow	Debbie Axerow
+ai.avatar.courageouscarl	Courageous Carl
+ai.avatar.insurancesalesman	Sal from Sales
+ai.avatar.stonedgolem	Rocky
+ai.avatar.wannabeevampire	Count Wannabee
+ai.avatar.pierrearrlington	Pierre Arrlington
+ai.avatar.ghouliaghostly	Ghoulia Ghostly
+ai.avatar.randyrulefinder	Randy Rulefinder
+ai.avatar.ottoorcington	Otto Orcington
+ai.avatar.mwelbybalding	Welby Balding
+ai.avatar.pandolfpocus	Pandolf Pocus
+ai.avatar.maulrat	Maulery Ratstuff
+ai.avatar.breehornshield	Brie Hornshield
+ai.avatar.sueshorterly	Sue Shorterly
+ai.avatar.morwengreenfoot	Morwen Greenfoot
+kin.challenge.trackmeet.name	
+kin.challenge.trackmeet.normal.description	
+kin.challenge.trackmeet.heroic.description	
+kin.challenge.superduper.name	
+kin.challenge.superduper.normal.description	
+kin.challenge.superduper.heroic.description	
+kin.challenge.rulesofattraction.name	
+kin.challenge.rulesofattraction.normal.description	
+kin.challenge.rulesofattraction.heroic.description	
+kin.challenge.babyland.name	
+kin.challenge.babyland.normal.description	
+kin.challenge.babyland.heroic.description	
+kin.challenge.veryhelpful.name	
+kin.challenge.veryhelpful.normal.description	
+kin.challenge.veryhelpful.heroic.description	
+kin.challenge.dicechucker.name	
+kin.challenge.dicechucker.normal.description	
+kin.challenge.dicechucker.heroic.description	
+kin.challenge.neveradullmoment.name	
+kin.challenge.neveradullmoment.normal.description	
+kin.challenge.neveradullmoment.heroic.description	
+kin.challenge.charactersheetconfusion.name	
+kin.challenge.charactersheetconfusion.normal.description	
+kin.challenge.charactersheetconfusion.heroic.description	
+kin.challenge.merchantofmenace.name	
+kin.challenge.merchantofmenace.normal.description	
+kin.challenge.merchantofmenace.heroic.description	
+kin.challenge.loner.name	
+kin.challenge.loner.normal.description	
+kin.challenge.loner.heroic.description	
+kin.challenge.doubletrouble.name	
+kin.challenge.doubletrouble.normal.description	
+kin.challenge.doubletrouble.heroic.description	
+kin.challenge.pantslessjuggler.name	
+kin.challenge.pantslessjuggler.normal.description	
+kin.challenge.pantslessjuggler.heroic.description	
+kin.challenge.curses.name	
+kin.challenge.curses.normal.description	
+kin.challenge.curses.heroic.description	
+marketing.1	
+marketing.2	
+marketing.3	
+marketing.4	
+marketing.5	
+marketing.6	
+marketing.7	
+marketing.8	
+marketing.9	
+marketing.10	
+marketing.11	
+marketing.12	
+marketing.13	
+marketing.14	

@@ -1,0 +1,1391 @@
+#_	_
+button.back	返回
+settings.gameplay.title	Gameplay
+settings.video.resolution	分辨率
+tutorial.advanced.separator	Advanced Tutorials
+button.newtag	新！
+gameoptions.timer.slow	非同步
+gameoptions.timer.fast	实时
+multiplayer.globalchat	全球聊天
+button.account	账户
+login.title.change.user	变更用户
+changepassword.title	修改密码
+login.logoutbutton	退出登录
+friends.removefreind	
+friends.addfriend	添加好友
+friends.invitefriends.button	
+friends.invitefriends.send	发送
+singleplayer.header.label	挑战
+button.no	否
+button.yes	是
+prompt.continuesaved.desc	你有已经保存的游戏进度。你想要继续此进度，还是删除并开始新游戏？
+prompt.continuesaved.title	继续游戏
+prompt.continuesaved.buttonnewgame	新游戏
+button.continue	继续游戏
+login.title.create.account	创建账户
+login.email	邮箱
+createaccount.screenname	昵称
+login.password	密码
+createaccount.reenterpassword	重新输入密码
+button.cancel	取消
+button.close	关闭
+direbytes.header	Dire Wolf 游戏资讯
+direbytes.none	没有Direwolf的新闻
+direbytes.link	
+direbytes.store	
+button.commit	
+button.submit	提交
+settings.feedback	提交反馈
+settings.feedback.email.placeholder	邮件
+settings.feedback.placeholder	在此输入信息。请包含涉及到的具体阵营和游戏模式。
+settings.feedback.send	发送
+settings.feedback.sendlogs	发送日志
+login.forgotpassword	忘记密码
+login.forgotpassword.reset	重置
+friends.title	好友
+playonline.optionheader.password	密码
+savedgames.joingame	加入游戏
+button.ok	确定
+button.tutorial	新手教程
+mainmenu.localplay	本地游戏
+mainmenu.onlineplay	线上游戏
+button.shop	商店
+button.quit	退出游戏
+mainmenu.leaderboards	排行榜
+leaderboards.friendsonly	仅好友
+prompt.leaderboard.score.label	
+prompt.leaderboard.rank.label	等级
+prompt.leaderboard.name.label	名字
+login.title.log.in	登录
+settings.login	登录
+login.create.account	创建账户
+changepassword.oldpassword	旧密码
+changepassword.newpassword	新密码
+multiplayer.gotogame	进入游戏
+multiplayer.playonline	在线游戏
+multiplayer.showpasswordgames	显示加密的房间
+multiplayer.activetab	活跃中
+lobby.nogames.label	没有游戏
+multiplayer.browsertab	浏览器
+multiplayer.columntimer	计时器
+multiplayer.columnname	名字
+multiplayer.columnbanned	禁用
+multiplayer.columnplayers	玩家
+gameoptions.creategame	创建游戏
+gameoptions.startgame	开始游戏
+gameoptions.joingame	加入游戏
+button.rules	游戏规则
+settings.gen.title	Settings
+settings.video.title	视频
+settings.audio.title	音频
+settings.pc.windowed	窗口化
+settings.pc.vsync	垂直同步
+settings.video.quality	质量
+settings.audio.musicvolume	音乐音量
+settings.audio.effectsvolume	音效音量
+settings.languages	语言
+settings.eula	最终用户许可协议
+solooptions.singleplayer	挑战
+solooptions.play	单人游戏
+multiplayer.passandplay	本地多人游戏
+appirater.header	给APP评分
+appirater.body	喜欢《茂林源记》吗？请给我们打个分吧！
+appirater.ratebutton	给APP评分
+appirater.remindbutton	以后提醒我
+appirater.rejectbutton	不，谢谢
+playonline.confirmresign	你确定要投降吗？
+settings.pc.confirmation.body	你想要保留这些显示设置吗？在{0}秒后还原为先前设置。
+friends.category.invites	邀请
+friends.category.online	在线
+friends.category.offline	离线
+friends.category.count.label	({0})
+store.restorepurchaseserror.default	
+dialogmessages.resetpassword.info	请查看邮件以获得进一步的指示。
+lobby.timerdisplay.hoursformat	{0}小时
+lobby.timerdisplay.minsformat	{0}分钟
+lobby.timerdisplay.daysformat	{0}天
+playonline.cpuplayer.label	电脑
+playonline.waitingplayer.label	<color=#858585>等待玩家</color>
+playonline.joinedplayer.label	<color=#FFFF00>{0}</color>
+playonline.availablegames.game	{0}的游戏
+waitingforplayers.timer.label	回合时间限制：{0}
+waitingforplayers.aidifficulty.label	电脑难度：{0}
+gameoptions.aidifficultyeasy	简单
+gameoptions.aidifficultymedium	中等
+gameoptions.aidifficultyhard	困难
+waitingforplayers.invalideplayerstate	发生了一个错误，请重试。
+dialogmessages.lobbyended.message	你目前浏览的游戏大厅已经不存在。
+playsolo.match.startfailure	无法读取游戏。
+prompts.gameresults.title	游戏结束
+dialogmessages.feedback.success	感谢您的反馈。
+prompttitles.generic.success	成功
+singleplayer.difficulty.label	难度：{0}
+singleplayer.difficulty.easy	
+singleplayer.difficulty.medium	
+singleplayer.difficulty.hard	
+quitapplication.confirm.message	你确定要退出游戏吗？
+login.loggedinas	当前帐号：{0}
+friends.invitationsent	邀请已发送！
+friends.areyousure	你确定吗？
+dialogmessages.invitefriend.success	邀请已发送！
+login.error.invalidemail	错误：无效的邮箱地址
+login.error.invalidusername	错误：无效的用户名
+login.error.invalidpassword	错误：密码至少为6位，且同时包含字母与数字。
+login.error.passwordmismatch	错误：两次密码输入不匹配
+prompts.loginfailure.nocredentials	
+prompts.loginfailure.eulanotaccepted	请在接受最终用户许可协议后登录。
+dialogmessages.login.errors.upgradeclient	无法登录，请确认客户端更新到了最新版本。
+dialogmessages.login.errors.couldnotconnect	无法连接到认证服务器，请稍后重试。
+dialogmessages.login.errors.gatewaydown	无法连接到网关。
+dialogmessages.login.errors.ipbanned	本机IP无法连接。
+dialogmessages.login.errors.maintenance	无法连接，服务器正在维护。
+dialogmessages.login.errors.serverfull	无法连接，服务器已满。
+network.checkconnection	请检查网络连接。
+dialogmessages.login.errors.default	暂时无法登录。
+dialogmessages.registration.thanksnewaccount	感谢注册！
+dialogmessages.registration.toomanyrequests	您发起了太多的请求，请在15分钟后重试。
+dialogmessages.registration.authunavailable	无法连接到认证服务器，请稍后重试。
+dialogmessages.registration.failure	无法创建账户：
+{0}
+code.redeem.equip.immediate	
+dialogmessages.continuegame.playeractivationfailure	
+match.start.failure	加载对战失败
+multiplayer.matchremoved	游戏不存在。
+multiplayer.matchresigned.2	在与{0}的游戏中，您已选择了投降。
+multiplayer.matchresigned.3	在与{0}和{1}的游戏中，您已选择了投降。
+multiplayer.matchresigned.4	在与{0}、{1}和{2}的游戏中，您已选择了投降。
+multiplayer.matchresigned.5	
+multiplayer.matchresigned.6	
+dialogmessages.resignfromgame.failure	无法投降。请检查网络连接。
+rankedselect.errors.connectfailed	连接超时。请检查你的网络连接，稍后重试。
+dialogmessages.feedback.timeout	发送反馈时发生错误。
+dialogmessages.leaderboard.failure	目前无法接收计分板数据
+dialogmessages.addfriend.accountnotfound	发送好友邀请时发生错误：帐号不存在。
+dialogmessages.addfriend.invitefailure	发送好友邀请时发生错误。
+dialogmessages.acceptfriend.failure	接受好友邀请时发生错误。
+dialogmessages.cancelfriendrequest.failure	取消好友申请时发生错误。
+dialogmessages.removefriend.failure	移除好友时发生错误。
+dialogmessages.invitefriend.failure	无法发送邀请，请稍后重试。
+disconnect.timeout	连接超时
+disconnect.idletimeout	
+dialogmessages.changepassword.success	成功修改密码。
+dialogmessages.passwordpolicy	密码需要至少6位，必须包含大写字母，且必须同时包含字母与数字。
+dialogmessages.login.errors.invalidlogin	Invalid email or password.
+dialogmessages.continuegame.failure	无法连接到游戏。错误：{0}
+disconnect.defaultreason	失去与服务器的链接
+challenges.startgame	Start Game
+addfriend.addplayername	Player Name or Email
+button.accept	
+button.invite	Invite
+online.lobbypassword.enter	Enter Lobby Password
+button.exit	Exit
+settings.audio.mute	Mute
+header.campaign	Campaign
+game.over.prompt.confirm	离开游戏
+settings.pc.graphics.high	高
+settings.pc.graphics.medium	中
+settings.pc.graphics.low	低
+account.error.usernametaken	该帐号已存在
+mainmenu.friends	好友
+settings.title	设置
+friends.invite	邀请
+friends.removefriend	移除好友
+friends.game.invite.accept	Accept
+friends.game.invite.decline	Decline
+friends.cancelrequest	Cancel
+button.next	Next
+landing.grm	Open Dire Wolf Game Room App
+settings.clientversion	Client Version:
+settings.serverversion	Server Version:
+button.saveandquit	Save and Exit
+settings.resign	Resign
+landing.achievements.gc	Achievements
+button.mainmenu	Main Menu
+button.replay	Replay
+button.resign	投降
+lobby.resign.confirmation	Are you sure you want to resign from this match?
+player.unsetperson	Waiting for player...
+player.localperson	You
+button.skip	Skip
+dialogmessages.registration.nointernet	No Internet Access
+playonline.error.wrongpassword	Password Incorrect
+playonline.error.waitingoncasual	
+playonline.error.cannotcreatelivegame	
+playonline.error.cannotcreateasyncgame	
+block.player	屏蔽玩家
+multiplayer.blockplayer	屏蔽 {0} 后将无法看到其信息，之后也无法找回。
+multiplayer.reportplayer	{0} 已经被屏蔽。你想要举报这个玩家吗？
+multiplayer.reportplayer.describe	请描述一下你为何要举报 {0}
+multiplayer.reportplayer.reason.abusive	聊天中进行人身攻击或者发表不适当的言论。
+multiplayer.reportplayer.reason.inappropriateusername	不适当的用户名
+multiplayer.reportplayer.reason.griefing	消极比赛或者恶意拖延游戏时间
+multiplayer.reportplayer.reason.cheating	作弊或者脚本
+name.ai.easy	
+name.ai.medium	
+name.ai.hard	
+button.createfriendgame	
+playonline.yourturn	
+multiplayer.yourturn.2	
+mainmenu.friendgame	
+button.invitefriend	
+player.defaultname	
+button.decline	
+button.minimize	
+button.expand	
+multiplayer.matchchat	
+multiplayer.variants	
+prompt.unitdetails.title.monster	
+prompt.unitdetails.title.player	
+prompt.unitdetails.subheader	
+trade.empty.player	
+trade.empty.partner	
+trade.theyget	
+trade.iget	
+sell.wontlevel	
+sell.youritems	
+sell.tosell	
+sell.empty	
+kin.level	
+prompt.inventory.offertrade	
+prompt.inventory.sellforlevel	
+playmat.battle.askforhelp	
+playmat.battle.runaway	
+playmat.battle.failed	
+playmat.battle.success	
+prompt.avatarselection	
+prompt.showowned	
+prompt.sort	
+card.type.class	
+card.type.race	
+card.type.item	
+card.type.item.big	
+card.type.item.oneshot	
+card.type.curse	
+card.type.special	
+card.type.monster	
+card.type.monster.undead	
+card.type.monsterenhancer	
+playmat.battle.win	
+player.name.self	你
+playonline.offplayer.label	关闭
+login.newaccount	新建账户
+playonline.humanplayer.label	开启
+character.race.norace	
+character.race.human	
+character.race.dwarf	
+character.race.elf	
+character.race.halfling	
+character.class.noclass	
+character.class.none	
+character.class.cleric	
+character.class.thief	
+character.class.warrior	
+character.class.wizard	
+button.emote	
+placement.1st	
+placement.2nd	
+placement.3rd	
+placement.4th	
+placement.5th	
+placement.6th	
+button.done	
+gen.one	
+gen.two	
+gen.three	
+prompt.inventory.configure	
+equip.armor	
+equip.headgear	
+equip.footgear	
+equip.onehand	
+equip.twohand	
+equip.twohandbig	
+equip.oneshot	
+prompt.tradeoffer.togive	
+prompt.tradeoffer.toreceive	
+prompt.tradeoffer.header	
+prompt.tradecomplete.accepted	
+prompt.tradecomplete.rejected	
+sell.noitemstosell	
+deck.door	
+deck.treasure	
+sex.male	
+sex.female	
+prompt.inventory.equipped	
+prompt.inventory.carried	
+prompt.inventory.inhand	
+prompt.inventory.raceclass	
+button.block	
+prompt.unequip.header	
+prompt.replaceclass.header	
+prompt.replacerace.header	
+prompt.lootthebody.header	
+prompt.played	
+prompt.readylivegame	你的实时游戏已经开始。因为回合时间限制，请尽快进入游戏。
+prompt.discard.header	
+dragtarget.drophere	
+dragtarget.usenow	
+dragtarget.addundead	
+prompt.stealcard.header	
+prompt.choosecard.header	
+prompt.chooseplayer.header	
+prompt.choosemanyplayers.header	
+prompt.killhireling.header	
+prompt.choosediscardpile.header	
+button.confirm	
+emote.curses	
+emote.incredible	
+emote.help	
+emote.unplanned	
+emote.wellplayed	
+emote.run	
+prompt.general.or	
+prompt.reportplayer.dropdown	
+prompt.discarded	
+prompt.gave	
+prompt.stole	
+button.distract	
+kin.killnose	
+button.wave	
+button.scare	
+button.bribe	
+button.ignorefight	
+prompt.cursed	
+prompt.cheat.header	
+button.reconnect	
+match.askforhelp.failed	
+playonline.error.cannotjoingame	
+gameoptions.endturnjumpin	
+prompt.title.tradedfor	
+prompt.used	
+button.mustaccept	
+prompt.sold	
+kin.deckshuffle.door	
+kin.deckshuffle.treasure	
+auto.update.body	目前有可用的版本更新。
+auto.update.body.forced	需要更新版本才能继续。
+auto.update.confirm	更新
+button.reject	
+deck.door.top	
+deck.treasure.top	
+card.type.monster.baby	
+card.type.monster.baby.undead	
+prompt.looted	
+dialogmessages.addfriend.inviteexists	
+login.deleteaccountbutton	删除帐户
+deleteaccount.confirm.message	您确定要删除您的帐户吗？
+deleteaccount.complete.message	检查您的电子邮件以完成帐户删除。
+deleteaccount.failed.message	网络错误使您无法删除您的帐户。稍后再试。
+playonline.error.gamefull	游戏已满。
+dialogmessages.continuegame.failure.gameended	
+kin.combat.rewards.draft.pick	
+equip.armorbig	
+equip.onehandbig	
+equip.slotlessbig	
+multiplayer.gamecompleted.1	
+multiplayer.gamecompleted.2	
+multiplayer.gamecompleted.3	
+multiplayer.gamecompleted.4	
+multiplayer.gamecompleted.5	
+multiplayer.gamecompleted.6	
+prompt.gave.too.big	
+kin.event.revived	
+test.ops.key	
+base.door.50de36e5-d3ba-4bd6-abe2-694c8f1c2d7e.name	
+base.door.278b4940-f066-4019-a0e5-4f9a5cc09f0e.name	
+base.door.51ae062a-ebff-11ec-8ea0-0242ac120002.name	
+base.door.2cdcfcbf-228b-46b9-851e-6d5ba05f8300.name	
+base.door.171641c6-ba97-425c-8b65-9d5a04105a04.name	
+base.door.1c9f4659-bc94-4904-ad2c-7cf9b733c88c.name	
+base.door.4e2b9d92-2841-4ba8-ac42-8cfe1ab6b519.name	
+base.door.c72b235c-c758-427e-a882-e21aa0a8d351.name	
+base.door.fd91affd-27ba-4d0c-88b3-bb4313c440cf.name	
+base.door.1c83481f-ed9e-4e3f-9d78-72e527693ff7.name	
+base.door.217b04bf-e9b0-4878-b1cd-4f9122239913.name	
+base.door.d6fd9095-d91a-42f3-9004-98181b10eaf0.name	
+base.door.e9f354fb-0267-487b-a4dc-2709b65c870d.name	
+base.door.4a26cc13-09e9-4366-97f3-70a176a6c9bc.name	
+base.door.2df75f0c-19e7-42c4-b978-7d41a0042dde.name	
+base.door.4d904b4c-d13a-4112-875a-35cfceaede54.name	
+base.door.be74d2ee-5455-425d-93ea-dbb443ea778a.name	
+base.door.25b06508-10aa-43de-a3c7-24880b8afd72.name	
+base.door.d5183d93-4f22-4aa2-a6fb-bacb6fa1d33e.name	
+base.door.e0be0f5f-0724-4d82-b577-c55ff5b74839.name	
+base.door.b42aff04-6ff2-41c2-af92-637b283b8ea5.name	
+base.door.2413c379-f721-42d6-aca8-e1fb7eb9011f.name	
+base.door.5705ed95-b87d-4cc0-9daf-f6382be734a8.name	
+base.door.7ff31d6d-05bd-4b10-bae9-fe18ba7ea087.name	
+base.door.388e4af8-ba44-4715-9962-455838bfbe73.name	
+base.door.b1cc599b-1ab0-4980-ad9a-f99882647fb0.name	
+base.door.ff722a55-5407-439d-b7af-57f633e0dbf3.name	
+base.door.9fa924db-5b36-4831-9f6e-de8303b001b0.name	
+base.door.d9952bfe-f65d-4d46-881a-7e1a2e46f06f.name	
+base.door.4e25e9b2-f39b-426e-9fc0-134d00226b98.name	
+base.door.a3f1f98e-27d1-4bd5-b97f-203a89114790.name	
+base.door.e93e7b43-62bd-4ab3-be4c-506c8a6a621c.name	
+base.door.8ab95f50-2c7a-4e6b-ae43-51a51b64b5d3.name	
+base.door.afed7786-e2e9-4ca2-a0a6-d30d6df3702b.name	
+base.door.cd3f3f05-8317-450c-86e4-fd91e0c06bb4.name	
+base.door.af48c486-1888-4e7e-ad55-0b48d227af3c.name	
+base.door.65dee751-4508-4804-8faa-b17fa9c4ed79.name	
+base.door.aa5584c1-fd5d-49a5-8cc0-75f3422c8e6a.name	
+base.door.37b667a1-23ac-4a5f-9427-afff2dad4705.name	
+base.door.4977fc4f-66df-40a6-b5ca-562bb4c8b112.name	
+base.door.3ee0b351-54f2-4480-9aa3-380d2593e84a.name	
+base.door.55e5c91e-a987-4900-abec-0f502175288a.name	
+base.door.db29801c-5fe4-4a6c-9e41-35752d1a36bb.name	
+base.door.43b16c0e-49ac-4688-8db8-5737cbd50eef.name	
+base.door.3fb5c60b-98a1-4775-b7b7-7c02910732f2.name	
+base.door.4d052f9a-2def-4ab8-b100-fde850b71507.name	
+base.door.88716968-ead5-4473-9db2-85b9e9f69ef0.name	
+base.door.6832d810-5af2-40f9-9877-0dfe91d808f2.name	
+base.door.79d7e37c-ad44-460e-a1e9-e65bceeaed00.name	
+base.door.ef2c8c7e-3043-46a6-ba47-c69ab67f7f2f.name	
+base.door.739ed395-dbbd-4108-92c3-4cbfd317e9c5.name	
+base.door.83ddfb20-2791-40bb-ba58-c051ae2eae9c.name	
+base.door.2f0b14f5-4aab-4855-b9c6-3a340349af8a.name	
+base.door.4a0ad1cf-01bf-423a-9328-e983d188032f.name	
+base.door.f906cf16-5a1a-422c-b3fa-9ec583e54c4e.name	
+base.door.63df5d66-f885-4e54-94f7-2cf4e1a8b8d0.name	
+base.door.b9d66767-ceee-47bb-a428-691cb557c716.name	
+base.door.cc935bfb-40a1-42c0-9c14-d89f91662971.name	
+base.door.53f277b6-ed4b-498d-a582-a2d31c38bf52.name	
+base.door.93a5ec2f-ee7f-4654-a28d-fcf045fa0f97.name	
+base.door.25586aec-1ac3-4b4b-9c9a-bead276efac1.name	
+base.door.96f29253-b3f9-483f-8028-2e96e2aa519f.name	
+base.door.da9241e2-ed86-4ee1-9a5b-637c95598d4d.name	
+base.door.e013dc7b-77a6-458c-af20-30de04317cc0.name	
+base.door.6bcc1629-aaea-409b-9dbc-7fe53576d6a6.name	
+base.door.db4f0e50-a540-4f28-bf8c-cc3eef7d8110.name	
+base.door.bf631030-1e99-4ccc-ae8f-a538a9038c0b.name	
+base.door.07501f59-6c5a-41fb-99be-e6b0706e001d.name	
+base.door.45814a37-7d87-4333-8e69-3068628f2474.name	
+base.door.b6ec7ed3-9676-42c9-a55b-f5803f12470d.name	
+base.door.b95cafbd-d581-43ff-a08b-39979135b256.name	
+base.door.efa6fd1e-5308-467c-ae0e-2db9ccfe211a.name	
+base.door.db238a1c-81ef-4b02-8bc2-4dcb50577ab3.name	
+base.door.68e54c25-7e83-4c13-ab9a-13d1381d5850.name	
+base.door.8cf2ebf1-610d-448e-a5f6-76f4c73d8176.name	
+base.door.04774ddc-83e9-48a2-b1ed-3ae630e511b3.name	
+base.door.47b91b62-624d-4543-a0da-50e55cf47a56.name	
+base.door.50de36e5-d3ba-4bd6-abe2-694c8f1c2d7e.text	
+base.door.278b4940-f066-4019-a0e5-4f9a5cc09f0e.text	
+base.door.51ae062a-ebff-11ec-8ea0-0242ac120002.text	
+base.door.2cdcfcbf-228b-46b9-851e-6d5ba05f8300.text	
+base.door.171641c6-ba97-425c-8b65-9d5a04105a04.text	
+base.door.1c9f4659-bc94-4904-ad2c-7cf9b733c88c.text	
+base.door.4e2b9d92-2841-4ba8-ac42-8cfe1ab6b519.text	
+base.door.c72b235c-c758-427e-a882-e21aa0a8d351.text	
+base.door.fd91affd-27ba-4d0c-88b3-bb4313c440cf.text	
+base.door.1c83481f-ed9e-4e3f-9d78-72e527693ff7.text	
+base.door.d6fd9095-d91a-42f3-9004-98181b10eaf0.text	
+base.door.4a26cc13-09e9-4366-97f3-70a176a6c9bc.text	
+base.door.2df75f0c-19e7-42c4-b978-7d41a0042dde.text	
+base.door.4d904b4c-d13a-4112-875a-35cfceaede54.text	
+base.door.be74d2ee-5455-425d-93ea-dbb443ea778a.text	
+base.door.25b06508-10aa-43de-a3c7-24880b8afd72.text	
+base.door.d5183d93-4f22-4aa2-a6fb-bacb6fa1d33e.text	
+base.door.e0be0f5f-0724-4d82-b577-c55ff5b74839.text	
+base.door.b42aff04-6ff2-41c2-af92-637b283b8ea5.text	
+base.door.2413c379-f721-42d6-aca8-e1fb7eb9011f.text	
+base.door.fe64f0ce-af63-467d-8ad1-0ee7ddbc344f.text	
+base.door.ca594201-bd83-4215-8b5a-88f5359bd827.text	
+base.door.5705ed95-b87d-4cc0-9daf-f6382be734a8.text	
+base.door.6f8d05dd-10e6-41b3-813b-a74d4afa2a62.text	
+base.door.a6ebc11c-6d9a-462c-b8e9-b2ec5e2d0222.text	
+base.door.7ff31d6d-05bd-4b10-bae9-fe18ba7ea087.text	
+base.door.08bbdd74-a5bb-4150-980a-63ffb491e787.text	
+base.door.094b1e99-e8e3-4111-8ad7-6d9f57c62bc4.text	
+base.door.388e4af8-ba44-4715-9962-455838bfbe73.text	
+base.door.dda0c66f-0b6b-40dc-bd2c-4f0728c8089a.text	
+base.door.3427143b-61fc-4317-a299-6c5333462a70.text	
+base.door.b1cc599b-1ab0-4980-ad9a-f99882647fb0.text	
+base.door.26a21bc0-e8c9-49df-b088-67d1232fb7b6.text	
+base.door.ff722a55-5407-439d-b7af-57f633e0dbf3.text	
+base.door.11906a8f-4622-47bd-91ba-a6f5bedb0e5d.text	
+base.door.2faaf8ea-2915-42dc-a71a-91f7ef6c2b9f.text	
+base.door.9fa924db-5b36-4831-9f6e-de8303b001b0.text	
+base.door.df82e0d2-07a4-47aa-b6cb-0a0281a2f2cc.text	
+base.door.3b6f7658-e53f-4713-b447-16785e3eb036.text	
+base.door.d9952bfe-f65d-4d46-881a-7e1a2e46f06f.text	
+base.door.97567e5e-96cf-4ddb-9112-2fce279a0138.text	
+base.door.6e83b590-71df-48b3-acdc-481e1a2be7fe.text	
+base.door.4e25e9b2-f39b-426e-9fc0-134d00226b98.text	
+base.door.bf201553-be7c-4479-a7a0-9cc417588198.text	
+base.door.a3f1f98e-27d1-4bd5-b97f-203a89114790.text	
+base.door.e93e7b43-62bd-4ab3-be4c-506c8a6a621c.text	
+base.door.8ab95f50-2c7a-4e6b-ae43-51a51b64b5d3.text	
+base.door.afed7786-e2e9-4ca2-a0a6-d30d6df3702b.text	
+base.door.cd3f3f05-8317-450c-86e4-fd91e0c06bb4.text	
+base.door.af48c486-1888-4e7e-ad55-0b48d227af3c.text	
+base.door.65dee751-4508-4804-8faa-b17fa9c4ed79.text	
+base.door.aa5584c1-fd5d-49a5-8cc0-75f3422c8e6a.text	
+base.door.37b667a1-23ac-4a5f-9427-afff2dad4705.text	
+base.door.4977fc4f-66df-40a6-b5ca-562bb4c8b112.text	
+base.door.3ee0b351-54f2-4480-9aa3-380d2593e84a.text	
+base.door.55e5c91e-a987-4900-abec-0f502175288a.text	
+base.door.db29801c-5fe4-4a6c-9e41-35752d1a36bb.text	
+base.door.43b16c0e-49ac-4688-8db8-5737cbd50eef.text	
+base.door.3fb5c60b-98a1-4775-b7b7-7c02910732f2.text	
+base.door.4d052f9a-2def-4ab8-b100-fde850b71507.text	
+base.door.88716968-ead5-4473-9db2-85b9e9f69ef0.text	
+base.door.6832d810-5af2-40f9-9877-0dfe91d808f2.text	
+base.door.79d7e37c-ad44-460e-a1e9-e65bceeaed00.text	
+base.door.ef2c8c7e-3043-46a6-ba47-c69ab67f7f2f.text	
+base.door.739ed395-dbbd-4108-92c3-4cbfd317e9c5.text	
+base.door.83ddfb20-2791-40bb-ba58-c051ae2eae9c.text	
+base.door.2f0b14f5-4aab-4855-b9c6-3a340349af8a.text	
+base.door.4a0ad1cf-01bf-423a-9328-e983d188032f.text	
+base.door.f906cf16-5a1a-422c-b3fa-9ec583e54c4e.text	
+base.door.63df5d66-f885-4e54-94f7-2cf4e1a8b8d0.text	
+base.door.b9d66767-ceee-47bb-a428-691cb557c716.text	
+base.door.cc935bfb-40a1-42c0-9c14-d89f91662971.text	
+base.door.53f277b6-ed4b-498d-a582-a2d31c38bf52.text	
+base.door.93a5ec2f-ee7f-4654-a28d-fcf045fa0f97.text	
+base.door.25586aec-1ac3-4b4b-9c9a-bead276efac1.text	
+base.door.96f29253-b3f9-483f-8028-2e96e2aa519f.text	
+base.door.da9241e2-ed86-4ee1-9a5b-637c95598d4d.text	
+base.door.e013dc7b-77a6-458c-af20-30de04317cc0.text	
+base.door.6bcc1629-aaea-409b-9dbc-7fe53576d6a6.text	
+base.door.db4f0e50-a540-4f28-bf8c-cc3eef7d8110.text	
+base.door.bf631030-1e99-4ccc-ae8f-a538a9038c0b.text	
+base.door.07501f59-6c5a-41fb-99be-e6b0706e001d.text	
+base.door.45814a37-7d87-4333-8e69-3068628f2474.text	
+base.door.b6ec7ed3-9676-42c9-a55b-f5803f12470d.text	
+base.door.b95cafbd-d581-43ff-a08b-39979135b256.text	
+base.door.efa6fd1e-5308-467c-ae0e-2db9ccfe211a.text	
+base.door.db238a1c-81ef-4b02-8bc2-4dcb50577ab3.text	
+base.door.68e54c25-7e83-4c13-ab9a-13d1381d5850.text	
+base.door.8cf2ebf1-610d-448e-a5f6-76f4c73d8176.text	
+base.door.04774ddc-83e9-48a2-b1ed-3ae630e511b3.text	
+base.door.47b91b62-624d-4543-a0da-50e55cf47a56.text	
+base.door.50de36e5-d3ba-4bd6-abe2-694c8f1c2d7e.badstuff	
+base.door.278b4940-f066-4019-a0e5-4f9a5cc09f0e.badstuff	
+base.door.a3f1f98e-27d1-4bd5-b97f-203a89114790.badstuff	
+base.door.e93e7b43-62bd-4ab3-be4c-506c8a6a621c.badstuff	
+base.door.8ab95f50-2c7a-4e6b-ae43-51a51b64b5d3.badstuff	
+base.door.afed7786-e2e9-4ca2-a0a6-d30d6df3702b.badstuff	
+base.door.cd3f3f05-8317-450c-86e4-fd91e0c06bb4.badstuff	
+base.door.af48c486-1888-4e7e-ad55-0b48d227af3c.badstuff	
+base.door.65dee751-4508-4804-8faa-b17fa9c4ed79.badstuff	
+base.door.aa5584c1-fd5d-49a5-8cc0-75f3422c8e6a.badstuff	
+base.door.37b667a1-23ac-4a5f-9427-afff2dad4705.badstuff	
+base.door.4977fc4f-66df-40a6-b5ca-562bb4c8b112.badstuff	
+base.door.3ee0b351-54f2-4480-9aa3-380d2593e84a.badstuff	
+base.door.55e5c91e-a987-4900-abec-0f502175288a.badstuff	
+base.door.db29801c-5fe4-4a6c-9e41-35752d1a36bb.badstuff	
+base.door.43b16c0e-49ac-4688-8db8-5737cbd50eef.badstuff	
+base.door.3fb5c60b-98a1-4775-b7b7-7c02910732f2.badstuff	
+base.door.4d052f9a-2def-4ab8-b100-fde850b71507.badstuff	
+base.door.88716968-ead5-4473-9db2-85b9e9f69ef0.badstuff	
+base.door.6832d810-5af2-40f9-9877-0dfe91d808f2.badstuff	
+base.door.79d7e37c-ad44-460e-a1e9-e65bceeaed00.badstuff	
+base.door.ef2c8c7e-3043-46a6-ba47-c69ab67f7f2f.badstuff	
+base.door.739ed395-dbbd-4108-92c3-4cbfd317e9c5.badstuff	
+base.door.83ddfb20-2791-40bb-ba58-c051ae2eae9c.badstuff	
+base.door.2f0b14f5-4aab-4855-b9c6-3a340349af8a.badstuff	
+base.door.4a0ad1cf-01bf-423a-9328-e983d188032f.badstuff	
+base.door.f906cf16-5a1a-422c-b3fa-9ec583e54c4e.badstuff	
+base.door.63df5d66-f885-4e54-94f7-2cf4e1a8b8d0.badstuff	
+base.door.b9d66767-ceee-47bb-a428-691cb557c716.badstuff	
+base.door.cc935bfb-40a1-42c0-9c14-d89f91662971.badstuff	
+base.door.53f277b6-ed4b-498d-a582-a2d31c38bf52.badstuff	
+base.door.93a5ec2f-ee7f-4654-a28d-fcf045fa0f97.badstuff	
+base.door.25586aec-1ac3-4b4b-9c9a-bead276efac1.badstuff	
+base.door.96f29253-b3f9-483f-8028-2e96e2aa519f.badstuff	
+base.door.da9241e2-ed86-4ee1-9a5b-637c95598d4d.badstuff	
+base.door.e013dc7b-77a6-458c-af20-30de04317cc0.badstuff	
+base.door.6bcc1629-aaea-409b-9dbc-7fe53576d6a6.badstuff	
+monster.thumbnail.rewardlevels	
+monster.thumbnail.treasures	
+monster.badstuff	
+base.treasure.809a7b83-272b-4f46-9e6e-8b7db792beb6.name	
+base.treasure.9ea3a17f-97f6-4aa7-a1c0-a287ce74e8f7.name	
+base.treasure.4eef09b0-311c-4a21-bed3-b8b320618218.name	
+base.treasure.0e5c6c75-98ab-4bee-b3d8-98018b63a50d.name	
+base.treasure.53998110-a846-46d9-8e0f-3986f5a3038d.name	
+base.treasure.22f8ccc0-072b-4c86-ab72-0d12bec6fe01.name	
+base.treasure.11a0ccea-b9ac-4a91-a00e-a6a227da377c.name	
+base.treasure.b7770f9c-5ec6-40a3-813c-45ecec1758ca.name	
+base.treasure.9957a953-ba2b-4dd6-b74e-a74a0421c672.name	
+base.treasure.377084fc-4baa-4efa-944b-fd090892c031.name	
+base.treasure.eb7c59af-c029-4b93-bf65-1cca669e1d1a.name	
+base.treasure.1c542973-9445-452b-8bb9-c8de9c5e431b.name	
+base.treasure.a93afb4f-fc2a-489b-9f94-e5ee450af48f.name	
+base.treasure.f08f4fef-42c6-4b3e-b189-cc5dd37d00a8.name	
+base.treasure.57f25b88-39fc-448c-b345-bcd6f8cf18d9.name	
+base.treasure.0ec11cb6-b54b-4149-907f-c5c593de9f83.name	
+base.treasure.b25c2d56-b5b7-4f69-ad18-50218663e904.name	
+base.treasure.d2e348c6-1d45-4de2-b4ba-f1b5299594f7.name	
+base.treasure.9b45cc0d-e712-40df-b3f6-f8367737a241.name	
+base.treasure.b7b46f34-6a41-46ec-8931-df8080fc7e91.name	
+base.treasure.572c199d-5ef9-4e96-be7b-1878fc121faf.name	
+base.treasure.b493204a-28ba-4ff5-b17f-22bf0e0241b1.name	
+base.treasure.8ff92ccf-abcf-4190-b405-828766f21113.name	
+base.treasure.c6fe1a3b-7c10-4703-b4fb-497bb375389f.name	
+base.treasure.f7cd336c-60b8-4e61-a4fe-cb1e6dce2c39.name	
+base.treasure.bab711fd-f1c8-4524-8ab4-6ad7ad2a78c4.name	
+base.treasure.fd24ac44-4967-4a73-b8aa-06079d2b0905.name	
+base.treasure.c6a15483-66f3-4dbe-93be-cb1fb252e896.name	
+base.treasure.89a4bc60-e43e-4145-a2af-a82600c9c261.name	
+base.treasure.24b6690b-4ac7-4ad0-b8b2-14e93e59d441.name	
+base.treasure.960594e9-a865-42ea-ba5a-461f8063681d.name	
+base.treasure.3dc3ee77-f659-4958-bbad-e96d2150b04e.name	
+base.treasure.d161d2e4-ac68-4c7b-9717-0622bc3bc9cb.name	
+base.treasure.af149629-7862-46fe-ae34-032d32fe4426.name	
+base.treasure.b2dd96da-6302-4d5d-8f43-e1fb2efb10e4.name	
+base.treasure.5f2391a7-e51d-4404-a5ee-f2f9edaa6a2b.name	
+base.treasure.67b44251-96b9-431a-ac9d-f733809e7097.name	
+base.treasure.4e5de80a-9f85-42e7-8cf7-9e226f499824.name	
+base.treasure.63f73b7d-acc0-4122-a612-4840df4d776a.name	
+base.treasure.465e86f2-0caf-40cc-a01d-28009a2aaf4c.name	
+base.treasure.c75e93c1-aa61-4183-b61b-4e6865310279.name	
+base.treasure.4a31ba6f-b418-4549-91a2-2ff916079b76.name	
+base.treasure.e712b749-e3ea-4d07-9169-72c33baea44f.name	
+base.treasure.38254fbc-79f9-48fc-ae10-ebe6ee0fbb4d.name	
+base.treasure.a4b9df0f-71ad-4e20-9c61-cc2e6822d44d.name	
+base.treasure.e0b9571f-352f-4728-b29c-eee1d4870e7b.name	
+base.treasure.0c2c5abd-aea7-418e-9e9e-a2e19fe3d2ef.name	
+base.treasure.adb879cd-9d2b-408a-bac2-54a0bcad9e18.name	
+base.treasure.89f5f35f-d81e-4a95-8cc5-a9c188522bce.name	
+base.treasure.ec6ba1d5-3ecf-40a2-82b1-592fc7799d5c.name	
+base.treasure.f8f3606d-0532-46bf-aeba-060b370ca22a.name	
+base.treasure.6677b88d-6f08-49e9-adc0-5125f4549f41.name	
+base.treasure.4a44eff7-1d4d-43bc-8994-9d9e0533cfaf.name	
+base.treasure.7bc68e56-6b74-4c4e-80f1-d76e7456759b.name	
+base.treasure.40c01965-1169-4e05-a1c1-fc8719bb36bf.name	
+base.treasure.91af4f9b-1ab3-4e6d-a606-ee73d9511354.name	
+base.treasure.a7cfecc2-8f03-469c-86d1-eca7abd48563.name	
+base.treasure.8ca5bc1d-d31a-404f-8a2c-08d684acb661.name	
+base.treasure.e40ee953-081e-4b41-b095-0ca9ad681d8a.name	
+base.treasure.f1a6aaf7-47ca-4952-b46b-b2e9bd5ae27a.name	
+base.treasure.61bb425e-f07a-4db1-87cc-2fc4b8802c51.name	
+base.treasure.9cc482d6-25ea-4502-bb10-12ed4deff95e.name	
+base.treasure.af9daf73-1d23-4ac1-b3c2-88bc10587054.name	
+base.treasure.70b796bf-98e7-401d-b36f-e71399a3c403.name	
+base.treasure.93c7eb95-8657-4ae8-bdb7-21ab2029cbd0.name	
+base.treasure.d6b481cd-18fc-4de3-a5e3-95f0858bf832.name	
+base.treasure.c337a23b-3fa8-4295-96b7-e3706cdba824.name	
+base.treasure.bd195b65-4e6a-4674-aa26-b6562b50a7d2.name	
+base.treasure.bb8ffb65-35e4-4dcf-9860-af3bd016953b.name	
+base.treasure.f233b5ea-f811-4ea6-b518-cda41543639a.name	
+base.treasure.a685c4ed-40a4-4cd8-a640-02aa65d2c768.name	
+base.treasure.d45aaf27-559f-488f-a477-d6858bb56fad.name	
+base.treasure.809a7b83-272b-4f46-9e6e-8b7db792beb6.text	
+base.treasure.9ea3a17f-97f6-4aa7-a1c0-a287ce74e8f7.text	
+base.treasure.4eef09b0-311c-4a21-bed3-b8b320618218.text	
+base.treasure.0e5c6c75-98ab-4bee-b3d8-98018b63a50d.text	
+base.treasure.53998110-a846-46d9-8e0f-3986f5a3038d.text	
+base.treasure.22f8ccc0-072b-4c86-ab72-0d12bec6fe01.text	
+base.treasure.11a0ccea-b9ac-4a91-a00e-a6a227da377c.text	
+base.treasure.b7770f9c-5ec6-40a3-813c-45ecec1758ca.text	
+base.treasure.9957a953-ba2b-4dd6-b74e-a74a0421c672.text	
+base.treasure.1c542973-9445-452b-8bb9-c8de9c5e431b.text	
+base.treasure.9b45cc0d-e712-40df-b3f6-f8367737a241.text	
+base.treasure.572c199d-5ef9-4e96-be7b-1878fc121faf.text	
+base.treasure.b493204a-28ba-4ff5-b17f-22bf0e0241b1.text	
+base.treasure.f7cd336c-60b8-4e61-a4fe-cb1e6dce2c39.text	
+base.treasure.bab711fd-f1c8-4524-8ab4-6ad7ad2a78c4.text	
+base.treasure.fd24ac44-4967-4a73-b8aa-06079d2b0905.text	
+base.treasure.c6a15483-66f3-4dbe-93be-cb1fb252e896.text	
+base.treasure.3dc3ee77-f659-4958-bbad-e96d2150b04e.text	
+base.treasure.af149629-7862-46fe-ae34-032d32fe4426.text	
+base.treasure.b2dd96da-6302-4d5d-8f43-e1fb2efb10e4.text	
+base.treasure.5f2391a7-e51d-4404-a5ee-f2f9edaa6a2b.text	
+base.treasure.63f73b7d-acc0-4122-a612-4840df4d776a.text	
+base.treasure.c75e93c1-aa61-4183-b61b-4e6865310279.text	
+base.treasure.4a31ba6f-b418-4549-91a2-2ff916079b76.text	
+base.treasure.38254fbc-79f9-48fc-ae10-ebe6ee0fbb4d.text	
+base.treasure.0c2c5abd-aea7-418e-9e9e-a2e19fe3d2ef.text	
+base.treasure.adb879cd-9d2b-408a-bac2-54a0bcad9e18.text	
+base.treasure.89f5f35f-d81e-4a95-8cc5-a9c188522bce.text	
+base.treasure.ec6ba1d5-3ecf-40a2-82b1-592fc7799d5c.text	
+base.treasure.6677b88d-6f08-49e9-adc0-5125f4549f41.text	
+base.treasure.7bc68e56-6b74-4c4e-80f1-d76e7456759b.text	
+base.treasure.8ca5bc1d-d31a-404f-8a2c-08d684acb661.text	
+base.treasure.93c7eb95-8657-4ae8-bdb7-21ab2029cbd0.text	
+base.treasure.d6b481cd-18fc-4de3-a5e3-95f0858bf832.text	
+base.treasure.c337a23b-3fa8-4295-96b7-e3706cdba824.text	
+base.treasure.bd195b65-4e6a-4674-aa26-b6562b50a7d2.text	
+base.treasure.bb8ffb65-35e4-4dcf-9860-af3bd016953b.text	
+base.treasure.f233b5ea-f811-4ea6-b518-cda41543639a.text	
+base.treasure.a685c4ed-40a4-4cd8-a640-02aa65d2c768.text	
+base.treasure.d45aaf27-559f-488f-a477-d6858bb56fad.text	
+kin.item.requirements.class.cleric	
+kin.item.requirements.class.thief	
+kin.item.requirements.class.warrior	
+kin.item.requirements.class.wizard	
+kin.item.requirements.race.human	
+kin.item.requirements.race.dwarf	
+kin.item.requirements.race.elf	
+kin.item.requirements.race.halfling	
+kin.item.requirements.gender.male	
+kin.item.requirements.gender.female	
+kin.item.requirements.notclass.cleric	
+kin.item.requirements.notclass.thief	
+kin.item.requirements.notclass.warrior	
+kin.item.requirements.notclass.wizard	
+kin.item.requirements.notrace.human	
+kin.item.requirements.notrace.dwarf	
+kin.item.requirements.notrace.elf	
+kin.item.requirements.notrace.halfling	
+rules.askingforhelp.1	
+rules.askingforhelp.2	
+rules.askingforhelp.3	
+rules.askingforhelp.4	
+rules.characterstats.1	
+rules.characterstats.2	
+rules.characterstats.3	
+rules.characterstats.4	
+rules.death.1	
+rules.death.2	
+rules.monsters.1	
+rules.monsters.2	
+rules.monsters.3	
+rules.monsters.4	
+rules.monsters.5	
+rules.monsters.6	
+rules.monsters.7	
+rules.monsters.8	
+rules.overview.1	
+rules.overview.2	
+rules.overview.3	
+rules.overview.4	
+rules.overview.5	
+rules.overview.6	
+rules.overview.7	
+rules.overview.8	
+rules.overview.9	
+rules.overview.10	
+rules.overview.11	
+rules.overview.12	
+rules.overview.13	
+rules.treasures.1	
+rules.treasures.2	
+rules.treasures.3	
+rules.treasures.4	
+rules.treasures.5	
+rules.treasures.6	
+rules.treasures.7	
+rules.treasures.8	
+rules.variants.1	
+rules.variants.2	
+rules.variants.3	
+rules.variants.4	
+rules.variants.7	
+rules.variants.8	
+rules.combatoverview.1	
+rules.combatoverview.2	
+rules.combatoverview.3	
+rules.combatoverview.4	
+rules.curses.1	
+rules.curses.2	
+kin.setup.character.raceandclass	
+kin.setup.character.raceandclass.opponent	
+kin.setup.character.items	
+kin.setup.character.items.opponent	
+kin.setup.character.opponent	
+kin.jumpin	
+kin.jumpin.door	
+kin.jumpin.attack	
+kin.jumpin.beginpursuit	
+kin.jumpin.endofturn	
+kin.jumpin.endofturn.opponent	
+kin.jumpin.runaway	
+kin.jumpin.postrunaway	
+kin.jumpin.postcombat	
+kin.jumpin.precurse	
+kin.jumpin.abilities	
+kin.playerturn.begin	
+kin.playerturn.begin.opponent	
+kin.playerturn.lookfortrouble	
+kin.playerturn.draw	
+kin.playerturn.lookorloot	
+kin.playerturn.end	
+kin.playerturn.end.opponent	
+kin.core.play.class	
+kin.core.play.curse	
+kin.core.play.item	
+kin.core.play.race	
+kin.core.play.special	
+kin.core.play.monsterenhancer	
+kin.core.play.combatoneshot	
+kin.playerturn.charity.lastchance	
+kin.playerturn.charity.discard	
+kin.playerturn.charity.give	
+kin.playerturn.charity.giveplayer	
+kin.draw.play	
+match.actions.opendoor	
+match.actions.jumpin	
+kin.combat.begin	
+kin.combat.begin.opponent	
+match.actions.lootroom	
+match.actions.lookfortrouble	
+kin.prompts.givelevelup	
+kin.core.play.goupalevel	
+kin.base.door.cleric.turning	
+kin.base.door.cleric.resurrection.discard	
+kin.base.door.floatingnose.bribe	
+kin.base.door.halfling.runaway	
+kin.base.door.helpmeout.discard	
+kin.base.door.helpmeout.steal	
+kin.base.door.helpmeout.steal.opponent	
+kin.base.door.illusion.remove	
+kin.base.door.illusion.add	
+kin.base.door.lawyer.treasures	
+kin.base.door.pitbull.distract	
+kin.base.door.platycore.choose	
+kin.base.door.platycore.button.discardhand	
+kin.base.door.platycore.button.loselevels	
+kin.base.door.snailsonspeed.discard	
+kin.base.door.stonedgolem.avoid	
+kin.base.door.thief.theft.discard	
+kin.base.door.thief.theft.steal	
+kin.base.door.thief.backstab.discard	
+kin.base.door.thief.backstab.player	
+kin.base.door.tonguedemon.loseitem	
+kin.base.door.tonguedemon.loseitem.opponent	
+kin.base.door.wanderingmonster.monster	
+kin.base.door.warrior.berserking.discard	
+kin.base.door.wizard.charm.monster	
+kin.base.door.wizard.flight.discard	
+kin.base.door.curse.losebigitem.discard	
+kin.base.door.curse.losebigitem.discard.opponent	
+kin.base.door.curse.loseclass.discard	
+kin.base.door.curse.loseclass.discard.opponent	
+kin.base.door.curse.losesmallitem.discard	
+kin.base.door.curse.losesmallitem.discard.opponent	
+kin.base.door.curse.obnoxious.discard	
+kin.base.door.curse.obnoxious.discard.opponent	
+kin.base.door.supermunchkin.play	
+kin.base.door.halfbreed.play	
+kin.base.door.hippogriff.steal	
+kin.base.door.hippogriff.steal.opponent	
+kin.base.door.curse.incometax.select	
+kin.base.door.curse.incometax.tax	
+kin.base.door.curse.incometax.tax.opponent	
+kin.base.door.insurancesalesman.buy	
+kin.base.door.insurancesalesman.buy.opponent	
+kin.base.door.divineintervention.jumpin.cleric	
+kin.base.door.divineintervention.jumpin.cleric.opponent	
+kin.base.treasure.item.ratonastick.discard	
+kin.base.treasure.item.flaskofglue	
+kin.base.treasure.hireling.monster	
+kin.base.treasure.play.halitosis	
+kin.base.treasure.kneepadsofallure.compelled	
+kin.base.lootthebody	
+kin.base.lootthebody.opponent	
+kin.combat.askforhelp.players	
+kin.combat.askforhelp.bribe.type	
+kin.askforhelp.choosehowtreasure	
+kin.askforhelp.chooserandomtreasurecount	
+kin.askforhelp.choosewhopickstreasure	
+kin.askforhelp.choosecardsoffer	
+kin.askforhelp.bribeoffer	
+kin.askforhelp.sharetreasure	
+kin.askforhelp.givecards	
+kin.askforhelp.none	
+kin.askforhelp.random	
+kin.askforhelp.draft	
+kin.askforhelp.ntreasure	
+kin.askforhelp.onetreasure	
+kin.askforhelp.twotreasure	
+kin.askforhelp.threetreasure	
+kin.askforhelp.pickn	
+kin.askforhelp.pickone	
+kin.askforhelp.picktwo	
+kin.askforhelp.pickthree	
+kin.askforhelp.draft.you	
+kin.askforhelp.draft.them	
+kin.core.sellitems	
+kin.core.sellitems.opponent	
+kin.nocards	
+kin.pile.race	
+kin.pile.class	
+kin.pile.carried	
+kin.pile.equipped	
+kin.pile.useonparticipant	
+kin.pile.useonmonster	
+kin.pile.enhancemonster	
+kin.runaway.activateability.preroll	
+kin.runaway.activateability.postroll	
+kin.core.play.item.swap	
+kin.core.play.class.replace	
+kin.core.play.race.replace	
+kin.core.play.magiclamp	
+kin.core.play.wishingring	
+kin.prompts.activatecurseonplayer	
+kin.confirm.discard.class	
+kin.confirm.discard.race	
+kin.die.preroll	
+kin.die.header	
+kin.die.postroll	
+kin.choosebadstuff.discard	
+kin.choosebadstuff.losetwolevels	
+kin.waitingforplayer.selectavatar	
+kin.core.play.wandofdousing.pickcard	
+kin.base.door.cheat.item	
+kin.jumpin.door.active	
+kin.jumpin.attack.active	
+kin.jumpin.beginpursuit.active	
+kin.jumpin.runaway.active	
+kin.jumpin.postrunaway.active	
+kin.jumpin.postrunaway.opponent	
+kin.jumpin.postcombat.active	
+kin.jumpin.precurse.active	
+kin.core.play.undead	
+kin.prompt.askforhelp.draft.header	
+kin.askforhelp.draft.yourpick	
+kin.askforhelp.draft.opponentpick	
+kin.core.play.monsterenhancer.selectmonster	
+kin.prompt.swapitem.message	
+kin.base.door.leperchaun.discard	
+kin.base.door.leperchaun.discard.opponent	
+kin.runaway.choose.monster	
+kin.runaway.choose.monster.opponent	
+kin.setup.character.raceclass	
+kin.setup.character.raceclass.opponent	
+kin.setup.character.item	
+kin.setup.character.item.opponent	
+kin.core.play.pollymorph	
+kin.core.play.killhireling	
+kin.combat.askforhelp.player.helper	
+kin.combat.askforhelp.player.helper.opponent	
+kin.combat.askforhelp.response	
+kin.combat.askforhelp.response.subheader	
+kin.bribes.none	
+kin.askforhelp.receivecards	
+kin.thief.roll	
+kin.discardpile.treasure.header	
+kin.discardpile.door.header	
+kin.discardpile.choose.header	
+kin.combat.rewards.pre.draw	
+kin.modifyroll.subheader	
+kin.discardpile.view.header	
+kin.badstuff.roll	
+dialogmessages.aitakeover	
+kin.base.door.hireling.item	
+kin.base.door.hireling.item.swap	
+kin.jumpin.postroll	
+kin.modifyroll.header	
+kin.askforhelp.draftrequest	
+kin.combat.askforhelp.waiting	
+prompt.charity.header	
+kin.modifyroll.minimumrequired	
+kin.reconcile.lastchance	
+kin.reconcile.lastchance.sell	
+kin.reconcile.charity.discard	
+kin.reconcile.charity.discard.opponent	
+kin.reconcile.charity.give	
+kin.reconcile.charity.give.opponent	
+kin.reconcile.charity.giveplayer	
+kin.resurrection.header	
+kin.core.play.race.replace.alt	
+kin.core.play.class.replace.alt	
+kin.jumpin.precurse.opponent	
+kin.jumpin.abilities.opponent	
+kin.playerturn.charity.discard.opponent	
+kin.playerturn.lookorloot.opponent	
+kin.base.door.cleric.resurrection.discard.opponent	
+kin.combat.rewards.pre.draw.opponent	
+kin.draw.play.opponent	
+kin.prompt.swapclass.message	
+kin.prompt.swaprace.message	
+kin.core.play.stealalevel	
+kin.thief.roll.loadeddie	
+kin.combat.askforhelp.response.opponent	
+kin.trade.item.accept.opponent	
+kin.jumpin.confirm.opponent	
+kin.jumpin.stack.opponent	
+kin.jumpin.opponent	
+kin.jumpin.door.opponent	
+kin.jumpin.attack.opponent	
+kin.jumpin.beginpursuit.opponent	
+kin.jumpin.runaway.opponent	
+kin.jumpin.postcombat.opponent	
+kin.base.door.curse.incometax.select.opponent	
+kin.playerturn.draw.opponent	
+kin.combat.rewards.draft.pick.opponent	
+kin.base.door.nettroll.steal.opponent	
+kin.player.changegear.opponent	
+kin.playerturn.charity.lastchance.opponent	
+kin.playerturn.charity.give.opponent	
+kin.playerturn.charity.giveplayer.opponent	
+kin.jumpin.postroll.opponent	
+kin.reconcile.lastchance.opponent	
+kin.reconcile.charity.giveplayer.opponent	
+kin.base.door.snailsonspeed.discard.opponent	
+kin.base.door.platycore.choose.opponent	
+kin.combat.askforhelp.bribe.selections.opponent	
+kin.combat.askforhelp.players.opponent	
+kin.combat.askforhelp.bribe.type.opponent	
+kin.runawaysuccess.ability	
+kin.runaway.badstuff	
+kin.runawaysuccess.ability.opponent	
+kin.runaway.badstuff.opponent	
+kin.runaway.rolltarget	
+kin.base.door.nettroll.steal	
+kin.tooltip.1	
+kin.tooltip.gender.male	
+kin.tooltip.gender.female	
+kin.tooltip.editcharacter	
+kin.tooltip.genderneutral	
+kin.tooltip.fastplay	
+kin.tooltip.sharedvictory	
+kin.tooltip.playerhud.strength	
+kin.tooltip.race.human	
+kin.tooltip.race.dwarf	
+kin.tooltip.race.elf	
+kin.tooltip.race.halfling	
+kin.tooltip.class.none	
+kin.tooltip.class.cleric	
+kin.tooltip.class.thief	
+kin.tooltip.class.warrior	
+kin.tooltip.class.wizard	
+kin.tooltip.slowplay	
+kin.tooltip.inventory	
+kin.tooltip.askforhelp	
+kin.tooltip.monsterstrength	
+kin.tooltip.playerstrength	
+kin.tooltip.loottheroom	
+kin.tooltip.lookfortrouble	
+kin.tooltip.aimood.neutral	
+kin.tooltip.aimood.hostile	
+kin.tooltip.aimood.veryhostile	
+kin.tooltip.aimood.friendly	
+kin.tooltip.aimood.veryfriendly	
+kin.tooltip.ability.halfling	
+kin.tooltip.ability.resurrection	
+kin.tooltip.ability.turning	
+kin.tooltip.ability.backstabbing	
+kin.tooltip.ability.theft	
+kin.tooltip.ability.berserking	
+kin.tooltip.ability.flight	
+kin.tooltip.ability.charm	
+kin.tooltip.cardsinhand	
+tooltip.actionlog	
+tooltip.challengeinfo	
+kin.tooltip.eotjumpinwindow	
+kin.tooltip.discardpiles	
+tooltip.friendslist.owned	
+tooltip.friendslist.unowned	
+kin.tooltip.ability.hireling1	
+kin.tooltip.ability.hireling2	
+kin.tooltip.heldbyhireling	
+kin.tooltip.playedusingcheat	
+log.actionlog	
+log.start.game	
+log.turn.start	
+log.turn.start.your	
+log.kick.door.result	
+log.look.for.trouble	
+log.loot.room	
+log.cursed.door	
+log.combat.start	
+log.ask.help	
+log.accept.help	
+log.win.combat	
+log.win.combat.with.help	
+log.lose.combat	
+log.lose.combat.with.help	
+log.discard.monster	
+log.play.card.generic	
+log.monster.enhancer.bonus.strength	
+log.monster.enhancer.add.treasure	
+log.monster.enhancer.lose.treasure	
+log.play.card.carried	
+log.play.card.equipped	
+log.levelup	
+log.lose.levels	
+log.draw	
+log.face.up.draw	
+log.draw.doors	
+log.draw.treasures	
+log.shuffle.deck	
+log.die.roll	
+log.run.away.success	
+log.run.away.fail	
+log.charity.give	
+log.trade.items	
+log.sell.items	
+log.badstuff.death.1	
+log.badstuff.death.2	
+log.badstuff.death.3	
+log.badstuff.hippogriff.infront	
+log.badstuff.hippogriff.fromhand	
+log.badstuff.king.tut	
+log.badstuff.wight.brothers	
+log.badstuff.unspeakable.horror	
+log.badstuff.insurance.salesman	
+log.badstuff.bigfoot	
+log.tongue.demon.kiss	
+log.wannabe.vampire.oogabooga	
+log.badstuff.net.troll	
+log.amazon.friend	
+log.badstuff.amazon.class	
+log.badstuff.amazon.noclass	
+log.badstuff.ghoulfiends	
+log.badstuff.face.sucker.gear	
+log.lawyer.thief.courtesy	
+log.badstuff.lawyer	
+log.badstuff.platycore.discard	
+log.badstuff.platycore.lose2	
+log.badstuff.pukachu	
+log.badstuff.shrieking.geek	
+log.badstuff.leperchaun	
+log.badstuff.snails.on.speed	
+log.badstuff.gelatinous.octahedron	
+log.pit.bull.give.stick	
+log.badstuff.crabs	
+log.badstuff.drooling.slime.gear	
+log.badstuff.drooling.slime.nogear	
+log.curse.effect.change.class	
+log.curse.effect.lose class	
+log.curse.effect.change.race	
+log.curse.effect.lose.race	
+log.curse.effect.change.sex	
+log.curse.effect.chicken.head	
+log.curse.remove.chicken.head	
+log.curse.effect.doom.duck	
+log.curse.effect.income.tax.1	
+log.curse.effect.income.tax.2	
+log.curse.effect.lose.big	
+log.curse.effect.lose.level	
+log.curse.effect.lose.small	
+log.curse.effect.lose.armor	
+log.curse.effect.lose.headgear	
+log.curse.effect.lose.footgear	
+log.curse.effect.lose.2.cards	
+log.curse.effect.malign.mirror	
+log.curse.effect.obnoxious.curse	
+log.cleric.resurrect.draw	
+log.cleric.resurrect.discard	
+log.cleric.turning	
+log.thief.backstab	
+log.thief.theft.success	
+log.thief.theft.fail	
+log.warrior.berserking	
+log.wizard.flight.spell	
+log.wizard.charm.spell	
+log.elf.helper	
+log.halfling.double.sell	
+log.halfling.luck	
+log.sandals.protect	
+log.update.race	
+log.update.class	
+log.update.sex	
+log.wandering.monster	
+log.automatic.escape	
+log.badstuff.loseitems	
+log.cheat.used	
+log.divine.intervention	
+log.doppelganger	
+log.flask.of.glue	
+log.halitosis.vs.nose	
+log.help.me.out.here.steal	
+log.hireling.equip	
+log.hireling.killed	
+log.hireling.sacrifice	
+log.illusion	
+log.kneepads.compel	
+log.loaded.die	
+log.monster.enhancer.lose.strength	
+log.monster.enhancer.mate	
+log.one.shot.bonus.monsters	
+log.one.shot.bonus.players	
+log.rat.stick.discard	
+log.steal.level	
+log.tuba.bonus.treasure	
+log.undead.pile.on	
+log.wand.of.dowsing	
+log.wishing.ring	
+log.trade.items.one.sided	
+log.discard.generic	
+log.no.combat.generic	
+log.help.reward.random	
+log.help.reward.draft	
+log.help.reward.cards	
+t1.intro	
+t1.goal	
+t1.char.build	
+t1.moz.1.mobile	
+t1.moz.1.pc	
+t1.play.items	
+t1.play.items.2	
+t1.total.strength	
+t1.play.items2	
+t1.end.char.creation	
+t1.turn1	
+t1.harpies	
+t1.tie.v1	
+t1.class.v1	
+t1.tie.v2	
+t1.end.player.combat.phase	
+t1.gary.ponfusion	
+t1.easy	
+t1.gary.potion	
+t1.jump.in	
+t1.oneshot.v1	
+t1.oneshot.v2	
+t1.rewards	
+t1.charity.warning	
+t1.sell	
+t1.pass	
+t1.op1.chainsaw	
+t1.op1.jump.in	
+t1.op1.gary.annoyed	
+t1.op1.retort	
+t1.op1.gary.sulk	
+t1.op1.end.jump.in	
+t1.kick	
+t1.curse	
+t1.curse.2	
+t1.trouble	
+t1.trouble.2	
+t1.gary.comment	
+t1.help	
+t1.help.3	
+t1.offer.2	
+t1.offer.3	
+t1.op2.fight	
+t1.op2.enrage	
+t1.op2.gary.grumble	
+t1.op2.gary.loss	
+t1.trade	
+t1.trade.2	
+t1.trade.4	
+t1.op3.horror	
+t1.op3.death	
+t1.op3.death.2	
+t1.op3.tutorial.end	
+t1.op3.tutorial.end2	
+t1.op3.tutorial.end3	
+t1.play.items3.demo	
+t1.charity.warning.demo	
+t1.sell.demo	
+t1.pass.demo	
+t1.crabs.demo	
+kin.tutorial.leave	
+kin.tutorial.finish	
+t1.op3.tutorial.end1	
+t2.set.1	
+t2.set.2	
+t2.turn1.1	
+t2.turn1.2	
+t2.turn1.3	
+t2.turn1.4	
+t2.turn1.5	
+t2.turn1.7	
+t2.turn1.8	
+t2.turn1.9	
+t2.turn1.enemy.1	
+t2.turn1.enemy.2	
+t2.turn1.enemy.3	
+t2.turn1.enemy.4	
+t2.turn1.enemy.5	
+t2.turn1.enemy.6	
+t2.turn1.enemy.7	
+t2.turn1.enemy.8	
+t2.turn1.triggered.1	
+t2.turn1.triggered.2	
+t2.turn1.triggered.3	
+ftt.undead	
+ftt.multi.monster	
+t1.curse.3	
+tutorial.prompt.complete.header	
+tutorial.prompt.complete.body	
+tutorial.title.tutorial01	
+tutorial.description.tutorial01	
+tutorial.title.tutorial02	
+tutorial.description.tutorial02	
+tutorial.cardanatomy.title	
+tutorial.cardanatomy.geartype	
+tutorial.cardanatomy.goldcost	
+tutorial.cardanatomy.cardtype	
+eula.acceptterms	我同意
+eula.requestupdates	给我发送新闻
+eula.title	最终用户许可协议
+eula.body	<b>协议</b><br>通过使用包含此软件的Dire Wolf Digital游戏（“游戏”），您同意本最终用户许可协议（“协议”）是具有法律约束力和有效的合同，并同意被它约束。您同意遵守知识产权法和本协议的所有条款和条件。<br><br><b>请仔细阅读本最终使用许可协议，并确保您理解所有以下条款和条件，然后再访问或使用游戏服务。</b><br><br>您对游戏的使用表示您接受本协议和担保。<br><br>根据本协议的条款，Dire Wolf Digital会向您授予根据本协议和与Dire Wolf Digital达成的任何其他书面协议使用有限，非排他，不可转让的许可，而无分许可的权利使用游戏。Dire Wolf Digital不会将游戏的名称转让给您；授予您的许可并非出售许可。本协议是Dire Wolf Digital与游戏购买者或用户之间的具有约束力的法律协议。<br><br>如果您不同意本协议的约束，请立即从计算机或类似设备上删除游戏。<br><br><b>发行</b><br>此处授予的游戏和许可不得整体复制，共享，分发，转售，提供转售，转让或再许可<br><br><b>用户协议</b><br>您应在遵守所有适用法律的前提下使用游戏，不得将其用于任何非法目的。使用游戏意味着您已经在计算机或类似设备上加载，安装或运行了游戏。<br><br>要使用游戏的在线服务部分，必须创建一个帐户。仅当您在居住国具有完全法律行为能力且Dire Wolf Digital未特别禁止您创建帐户时，才能创建帐户。就本协议而言，在线服务表示与其他玩家进行聊天和玩多人游戏的方式和方法。<br><br>您不得使用，创建，推广或分发作弊，机器人，黑客程序或利用，更改或自动控制游戏的控件，游戏玩法或任何其他功能的任何软件。<br><br>您不得使用任何收集或整理由游戏生成或存储的数据的程序或软件。<br><br>您不得与色情，种族主义，粗俗，淫秽，诽谤，诽谤，辱骂性材料一起使用，展示或分发游戏，基于宗教，种族，种族，性别，性取向或年龄，煽动仇恨，歧视或显示偏见。<br><br><b>版权限制</b><br>该游戏包含受版权保护的材料，商业秘密和其他专有材料。您不得也不得尝试对游戏进行修改，反向工程，反汇编或反编译。您不得创建全部或部分基于或衍生自游戏的任何衍生作品或其他作品。<br><br>Dire Wolf Digital游戏的名称，徽标和图形文件不得用于以任何方式推广非Dire Wolf Digital产品。Dire Wolf Digital保留对游戏以及与游戏有关的所有权利，所有权和利益以及与之相关的所有知识产权的唯一专有权。<br><br>版权法和国际版权条约规定保护游戏，产品，和服务。用户不得以任何方式复制或使用任何程序，代码，零件，图像，音频样本或文本，除非在单个用户程序的范围之内。此处未明确授予的所有权利保留给Dire Wolf Digital。<br><br><b>责任限制</b><br>若您因使用Dire Wolf Digital的软件而产生任何索赔，诉讼，要求和费用。您将赔偿Dire Wolf Digital及其雇员，代理商和分销商，使其免受损害，并在必要时为其辩护。<br><br>在任何情况下（包括但不限于疏忽），Dire Wolf Digital，其员工，代理商或分销商均不对任何后果性，偶然性，间接，特殊或惩罚性损害负责（包括但不限于），与本协议，游戏或游戏的使用或无法使用相关的或与之相关或由其引起的利润损失，使用损失，业务中断，信息或数据丢失或金钱损失的赔偿）根据合同，侵权或任何其他理论，包括疏忽，提供，履行或使用本协议项下的任何其他事项。<br><br><b>担保</b><br>除非书面明确声明，否则Dire Wolf Digital不对本软件做出任何保证，并明确排除所有其他明示或暗示，口头或书面的保证，包括但不限于针对特定目的的适销质量或适用性的任何暗示保证。<br><br><b>法律</b><br>本协议应受科罗拉多州法律管辖并根据其解释，而不考虑法律冲突原则。根据本EULA引起的任何争议应仅在科罗拉多州丹佛市和县的联邦或州法院审理，您在此不可撤销地同意这些法院的非专属管辖权。如果本协议的任何条款被认为是非法，无效或无法执行的，则该条款应被视为可从本许可证中分割，并且不影响任何其他条款的有效性和可执行性。<br><br><b>终止条款</b><br>任何不遵守本协议条款和条件的行为都会导致本许可的自动立即终止。出于任何原因终止本许可后，您同意立即停止使用游戏并销毁根据本协议提供的游戏的所有副本。您所承担的财务义务将在本许可到期或终止后继续有效。<br><br><b>免责声明</b><br>本软件和随附的文件以“原样”提供，且不作任何形式的明示或暗示的担保（包括但不限于对特定用途的性能，适销性或适用性的任何暗示担保），并且不承担所有此类担保。此免责声明也包含游戏所生成和编辑的所有文件。<br><br>
+ai.avatar.floatingnose	Nosy Ned
+ai.avatar.wightbrothers	The Brothers Wight
+ai.avatar.plutoniumdragon	Dr. Dragon
+ai.avatar.bullrog	Fred
+ai.avatar.pottedplant	Peaty Potter
+ai.avatar.theshadow	The Shadow
+ai.avatar.fredflametoe	Terry Flametoe
+ai.avatar.largeangrychicken	Mr. Chicken
+ai.avatar.mrbones	Ben Bonesly
+ai.avatar.tonguedemon	Lana Longton
+ai.avatar.nettroll	Ted Trollbooth
+ai.avatar.carolcatsuit	Carol Catsuit
+ai.avatar.slimysal	Slimy Sal
+ai.avatar.harriethippietin	Harriet Hippietin
+ai.avatar.sallyswording	Sally Butterknife
+ai.avatar.earlyuppiedink	Earl Yuppiedink
+ai.avatar.debbieaxerow	Debbie Axerow
+ai.avatar.courageouscarl	Courageous Carl
+ai.avatar.insurancesalesman	Sal from Sales
+ai.avatar.stonedgolem	Rocky
+ai.avatar.wannabeevampire	Count Wannabee
+ai.avatar.pierrearrlington	Pierre Arrlington
+ai.avatar.ghouliaghostly	Ghoulia Ghostly
+ai.avatar.randyrulefinder	Randy Rulefinder
+ai.avatar.ottoorcington	Otto Orcington
+ai.avatar.mwelbybalding	Welby Balding
+ai.avatar.pandolfpocus	Pandolf Pocus
+ai.avatar.maulrat	Maulery Ratstuff
+ai.avatar.breehornshield	Brie Hornshield
+ai.avatar.sueshorterly	Sue Shorterly
+ai.avatar.morwengreenfoot	Morwen Greenfoot
+kin.challenge.trackmeet.name	
+kin.challenge.trackmeet.normal.description	
+kin.challenge.trackmeet.heroic.description	
+kin.challenge.superduper.name	
+kin.challenge.superduper.normal.description	
+kin.challenge.superduper.heroic.description	
+kin.challenge.rulesofattraction.name	
+kin.challenge.rulesofattraction.normal.description	
+kin.challenge.rulesofattraction.heroic.description	
+kin.challenge.babyland.name	
+kin.challenge.babyland.normal.description	
+kin.challenge.babyland.heroic.description	
+kin.challenge.veryhelpful.name	
+kin.challenge.veryhelpful.normal.description	
+kin.challenge.veryhelpful.heroic.description	
+kin.challenge.dicechucker.name	
+kin.challenge.dicechucker.normal.description	
+kin.challenge.dicechucker.heroic.description	
+kin.challenge.neveradullmoment.name	
+kin.challenge.neveradullmoment.normal.description	
+kin.challenge.neveradullmoment.heroic.description	
+kin.challenge.charactersheetconfusion.name	
+kin.challenge.charactersheetconfusion.normal.description	
+kin.challenge.charactersheetconfusion.heroic.description	
+kin.challenge.merchantofmenace.name	
+kin.challenge.merchantofmenace.normal.description	
+kin.challenge.merchantofmenace.heroic.description	
+kin.challenge.loner.name	
+kin.challenge.loner.normal.description	
+kin.challenge.loner.heroic.description	
+kin.challenge.doubletrouble.name	
+kin.challenge.doubletrouble.normal.description	
+kin.challenge.doubletrouble.heroic.description	
+kin.challenge.pantslessjuggler.name	
+kin.challenge.pantslessjuggler.normal.description	
+kin.challenge.pantslessjuggler.heroic.description	
+kin.challenge.curses.name	
+kin.challenge.curses.normal.description	
+kin.challenge.curses.heroic.description	
+marketing.1	
+marketing.2	
+marketing.3	
+marketing.4	
+marketing.5	
+marketing.6	
+marketing.7	
+marketing.8	
+marketing.9	
+marketing.10	
+marketing.11	
+marketing.12	
+marketing.13	
+marketing.14	
